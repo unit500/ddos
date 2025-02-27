@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Hacked by MatrixMan</title>
+<style>
+        /* Styling untuk tampilan defacer */
+        @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+        body {
+            background-color: black;
+            color: #00ff00;
+            font-family: 'Share Tech Mono', monospace;
+            padding: 20px;
+            overflow: hidden;
+            text-align: center;
+        }
+        
+        /* Efek glitch untuk teks utama */
+        .glitch {
+            font-size: 40px;
+            font-weight: bold;
+            position: relative;
+            display: inline-block;
+            animation: glitch 1s infinite linear alternate;
+        }
+        
+        @keyframes glitch {
+            0% { text-shadow: 2px 2px red, -2px -2px blue; }
+            50% { text-shadow: -2px -2px red, 2px 2px blue; }
+            100% { text-shadow: 2px -2px blue, -2px 2px red; }
+        }
+        
+        /* Terminal output area */
+        #terminal {
+            white-space: pre-wrap;
+            font-size: 18px;
+            margin-top: 20px;
+        }
+        
+        /* Efek berkedip untuk kursor */
+        @keyframes blink {
+            50% { opacity: 0; }
+        }
+        
+        .cursor {
+            display: inline-block;
+            width: 10px;
+            height: 18px;
+            background-color: #00ff00;
+            animation: blink 1s infinite;
+        }
+        
+        /* Background animasi glitch */
+        .glitch-bg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: url('https://i.gifer.com/V4Ph.gif') repeat;
+            opacity: 0.2;
+            z-index: -1;
+        }
+    </style>
+</head>
+<body>
+<div class="glitch">HACKED BY MATRIXMAN</div>
+<div id="terminal"></div>
+<div class="glitch-bg"></div>
+<!-- Audio otomatis diputar saat halaman dibuka -->
+<audio autoplay="" id="hackSound">
+<source src="https://cdn.glitch.global/392f3516-2da0-47ea-9f2d-169a9e5806e0/SpotifyMate.com%20-%20Peri%20Cintaku%20-%20Ziva%20Magnolya.mp3?v=1740283624407" type="audio/mp3"/>
+</audio>
+<script>
+        const text = [
+            "MatrixMan initializing hack...", 
+            "Bypassing firewall...", 
+            "Accessing mainframe...", 
+            "Wait... Something feels off...", 
+            "Realization: She and i will never together...", 
+            "System error...", 
+            "Exiting..."
+        ];
+        
+        let index = 0; 
+        let terminal = document.getElementById("terminal"); 
+        
+        function typeText() {
+            if (index < text.length) {
+                let line = document.createElement("div");
+                terminal.appendChild(line);
+                let i = 0;
+                
+                let interval = setInterval(() => {
+                    if (i < text[index].length) {
+                        line.textContent += text[index][i];
+                        i++;
+                    } else {
+                        clearInterval(interval); 
+                        index++;
+                        setTimeout(typeText, 1000); 
+                    }
+                }, 100);
+            } else {
+                terminal.innerHTML += "\n<span class='cursor'></span>";
+            }
+        }
+        
+        typeText(); 
+    </script>
+</body>
+</html>
