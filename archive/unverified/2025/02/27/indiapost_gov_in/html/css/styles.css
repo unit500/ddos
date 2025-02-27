@@ -1,0 +1,436 @@
+body {
+    color: #000000;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif !important;
+}
+
+@media screen and (-ms-high-contrast: none) {
+    .row > div > a:focus img, .row > li > a:focus img, .nav > li > a:focus, .row > div > figure > a:focus img, .NationalPortalImg:focus img, .indiacodeImg:focus img, label.radio-inline input[type=radio], .radio-inline:focus input[type=radio], label.radio-inline input[type=radio]:focus,
+    .btn-default2:focus, .input-group:focus img, .imgButtonCaptcha:focus, .item > ul > li > a:focus, a#telephone:focus, a[href^="#News"]:focus, .captchaimg:focus, .captchamath:focus, input[type="radio"]:checked, label.radio-inline input[type=radio]:checked, .news_row p:focus, .news_detail :focus p,
+    .nav-tabs > li.active > a:focus, input :focus, textarea:focus, select:focus, input[type=radio]:focus, label.radio-inline:focus input[type=radio], .signin1 > a:focus, .more:focus, .tcsLink:focus, .radio-inline:focus, .imgButtonCaptcha:focus, .NationalPortalofIndia :focus, .indiacode :focus, .news_heading .pdf-image:focus,.levelHolderClass > ul > li >a:focus  {
+        text-decoration: none;
+        color: #337ab7!important;
+        border: 1px solid #337ab7;
+    }
+
+    .row .input-group .form-control:focus, .form-group .btn-default2:focus, .form-group .btn-danger:focus, .row .input-group .input-group-addon:focus, .input[type=image]:focus, .input-group-addon:focus input[type=image], .input-group-addon:focus, textarea:focus, :last-child.input-group-addon:focus,
+    .row .captcha_text:focus, input[type=text]:focus, .form-control:focus, .captchaimg:focus, .captchamath:focus, .imgButtonCaptcha:focus, .news_heading .pdf-image:focus,.levelHolderClass > ul > li >a:focus {
+        text-decoration: none;
+        color: #337ab7!important;
+        border: 1px solid #337ab7;
+    }
+}
+
+
+
+@media only screen and (max-width: 320px) {
+	.row > div > a:focus img, .row > li > a:focus img, .nav > li > a:focus, .row > div > figure > a:focus img, .NationalPortalImg:focus img, .indiacodeImg:focus img, label.radio-inline input[type=radio], .radio-inline:focus input[type=radio], label.radio-inline input[type=radio]:focus,
+    .btn-default2:focus, .input-group:focus img, .imgButtonCaptcha:focus, .item > ul > li > a:focus, a#telephone:focus, a[href^="#News"]:focus, .captchaimg:focus, .captchamath:focus, input[type="radio"]:checked, label.radio-inline input[type=radio]:checked, .news_row p:focus, .news_detail :focus p,
+    .nav-tabs > li.active > a:focus, input :focus, textarea:focus, select:focus, input[type=radio]:focus, label.radio-inline:focus input[type=radio], .signin1 > a:focus, .more:focus, .tcsLink:focus, .radio-inline:focus, .imgButtonCaptcha:focus, .NationalPortalofIndia :focus, .indiacode :focus, .news_heading .pdf-image:focus,.levelHolderClass > ul > li >a:focus{
+        text-decoration: none;
+        color: #337ab7!important;
+        border: 1px solid #337ab7;
+    }
+
+    .row .input-group .form-control:focus, .form-group .btn-default2:focus, .form-group .btn-danger:focus, .row .input-group .input-group-addon:focus, .input[type=image]:focus, .input-group-addon:focus input[type=image], .input-group-addon:focus, textarea:focus, :last-child.input-group-addon:focus,
+    .row .captcha_text:focus, input[type=text]:focus, .form-control:focus, .captchaimg:focus, .captchamath:focus, .imgButtonCaptcha:focus, .news_heading .pdf-image:focus, .levelHolderClass > ul > li >a:focus {
+        text-decoration: none;
+        color: #337ab7!important;
+        border: 1px solid #337ab7;
+    }
+}
+@media only screen and (min-width: 321px) and (max-width: 480px) {
+	.row > div > a:focus img, .row > li > a:focus img, .nav > li > a:focus, .row > div > figure > a:focus img, .NationalPortalImg:focus img, .indiacodeImg:focus img, label.radio-inline input[type=radio], .radio-inline:focus input[type=radio], label.radio-inline input[type=radio]:focus,
+    .btn-default2:focus, .input-group:focus img, .imgButtonCaptcha:focus, .item > ul > li > a:focus, a#telephone:focus, a[href^="#News"]:focus, .captchaimg:focus, .captchamath:focus, input[type="radio"]:checked, label.radio-inline input[type=radio]:checked, .news_row p:focus, .news_detail :focus p,
+    .nav-tabs > li.active > a:focus, input :focus, textarea:focus, select:focus, input[type=radio]:focus, label.radio-inline:focus input[type=radio], .signin1 > a:focus, .more:focus, .tcsLink:focus, .radio-inline:focus, .imgButtonCaptcha:focus, .NationalPortalofIndia :focus, .indiacode :focus, .news_heading .pdf-image:focus,.levelHolderClass > ul > li >a:focus{
+        text-decoration: none;
+        color: #337ab7!important;
+        border: 1px solid #337ab7;
+    }
+
+    .row .input-group .form-control:focus, .form-group .btn-default2:focus, .form-group .btn-danger:focus, .row .input-group .input-group-addon:focus, .input[type=image]:focus, .input-group-addon:focus input[type=image], .input-group-addon:focus, textarea:focus, :last-child.input-group-addon:focus,
+    .row .captcha_text:focus, input[type=text]:focus, .form-control:focus, .captchaimg:focus, .captchamath:focus, .imgButtonCaptcha:focus, .news_heading .pdf-image:focus, .levelHolderClass > ul > li >a:focus {
+        text-decoration: none;
+        color: #337ab7!important;
+        border: 1px solid #337ab7;
+    }
+}
+
+
+#top-header-column ul li a {color: black !important}
+.carousel-control:focus, .carousel-control:hover {opacity: 5 !important;}
+
+
+
+@media only screen and (min-width: 481px) and (max-width: 700px) {
+	.row > div > a:focus img, .row > li > a:focus img, .nav > li > a:focus, .row > div > figure > a:focus img, .NationalPortalImg:focus img, .indiacodeImg:focus img, label.radio-inline input[type=radio], .radio-inline:focus input[type=radio], label.radio-inline input[type=radio]:focus,
+    .btn-default2:focus, .input-group:focus img, .imgButtonCaptcha:focus, .item > ul > li > a:focus, a#telephone:focus, a[href^="#News"]:focus, .captchaimg:focus, .captchamath:focus, input[type="radio"]:checked, label.radio-inline input[type=radio]:checked, .news_row p:focus, .news_detail :focus p,
+    .nav-tabs > li.active > a:focus, input :focus, textarea:focus, select:focus, input[type=radio]:focus, label.radio-inline:focus input[type=radio], .signin1 > a:focus, .more:focus, .tcsLink:focus, .radio-inline:focus, .imgButtonCaptcha:focus, .NationalPortalofIndia :focus, .indiacode :focus, .news_heading .pdf-image:focus,.levelHolderClass > ul > li >a:focus {
+        text-decoration: none;
+        color: #337ab7!important;
+        border: 1px solid #337ab7;
+    }
+
+    .row .input-group .form-control:focus, .form-group .btn-default2:focus, .form-group .btn-danger:focus, .row .input-group .input-group-addon:focus, .input[type=image]:focus, .input-group-addon:focus input[type=image], .input-group-addon:focus, textarea:focus, :last-child.input-group-addon:focus,
+    .row .captcha_text:focus, input[type=text]:focus, .form-control:focus, .captchaimg:focus, .captchamath:focus, .imgButtonCaptcha:focus, .news_heading .pdf-image:focus,.levelHolderClass > ul > li >a:focus {
+        text-decoration: none;
+        color: #337ab7!important;
+        border: 1px solid #337ab7;
+    }
+}
+@media only screen and (min-width: 701px) and (max-width: 960px) {
+	.row > div > a:focus img, .row > li > a:focus img, .nav > li > a:focus, .row > div > figure > a:focus img, .NationalPortalImg:focus img, .indiacodeImg:focus img, label.radio-inline input[type=radio], .radio-inline:focus input[type=radio], label.radio-inline input[type=radio]:focus,
+    .btn-default2:focus, .input-group:focus img, .imgButtonCaptcha:focus, .item > ul > li > a:focus, a#telephone:focus, a[href^="#News"]:focus, .captchaimg:focus, .captchamath:focus, input[type="radio"]:checked, label.radio-inline input[type=radio]:checked, .news_row p:focus, .news_detail :focus p,
+    .nav-tabs > li.active > a:focus, input :focus, textarea:focus, select:focus, input[type=radio]:focus, label.radio-inline:focus input[type=radio], .signin1 > a:focus, .more:focus, .tcsLink:focus, .radio-inline:focus, .imgButtonCaptcha:focus, .NationalPortalofIndia :focus, .indiacode :focus, .news_heading .pdf-image:focus,.levelHolderClass > ul > li >a:focus {
+        text-decoration: none;
+        color: #337ab7!important;
+        border: 1px solid #337ab7;
+    }
+
+    .row .input-group .form-control:focus, .form-group .btn-default2:focus, .form-group .btn-danger:focus, .row .input-group .input-group-addon:focus, .input[type=image]:focus, .input-group-addon:focus input[type=image], .input-group-addon:focus, textarea:focus, :last-child.input-group-addon:focus,
+    .row .captcha_text:focus, input[type=text]:focus, .form-control:focus, .captchaimg:focus, .captchamath:focus, .imgButtonCaptcha:focus, .news_heading .pdf-image:focus, .levelHolderClass > ul > li >a:focus {
+        text-decoration: none;
+        color: #337ab7!important;
+        border: 1px solid #337ab7;
+    }
+}
+@media only screen and (min-width: 961px) {
+	.row > div > a:focus img, .row > li > a:focus img, .nav > li > a:focus, .row > div > figure > a:focus img, .NationalPortalImg:focus img, .indiacodeImg:focus img, label.radio-inline input[type=radio], .radio-inline:focus input[type=radio], label.radio-inline input[type=radio]:focus,
+    .btn-default2:focus, .input-group:focus img, .imgButtonCaptcha:focus, .item > ul > li > a:focus, a#telephone:focus, a[href^="#News"]:focus, .captchaimg:focus, .captchamath:focus, input[type="radio"]:checked, label.radio-inline input[type=radio]:checked, .news_row p:focus, .news_detail :focus p,
+    .nav-tabs > li.active > a:focus, input :focus, textarea:focus, select:focus, input[type=radio]:focus, label.radio-inline:focus input[type=radio], .signin1 > a:focus, .more:focus, .tcsLink:focus, .radio-inline:focus, .imgButtonCaptcha:focus, .NationalPortalofIndia :focus, .indiacode :focus, .news_heading .pdf-image:focus, .levelHolderClass > ul > li >a:focus {
+        text-decoration: none;
+        color: #337ab7!important;
+        border: 1px solid #337ab7;
+    }
+
+    .row .input-group .form-control:focus, .form-group .btn-default2:focus, .form-group .btn-danger:focus, .row .input-group .input-group-addon:focus, .input[type=image]:focus, .input-group-addon:focus input[type=image], .input-group-addon:focus, textarea:focus, :last-child.input-group-addon:focus,
+    .row .captcha_text:focus, input[type=text]:focus, .form-control:focus, .captchaimg:focus, .captchamath:focus, .imgButtonCaptcha:focus, .news_heading .pdf-image:focus, .levelHolderClass > ul > li >a:focus {
+        text-decoration: none;
+        color: #337ab7!important;
+        border: 1px solid #337ab7;
+    }
+}
+
+@media (max-width: 768px) {
+    #top-header-nav-tab, #top-header-column {
+        display: inline-block;
+        border: none;
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+}
+
+#emblem-of-india-logo {
+    display: inline-block;
+    float: right;
+}
+
+#india-post-logo-xs {
+    display: inline-block;
+    float: left;
+}
+
+#emblem-of-india-logo-xs {
+    display: inline-block;
+    float: right;
+}
+
+#india-post-logo {
+    display: inline-block;
+    float: left;
+}
+
+@media (max-width: 768px) {
+    #slide-menu {
+        position: absolute;
+        top: 10px;
+        -ms-opacity: 0.95;
+        opacity: 0.95;
+        margin-left: -5px;
+        z-index: 10;
+    }
+}
+
+@media (min-width: 768px) {
+    #body-content {
+        top: 10px !important;
+    }
+}
+
+@media (max-width: 768px) {
+    #body-content {
+        display: inline-block;
+        position: relative;
+    }
+}
+
+#social-icon {
+    display: inline-block;
+    float: left;
+    margin-top: 10px;
+    margin-left: 0px;
+}
+
+@media (max-width: 768px) {
+    #social-icon {
+        display: inline-block;
+        float: none;
+        margin-top: 10px;
+        margin-left: 0px;
+        padding-right: 10px;
+    }
+}
+
+#feature-box-item {
+    text-align: center;
+    padding: 15px;
+    background-color: #fff;
+    margin-bottom: 30px;
+}
+
+#feature-box-item-helpline {
+    text-align: center;
+    padding: 15px;
+    background-color: #fff;
+    margin-bottom: 30px;
+}
+
+#feature-box-item-image {
+    height: 60px;
+    width: 60px;
+    margin-top: 2px;
+    margin-bottom: 5px;
+}
+
+#feature-box-item-name {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 8px;
+    margin-top: 0;
+    color: inherit;
+}
+
+#body-content {
+    top: 0px;
+    display: inline-block;
+}
+
+#captcha-input-textbox {
+    float: right;
+}
+
+#tracking-number-input-textbox {
+    float: right;
+}
+
+#top-header-nav-tab > li {
+    float: none;
+    display: inline-block;
+}
+
+.india-post-tool-figure {
+    display: table;
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.india-post-tool-figcaption, .india-post-tool-thumbnail {
+    text-align: center;
+    margin-left: auto;
+    margin-top: 5px;
+    margin-right: auto;
+    display: block;
+    vertical-align: top;
+}
+
+@media (min-width: 769px) {
+    #slide-menu {
+        position: absolute;
+        -ms-opacity: 0.95;
+        opacity: 0.95;
+        padding-left: 15px;
+        z-index: 10;
+        top: 525px;
+        left: 10px;
+    }
+}
+
+.col-md-3.item.social a i {
+    margin-top: 7px;
+}
+
+a:visited {
+    color: #337ab7;
+}
+
+.iconheight {
+    min-height: 125px;
+}
+
+.levelHolderClass {
+    min-height: 290px;
+}
+
+/*@media only screen and (max-width: 600px) {
+    #top-header #Div2 {
+        float: right;
+        margin-top: 10px;
+    }
+}*/
+
+.signin1 a, .signin1 .fas {
+    position: relative;
+    display: inline-block;
+    padding: 10px 15px;
+    border-radius: 4px;
+    color: #000 !important;
+    line-height: 1.42857143;
+}
+
+.signin1 div {
+    position: relative;
+    display: inline-block;
+    padding: 11px 15px 0 15px;
+    border-radius: 4px;
+    color: #000 !important;
+    line-height: 1.42857143;
+}
+
+.signin1 .fas {
+    line-height: 1.42857143;
+}
+
+.signin1 a:hover {
+    text-decoration: none;
+    background-color: #eee;
+}
+
+
+#Div2 .nav > li > a:hover {
+    text-decoration: none;
+    background-color: #eee !important;
+}
+
+
+
+/*.breadcrumb {
+    background:none;
+    margin-left: 32px;
+}*/
+.breadcrumb {
+    margin-bottom: 5px !important;
+    min-height: 31px;
+}
+
+    .breadcrumb .breadcrumb-container {
+        margin-left: 25px;
+    }
+
+
+@media (max-width: 768px) {
+
+    .breadcrumb .breadcrumb-container {
+        margin-left: 3px;
+    }
+
+    .breadcrumb {
+        padding-left: 0;
+    }
+}
+
+
+.glyphicon-chevron-right {
+    font-size: 12px;
+}
+
+.glyphicon-chevron-left {
+    font-size: 12px;
+}
+
+
+.social > a > img {
+    margin-top: 5px;
+}
+
+#Ul2 a {
+    font-size: 13px;
+}
+
+@media only screen and (min-width: 768px) {
+    /* For Desktop */
+
+    a#telephone {
+        text-decoration: none;
+        cursor: default;
+        color: #337ab7;
+    }
+}
+
+.form-horizontal .control-label {
+    text-align: left;
+}
+
+.text-danger {
+    line-height: 20px !important;
+}
+
+.captchaimg {
+    background-image: url('/_layouts/15/images/DOP.Portal.UILayer/Captcha.gif');
+    font-size: 18px;
+    text-align: center;
+    /* color: #212F3C; */
+}
+
+.captchamath {
+    font-size: 18px;
+    text-align: center;
+    color: #212F3C;
+}
+.AudioCaptchaControl {
+   display:block;
+}
+ /*CSS for marquee*/ 
+.marquee {
+    width: 320px;
+    margin: 5px 0px !important;
+    white-space: nowrap;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+.marquee span {
+    display: inline-block;
+    padding-left: 100%;
+    text-indent: 0;
+    animation: marquee 20s linear infinite;
+}
+
+.marquee span:hover {
+    animation-play-state: paused
+}
+
+/* Make Marquee move */
+@keyframes marquee {
+    0%   { transform: translate(0, 0); }
+    100% { transform: translate(-100%, 0); }
+}
+
+/* End Marquee */
+
+.overlay {
+  height: 100%;
+  width: 100%;
+  display: none;
+  position: fixed;
+  z-index: 18;
+  top: 0;
+  left: 0;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0, 0.9);
+}
+
+
+
+
+

@@ -1,0 +1,23 @@
+{
+  "report_type": "ddos",
+  "group_name": "lalala",
+  "actor_name": "Devil_Star",
+  "targeted_website": "https://www.indiapost.gov.in/vas/Pages/IndiaPostHome.aspx",
+  "targeted_org": "dddd",
+  "attack_type": "DDoS",
+  "attacked_country": "unknown",
+  "attacker_country_affiliation": "unknown",
+  "attack_date": "2025-02-27",
+  "check_host": "",
+  "additional_image": "",
+  "sourceIp": "109.67.186.178",
+  "userAgent": null,
+  "referer": "https://unit500.python-myth.info/",
+  "xForwardedFor": null,
+  "origin": null,
+  "acceptLanguage": null,
+  "xAmznTraceId": null,
+  "original_image": "",
+  "unverified": true,
+  "processed": true
+}
