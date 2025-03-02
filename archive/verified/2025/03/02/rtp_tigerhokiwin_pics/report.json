@@ -1,0 +1,466 @@
+{
+  "report_type": "ddos",
+  "group_name": "indie",
+  "actor_name": "DingDong",
+  "operation_name": "",
+  "network": "Lucky Stresser V2",
+  "network_other": "",
+  "targeted_website": "https://rtp.tigerhokiwin.pics/",
+  "targeted_org": "",
+  "attack_type": "DDoS",
+  "attacked_country": "CA",
+  "attacker_country_affiliation": "id",
+  "attack_date": "2025-03-02",
+  "check_host": "23a39785kbe0",
+  "additional_image": "https://unit500.python-myth.info.s3.amazonaws.com/ddos/2025/03/02/rtp_tigerhokiwin_pics/files/additional_image.jpg",
+  "source_attacker_country": "unknown",
+  "victim_country": "unknown",
+  "attacker_country": "unknown",
+  "sourceIp": "109.67.186.178",
+  "userAgent": null,
+  "referer": "https://unit500.python-myth.info/",
+  "xForwardedFor": null,
+  "origin": null,
+  "acceptLanguage": null,
+  "xAmznTraceId": null,
+  "check_details": {
+    "website_verification": "https://rtp.tigerhokiwin.pics/",
+    "check_date": "2025-03-02",
+    "check_results": {
+      "ae1.node.check-host.net": [
+        [
+          0,
+          0.0261969566345215,
+          "Not Found",
+          "404",
+          "172.67.200.23"
+        ]
+      ],
+      "bg1.node.check-host.net": [
+        null,
+        {
+          "message": "Connect timeout"
+        }
+      ],
+      "br1.node.check-host.net": [
+        [
+          0,
+          0.0237209796905518,
+          "Not Found",
+          "404",
+          "104.21.21.201"
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          0,
+          0.0368587970733643,
+          "Not Found",
+          "404",
+          "172.67.200.23"
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          0,
+          0.0292658805847168,
+          "Not Found",
+          "404",
+          "172.67.200.23"
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          0,
+          0.0636470317840576,
+          "Not Found",
+          404,
+          "104.21.21.201"
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          0,
+          0.0292901992797852,
+          "Not Found",
+          "404",
+          "172.67.200.23"
+        ]
+      ],
+      "es1.node.check-host.net": [
+        [
+          0,
+          0.0482828617095947,
+          "Not Found",
+          "404",
+          "104.21.21.201"
+        ]
+      ],
+      "fi1.node.check-host.net": [
+        [
+          0,
+          0.114947080612183,
+          "Not Found",
+          404,
+          "172.67.200.23"
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          0,
+          0.0494799613952637,
+          "Not Found",
+          "404",
+          "172.67.200.23"
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        [
+          0,
+          0.0372319221496582,
+          "Not Found",
+          "404",
+          "104.21.21.201"
+        ]
+      ],
+      "hk1.node.check-host.net": [
+        [
+          0,
+          1.06661105155945,
+          "Not Found",
+          "404",
+          "104.21.21.201"
+        ]
+      ],
+      "hr1.node.check-host.net": [
+        [
+          0,
+          0.0676507949829102,
+          "Not Found",
+          "404",
+          "104.21.21.201"
+        ]
+      ],
+      "id1.node.check-host.net": [
+        [
+          0,
+          0.0755891799926758,
+          "Not Found",
+          "404",
+          "172.67.200.23"
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          0,
+          0.442710876464844,
+          "Not Found",
+          "404",
+          "172.67.200.23"
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          0,
+          0.437077045440674,
+          "Not Found",
+          "404",
+          "104.21.21.201"
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          0,
+          0.0387411117553711,
+          "Not Found",
+          "404",
+          "172.67.200.23"
+        ]
+      ],
+      "in2.node.check-host.net": [
+        [
+          0,
+          0.119306087493896,
+          "Not Found",
+          "404",
+          "104.21.21.201"
+        ]
+      ],
+      "in3.node.check-host.net": [
+        [
+          0,
+          0.424662113189697,
+          "Not Found",
+          "404",
+          "104.21.21.201"
+        ]
+      ],
+      "ir1.node.check-host.net": [
+        [
+          0,
+          0.271584033966064,
+          "Not Found",
+          "404",
+          "104.21.21.201"
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        [
+          0,
+          0.312495946884155,
+          "Not Found",
+          "404",
+          "172.67.200.23"
+        ]
+      ],
+      "ir5.node.check-host.net": [
+        [
+          0,
+          0.331149101257324,
+          "Not Found",
+          "404",
+          "172.67.200.23"
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          0,
+          0.286710977554321,
+          "Not Found",
+          "404",
+          "172.67.200.23"
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          0,
+          0.019366979598999,
+          "Not Found",
+          "404",
+          "172.67.200.23"
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          0,
+          4.60776400566101,
+          "Not Found",
+          "404",
+          "104.21.21.201"
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          0,
+          0.932019948959351,
+          "Not Found",
+          "404",
+          "104.21.21.201"
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          0,
+          0.0928478240966797,
+          "Not Found",
+          "404",
+          "104.21.21.201"
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          0,
+          0.0909290313720703,
+          "Not Found",
+          "404",
+          "172.67.200.23"
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          0,
+          0.0295600891113281,
+          "Not Found",
+          "404",
+          "104.21.21.201"
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          0,
+          0.035984992980957,
+          "Not Found",
+          "404",
+          "104.21.21.201"
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          0,
+          16.7736558914185,
+          "Bad Gateway",
+          "502",
+          "104.21.21.201"
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          0,
+          0.0446391105651855,
+          "Not Found",
+          "404",
+          "172.67.200.23"
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          0,
+          0.0770959854125977,
+          "Not Found",
+          "404",
+          "172.67.200.23"
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          0,
+          0.0372791290283203,
+          "Not Found",
+          "404",
+          "104.21.21.201"
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          0,
+          0.08536696434021,
+          "Not Found",
+          "404",
+          "172.67.200.23"
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          0,
+          0.133666038513184,
+          "Not Found",
+          "404",
+          "104.21.21.201"
+        ]
+      ],
+      "ru3.node.check-host.net": [
+        [
+          0,
+          16.5198199748993,
+          "Bad Gateway",
+          "502",
+          "104.21.21.201"
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          0,
+          0.255987882614136,
+          "Not Found",
+          "404",
+          "172.67.200.23"
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          0,
+          0.137825012207031,
+          "Not Found",
+          "404",
+          "172.67.200.23"
+        ]
+      ],
+      "tr1.node.check-host.net": [
+        [
+          0,
+          0.220050096511841,
+          "Not Found",
+          "404",
+          "172.67.200.23"
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          0,
+          0.19542407989502,
+          "Not Found",
+          "404",
+          "172.67.200.23"
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          0,
+          0.0718350410461426,
+          "Not Found",
+          "404",
+          "104.21.21.201"
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          0,
+          0.0635430812835693,
+          "Not Found",
+          "404",
+          "104.21.21.201"
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          0,
+          0.135416030883789,
+          "Not Found",
+          "404",
+          "104.21.21.201"
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          0,
+          0.0409600734710693,
+          "Not Found",
+          "404",
+          "172.67.200.23"
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          0,
+          2.02034187316895,
+          "Not Found",
+          "404",
+          "104.21.21.201"
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          0,
+          23.8832721710205,
+          "Bad Gateway",
+          "502",
+          "104.21.21.201"
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          0,
+          0.185296058654785,
+          "Not Found",
+          "404",
+          "172.67.200.23"
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": true,
+  "processed": true,
+  "additional_image_original": "https://i.ibb.co/ks6TxRxH/photo-2025-03-02-11-34-39.jpg",
+  "original_image": "https://example.com/default.png"
+}
