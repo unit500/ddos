@@ -1,2 +1,6 @@
 # ddos
-This repository holds DDoS incidents of users made to unit500
+This repository holds DDoS incidents of users made to unit500.
+
+This repo holds only verified attacks. 
+
+if you are looking for unverified , look in other repo, maybe youll get lucky.
