@@ -1,0 +1,439 @@
+{
+  "report_type": "ddos",
+  "group_name": "indie",
+  "actor_name": "LeoStarPez",
+  "operation_name": "",
+  "network": "unknown",
+  "targeted_website": "https://highlander-global.net/",
+  "targeted_org": "",
+  "attack_type": "DDoS",
+  "attacked_country": "RU",
+  "attacker_country_affiliation": "unknown",
+  "attack_date": "2025-03-08",
+  "check_host": "23d06dd4k54f",
+  "additional_image": "",
+  "check_details": {
+    "website_verification": "https://highlander-global.net/",
+    "check_date": "2025-03-08",
+    "check_results": {
+      "bg1.node.check-host.net": [
+        [
+          0,
+          14.4601821899414,
+          "Bad Gateway",
+          "502",
+          "95.129.234.21"
+        ]
+      ],
+      "br1.node.check-host.net": [
+        [
+          0,
+          14.5601670742035,
+          "Bad Gateway",
+          "502",
+          "95.129.234.21"
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          0,
+          0.0818431377410889,
+          "Forbidden",
+          "403",
+          "95.129.234.21"
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          0,
+          14.3844771385193,
+          "Bad Gateway",
+          "502",
+          "95.129.234.21"
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          0,
+          14.3827209472656,
+          "Bad Gateway",
+          502,
+          "95.129.234.21"
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          0,
+          22.203460931778,
+          "Gateway Timeout",
+          "504",
+          "95.129.234.21"
+        ]
+      ],
+      "es1.node.check-host.net": [
+        [
+          0,
+          0.392041921615601,
+          "Forbidden",
+          "403",
+          "95.129.234.21"
+        ]
+      ],
+      "fi1.node.check-host.net": [
+        [
+          0,
+          14.4432590007782,
+          "Bad Gateway",
+          502,
+          "95.129.234.21"
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          0,
+          25.0012021064758,
+          "Connection timed out",
+          null,
+          "95.129.234.21"
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        [
+          0,
+          0.0452499389648438,
+          "Forbidden",
+          "403",
+          "95.129.234.21"
+        ]
+      ],
+      "hk1.node.check-host.net": [
+        [
+          0,
+          14.2776050567627,
+          "Bad Gateway",
+          "502",
+          "95.129.234.21"
+        ]
+      ],
+      "hu1.node.check-host.net": [
+        [
+          0,
+          25.0010190010071,
+          "Connection timed out",
+          null,
+          "95.129.234.21"
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          0,
+          22.3795561790466,
+          "Gateway Timeout",
+          "504",
+          "95.129.234.21"
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          0,
+          14.5423138141632,
+          "Bad Gateway",
+          "502",
+          "95.129.234.21"
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          0,
+          0.385798931121826,
+          "Forbidden",
+          "403",
+          "95.129.234.21"
+        ]
+      ],
+      "in2.node.check-host.net": [
+        [
+          0,
+          0.465378046035767,
+          "Forbidden",
+          "403",
+          "95.129.234.21"
+        ]
+      ],
+      "ir1.node.check-host.net": [
+        [
+          0,
+          14.5190968513489,
+          "Bad Gateway",
+          "502",
+          "95.129.234.21"
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        [
+          0,
+          14.8005130290985,
+          "Bad Gateway",
+          "502",
+          "95.129.234.21"
+        ]
+      ],
+      "ir5.node.check-host.net": [
+        [
+          0,
+          22.324695110321,
+          "Bad Gateway",
+          "502",
+          "95.129.234.21"
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          0,
+          14.4690449237823,
+          "Bad Gateway",
+          "502",
+          "95.129.234.21"
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          0,
+          25.0001578330994,
+          "Connection timed out",
+          null,
+          "95.129.234.21"
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          0,
+          0.234068155288696,
+          "Forbidden",
+          "403",
+          "95.129.234.21"
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          0,
+          14.6105129718781,
+          "Bad Gateway",
+          "502",
+          "95.129.234.21"
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          0,
+          22.2022368907928,
+          "Gateway Timeout",
+          "504",
+          "95.129.234.21"
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          0,
+          14.4615771770477,
+          "Bad Gateway",
+          "502",
+          "95.129.234.21"
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          0,
+          24.9999289512634,
+          "Connection timed out",
+          null,
+          "95.129.234.21"
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          0,
+          22.1659998893738,
+          "Gateway Timeout",
+          "504",
+          "95.129.234.21"
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          0,
+          14.4141268730164,
+          "Bad Gateway",
+          "502",
+          "95.129.234.21"
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          0,
+          14.4238300323486,
+          "Bad Gateway",
+          "502",
+          "95.129.234.21"
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          0,
+          22.2743549346924,
+          "Gateway Timeout",
+          "504",
+          "95.129.234.21"
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          0,
+          22.279531955719,
+          "Gateway Timeout",
+          "504",
+          "95.129.234.21"
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          0,
+          22.2010259628296,
+          "Bad Gateway",
+          "502",
+          "95.129.234.21"
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          0,
+          22.1379768848419,
+          "Bad Gateway",
+          "502",
+          "95.129.234.21"
+        ]
+      ],
+      "ru3.node.check-host.net": [
+        [
+          0,
+          22.1782088279724,
+          "Gateway Timeout",
+          "504",
+          "95.129.234.21"
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          0,
+          22.3314352035522,
+          "Bad Gateway",
+          "502",
+          "95.129.234.21"
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          0,
+          25.0005080699921,
+          "Connection timed out",
+          null,
+          "95.129.234.21"
+        ]
+      ],
+      "tr1.node.check-host.net": [
+        [
+          0,
+          14.5005669593811,
+          "Bad Gateway",
+          "502",
+          "95.129.234.21"
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          0,
+          14.4909389019012,
+          "Bad Gateway",
+          "502",
+          "95.129.234.21"
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          0,
+          14.4652819633484,
+          "Bad Gateway",
+          "502",
+          "95.129.234.21"
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          0,
+          14.4768860340118,
+          "Bad Gateway",
+          "502",
+          "95.129.234.21"
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          0,
+          0.159255981445312,
+          "Forbidden",
+          "403",
+          "95.129.234.21"
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          0,
+          0.0518941879272461,
+          "Forbidden",
+          "403",
+          "95.129.234.21"
+        ]
+      ],
+      "us1.node.check-host.net": [
+        [
+          0,
+          14.3590319156647,
+          "Bad Gateway",
+          "502",
+          "95.129.234.21"
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          0,
+          0.134370088577271,
+          "Forbidden",
+          "403",
+          "95.129.234.21"
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          0,
+          14.2645399570465,
+          "Bad Gateway",
+          "502",
+          "95.129.234.21"
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          0,
+          0.180263996124268,
+          "Forbidden",
+          "403",
+          "95.129.234.21"
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": true,
+  "processed": true,
+  "original_image": "https://unit500.python-myth.info.s3.amazonaws.com/ddos/2025/03/08/highlander-global_net/files/highlander-global_net.png"
+}
