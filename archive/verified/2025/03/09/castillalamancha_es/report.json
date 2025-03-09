@@ -1,0 +1,440 @@
+{
+  "report_type": "ddos",
+  "group_name": "NoName057(16)",
+  "actor_name": "NoName057(16)",
+  "operation_name": "Hack For Humanity",
+  "network": "unknown",
+  "targeted_website": "https://www.castillalamancha.es/",
+  "targeted_org": "",
+  "attack_type": "DDoS",
+  "attacked_country": "ES",
+  "attacker_country_affiliation": "unknown",
+  "attack_date": "2025-03-09",
+  "check_host": "23d85805k7f9",
+  "additional_image": "https://unit500.python-myth.info.s3.amazonaws.com/ddos/2025/03/09/castillalamancha_es/files/additional_image.jpg",
+  "check_details": {
+    "website_verification": "https://www.castillalamancha.es/",
+    "check_date": "2025-03-09",
+    "check_results": {
+      "bg1.node.check-host.net": [
+        [
+          0,
+          4.26901578903198,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "br1.node.check-host.net": [
+        [
+          0,
+          4.84473490715027,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          0,
+          4.12753510475159,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          0,
+          4.18286204338074,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          0,
+          4.18588399887085,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          0,
+          4.1472110748291,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "es1.node.check-host.net": [
+        [
+          0,
+          4.06573700904846,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "fi1.node.check-host.net": [
+        [
+          0,
+          4.27276301383972,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          0,
+          4.107990026474,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        [
+          0,
+          4.12484502792358,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "hk1.node.check-host.net": [
+        [
+          0,
+          25.0009210109711,
+          "Connection timed out",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "hu1.node.check-host.net": [
+        [
+          0,
+          4.2264609336853,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          0,
+          4.31839799880981,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          0,
+          4.30771493911743,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          0,
+          4.6383261680603,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "in2.node.check-host.net": [
+        [
+          0,
+          5.13997793197632,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "ir1.node.check-host.net": [
+        [
+          0,
+          4.50898194313049,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        [
+          0,
+          8.06683301925659,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "ir5.node.check-host.net": [
+        [
+          0,
+          5.11412191390991,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          0,
+          25.0001749992371,
+          "Connection timed out",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          0,
+          4.12174510955811,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          0,
+          5.1570770740509,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          0,
+          4.65232586860657,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          0,
+          4.26622104644775,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          0,
+          4.29881381988525,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          0,
+          4.15193796157837,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          0,
+          4.14907193183899,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          0,
+          4.21707987785339,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          0,
+          4.22097396850586,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          0,
+          4.23764300346375,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          0,
+          4.25102806091309,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          0,
+          4.29646492004395,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          0,
+          3.00190901756287,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ru3.node.check-host.net": [
+        [
+          0,
+          4.32245683670044,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          0,
+          4.52930498123169,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          0,
+          4.2623610496521,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "tr1.node.check-host.net": [
+        [
+          0,
+          4.32359194755554,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          0,
+          4.46698498725891,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          0,
+          4.24906015396118,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          0,
+          4.22971415519714,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          0,
+          4.38211798667908,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          0,
+          4.15033292770386,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "us1.node.check-host.net": [
+        [
+          0,
+          4.7851288318634,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          0,
+          4.52362990379333,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          0,
+          4.4419059753418,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          0,
+          5.07932806015015,
+          "Broken pipe",
+          null,
+          "89.107.242.101"
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": true,
+  "processed": true,
+  "additional_image_original": "https://i.ibb.co/VWv7w4Sx/photo-2025-03-09-12-28-54.jpg",
+  "original_image": "https://example.com/default.png"
+}
