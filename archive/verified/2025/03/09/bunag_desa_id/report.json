@@ -1,0 +1,439 @@
+{
+  "report_type": "ddos",
+  "group_name": "indie",
+  "actor_name": "xlamper",
+  "operation_name": "",
+  "network": "Lucky Stresser V2",
+  "targeted_website": "https://bunag.desa.id/",
+  "targeted_org": "",
+  "attack_type": "DDoS",
+  "attacked_country": "CA",
+  "attacker_country_affiliation": "unknown",
+  "attack_date": "2025-03-09",
+  "check_host": "23d6a05ck20c",
+  "additional_image": "",
+  "check_details": {
+    "website_verification": "https://bunag.desa.id/",
+    "check_date": "2025-03-09",
+    "check_results": {
+      "bg1.node.check-host.net": [
+        [
+          0,
+          19.7312920093536,
+          "Date: Sun, 09 Mar 2025 01:10:47 GMT",
+          "525",
+          "104.21.6.216"
+        ]
+      ],
+      "br1.node.check-host.net": [
+        [
+          0,
+          10.3699390888214,
+          "Date: Sun, 09 Mar 2025 01:10:38 GMT",
+          "525",
+          "104.21.6.216"
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          0,
+          11.5894110202789,
+          "Date: Sun, 09 Mar 2025 01:10:39 GMT",
+          "525",
+          "104.21.6.216"
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          0,
+          19.7159399986267,
+          "Date: Sun, 09 Mar 2025 01:10:47 GMT",
+          "525",
+          "172.67.135.78"
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          0,
+          0.486732006072998,
+          "Date: Sun, 09 Mar 2025 01:10:28 GMT",
+          525,
+          "104.21.6.216"
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          0,
+          6.65567708015442,
+          "Date: Sun, 09 Mar 2025 01:10:34 GMT",
+          "525",
+          "104.21.6.216"
+        ]
+      ],
+      "es1.node.check-host.net": [
+        [
+          0,
+          19.7954230308533,
+          "Date: Sun, 09 Mar 2025 01:10:47 GMT",
+          "525",
+          "172.67.135.78"
+        ]
+      ],
+      "fi1.node.check-host.net": [
+        [
+          0,
+          13.529314994812,
+          "Date: Sun, 09 Mar 2025 01:10:41 GMT",
+          525,
+          "104.21.6.216"
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          0,
+          9.5125789642334,
+          "Date: Sun, 09 Mar 2025 01:10:37 GMT",
+          "525",
+          "104.21.6.216"
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        [
+          0,
+          19.7880580425262,
+          "Date: Sun, 09 Mar 2025 01:10:47 GMT",
+          "525",
+          "172.67.135.78"
+        ]
+      ],
+      "hk1.node.check-host.net": [
+        [
+          0,
+          20.0722980499268,
+          "Date: Sun, 09 Mar 2025 01:10:48 GMT",
+          "525",
+          "104.21.6.216"
+        ]
+      ],
+      "hu1.node.check-host.net": [
+        [
+          0,
+          6.7162389755249,
+          "<none>",
+          "525",
+          "172.67.135.78"
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          0,
+          11.675525188446,
+          "Date: Sun, 09 Mar 2025 01:10:39 GMT",
+          "525",
+          "172.67.135.78"
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          0,
+          6.74953413009644,
+          "Date: Sun, 09 Mar 2025 01:10:34 GMT",
+          "525",
+          "104.21.6.216"
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          0,
+          24.9997589588165,
+          "Connection timed out",
+          null,
+          "104.21.6.216"
+        ]
+      ],
+      "in2.node.check-host.net": [
+        [
+          0,
+          10.1964621543884,
+          "Date: Sun, 09 Mar 2025 01:10:38 GMT",
+          "525",
+          "172.67.135.78"
+        ]
+      ],
+      "ir1.node.check-host.net": [
+        [
+          0,
+          3.63663005828857,
+          "Date: Sun, 09 Mar 2025 01:10:31 GMT",
+          "525",
+          "188.114.99.0"
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        [
+          0,
+          3.6404390335083,
+          "Date: Sun, 09 Mar 2025 01:10:31 GMT",
+          "525",
+          "104.21.6.216"
+        ]
+      ],
+      "ir5.node.check-host.net": [
+        [
+          0,
+          3.45307683944702,
+          "Date: Sun, 09 Mar 2025 01:10:31 GMT",
+          "525",
+          "104.21.6.216"
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          0,
+          7.66380000114441,
+          "Date: Sun, 09 Mar 2025 01:10:35 GMT",
+          "525",
+          "104.21.6.216"
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          0,
+          11.5830309391022,
+          "Date: Sun, 09 Mar 2025 01:10:39 GMT",
+          "525",
+          "172.67.135.78"
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          0,
+          7.48070693016052,
+          "Date: Sun, 09 Mar 2025 01:10:35 GMT",
+          "525",
+          "172.67.135.78"
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          0,
+          3.53703904151917,
+          "Date: Sun, 09 Mar 2025 01:10:31 GMT",
+          "525",
+          "104.21.6.216"
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          0,
+          11.6201100349426,
+          "Date: Sun, 09 Mar 2025 01:10:39 GMT",
+          "525",
+          "172.67.135.78"
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          0,
+          19.6985690593719,
+          "Date: Sun, 09 Mar 2025 01:10:47 GMT",
+          "525",
+          "172.67.135.78"
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          0,
+          11.5361058712006,
+          "Date: Sun, 09 Mar 2025 01:10:39 GMT",
+          "525",
+          "172.67.135.78"
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          0,
+          4.98704791069031,
+          "<none>",
+          "525",
+          "172.67.135.78"
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          0,
+          8.52466011047363,
+          "Date: Sun, 09 Mar 2025 01:10:36 GMT",
+          "525",
+          "172.67.135.78"
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          0,
+          11.5932130813599,
+          "Date: Sun, 09 Mar 2025 01:10:39 GMT",
+          "525",
+          "172.67.135.78"
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          0,
+          11.5561149120331,
+          "Date: Sun, 09 Mar 2025 01:10:39 GMT",
+          "525",
+          "172.67.135.78"
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          0,
+          19.6629059314728,
+          "Date: Sun, 09 Mar 2025 01:10:47 GMT",
+          "525",
+          "104.21.6.216"
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          0,
+          8.427405834198,
+          "Date: Sun, 09 Mar 2025 01:10:36 GMT",
+          "525",
+          "104.21.6.216"
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          0,
+          10.76793217659,
+          "Date: Sun, 09 Mar 2025 01:10:38 GMT",
+          "525",
+          "104.21.6.216"
+        ]
+      ],
+      "ru3.node.check-host.net": [
+        [
+          0,
+          14.4756739139557,
+          "Date: Sun, 09 Mar 2025 01:10:42 GMT",
+          "525",
+          "104.21.6.216"
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          0,
+          24.9998140335083,
+          "Connection timed out",
+          null,
+          "172.67.135.78"
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          0,
+          8.74053883552551,
+          "Date: Sun, 09 Mar 2025 01:10:36 GMT",
+          "525",
+          "172.67.135.78"
+        ]
+      ],
+      "tr1.node.check-host.net": [
+        [
+          0,
+          19.8514540195465,
+          "Date: Sun, 09 Mar 2025 01:10:47 GMT",
+          "525",
+          "172.67.135.78"
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          0,
+          16.2444169521332,
+          "Date: Sun, 09 Mar 2025 01:10:44 GMT",
+          "525",
+          "104.21.6.216"
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          0,
+          20.1465001106262,
+          "Date: Sun, 09 Mar 2025 01:10:47 GMT",
+          "525",
+          "104.21.6.216"
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          0,
+          7.21689701080322,
+          "Date: Sun, 09 Mar 2025 01:10:35 GMT",
+          "525",
+          "172.67.135.78"
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          0,
+          11.726744890213,
+          "Date: Sun, 09 Mar 2025 01:10:39 GMT",
+          "525",
+          "172.67.135.78"
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          0,
+          11.5325140953064,
+          "Date: Sun, 09 Mar 2025 01:10:39 GMT",
+          "525",
+          "104.21.6.216"
+        ]
+      ],
+      "us1.node.check-host.net": [
+        [
+          0,
+          2.17183089256287,
+          "Date: Sun, 09 Mar 2025 01:10:30 GMT",
+          "525",
+          "172.67.135.78"
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          0,
+          6.25227022171021,
+          "Date: Sun, 09 Mar 2025 01:10:34 GMT",
+          "525",
+          "104.21.6.216"
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          0,
+          6.52081894874573,
+          "<none>",
+          "525",
+          "104.21.6.216"
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          0,
+          12.0304369926453,
+          "Date: Sun, 09 Mar 2025 01:10:40 GMT",
+          "525",
+          "172.67.135.78"
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": true,
+  "processed": true,
+  "original_image": "https://example.com/default.png"
+}
