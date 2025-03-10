@@ -1,0 +1,451 @@
+{
+  "report_type": "ddos",
+  "group_name": "indie",
+  "actor_name": "Leonardo da Vincent",
+  "operation_name": "",
+  "network": "Lucky Stresser V2",
+  "targeted_website": "https://che.org.il/en/",
+  "targeted_org": "",
+  "attack_type": "DDoS",
+  "attacked_country": "IL",
+  "attacker_country_affiliation": "unknown",
+  "attack_date": "2025-03-10",
+  "check_host": "23e15042ka50",
+  "additional_image": "",
+  "check_details": {
+    "website_verification": "https://che.org.il/en/",
+    "check_date": "2025-03-10",
+    "check_results": {
+      "bg1.node.check-host.net": [
+        null,
+        {
+          "message": "Connect timeout"
+        }
+      ],
+      "br1.node.check-host.net": [
+        [
+          0,
+          2.35162019729614,
+          "Bad Gateway",
+          "502",
+          "88.218.117.88"
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          0,
+          2.71384406089783,
+          "Bad Gateway",
+          "502",
+          "88.218.117.88"
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          0,
+          3.00230002403259,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          0,
+          3.00140595436096,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          0,
+          2.60246896743774,
+          "Bad Gateway",
+          "502",
+          "88.218.117.88"
+        ]
+      ],
+      "es1.node.check-host.net": [
+        [
+          0,
+          2.79805088043213,
+          "Bad Gateway",
+          "502",
+          "88.218.117.88"
+        ]
+      ],
+      "fi1.node.check-host.net": [
+        [
+          0,
+          2.72547698020935,
+          "Bad Gateway",
+          502,
+          "88.218.117.88"
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          0,
+          3.00134301185608,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        null,
+        {
+          "message": "Connect timeout"
+        }
+      ],
+      "hk1.node.check-host.net": [
+        [
+          0,
+          2.83119583129883,
+          "Bad Gateway",
+          "502",
+          "88.218.117.88"
+        ]
+      ],
+      "hu1.node.check-host.net": [
+        [
+          0,
+          3.00162386894226,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "id2.node.check-host.net": [
+        [
+          0,
+          2.30676794052124,
+          "Bad Gateway",
+          "502",
+          "88.218.117.88"
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          0,
+          2.40676403045654,
+          "Bad Gateway",
+          "502",
+          "88.218.117.88"
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          0,
+          2.45109987258911,
+          "Bad Gateway",
+          "502",
+          "88.218.117.88"
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          0,
+          3.00211596488953,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "in2.node.check-host.net": [
+        [
+          0,
+          3.0015389919281,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ir1.node.check-host.net": [
+        [
+          0,
+          0.00663018226623535,
+          "Connection refused",
+          null,
+          null
+        ]
+      ],
+      "ir2.node.check-host.net": [
+        [
+          0,
+          3.00231099128723,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        [
+          0,
+          0.0187809467315674,
+          "Connection refused",
+          null,
+          null
+        ]
+      ],
+      "ir5.node.check-host.net": [
+        [
+          0,
+          3.0016028881073,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          0,
+          0.0030360221862793,
+          "Connection refused",
+          null,
+          null
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          0,
+          2.72791194915771,
+          "Bad Gateway",
+          "502",
+          "88.218.117.88"
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          0,
+          2.9507429599762,
+          "Bad Gateway",
+          "502",
+          "88.218.117.88"
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          0,
+          2.25856900215149,
+          "Bad Gateway",
+          "502",
+          "88.218.117.88"
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          0,
+          2.33626794815063,
+          "Bad Gateway",
+          "502",
+          "88.218.117.88"
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          0,
+          2.93888092041016,
+          "Bad Gateway",
+          "502",
+          "88.218.117.88"
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          0,
+          3.00154304504395,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          0,
+          3.00137901306152,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          0,
+          2.6556339263916,
+          "Bad Gateway",
+          "502",
+          "88.218.117.88"
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          0,
+          2.79685211181641,
+          "Bad Gateway",
+          "502",
+          "88.218.117.88"
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          0,
+          2.79941296577454,
+          "Bad Gateway",
+          "502",
+          "88.218.117.88"
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          0,
+          2.73063492774963,
+          "Bad Gateway",
+          "502",
+          "88.218.117.88"
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          0,
+          3.00122499465942,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          0,
+          3.1339111328125,
+          "Bad Gateway",
+          "502",
+          "88.218.117.88"
+        ]
+      ],
+      "ru3.node.check-host.net": [
+        [
+          0,
+          2.94953393936157,
+          "Bad Gateway",
+          "502",
+          "88.218.117.88"
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          0,
+          3.0021550655365,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          0,
+          3.15420198440552,
+          "Bad Gateway",
+          "502",
+          "88.218.117.88"
+        ]
+      ],
+      "tr1.node.check-host.net": [
+        [
+          0,
+          2.34668016433716,
+          "Bad Gateway",
+          "502",
+          "88.218.117.88"
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          0,
+          3.00216603279114,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          0,
+          2.91812086105347,
+          "Bad Gateway",
+          "502",
+          "88.218.117.88"
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          0,
+          2.94597101211548,
+          "Bad Gateway",
+          "502",
+          "88.218.117.88"
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          0,
+          2.90587210655212,
+          "Bad Gateway",
+          "502",
+          "88.218.117.88"
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          0,
+          2.44105100631714,
+          "Bad Gateway",
+          "502",
+          "88.218.117.88"
+        ]
+      ],
+      "us1.node.check-host.net": [
+        [
+          0,
+          2.23602795600891,
+          "Bad Gateway",
+          "502",
+          "88.218.117.88"
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          0,
+          3.00132513046265,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          0,
+          3.00195121765137,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          0,
+          3.46198892593384,
+          "Bad Gateway",
+          "502",
+          "88.218.117.88"
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": true,
+  "processed": true,
+  "original_image": "https://example.com/default.png"
+}
