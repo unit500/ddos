@@ -1,0 +1,454 @@
+{
+  "report_type": "ddos",
+  "group_name": "NoName057(16)",
+  "actor_name": "NoName057(16)",
+  "operation_name": "OpUkraine",
+  "network": "unknown",
+  "targeted_website": "https://crystal.in.ua/",
+  "targeted_org": "",
+  "attack_type": "DDoS",
+  "attacked_country": "UA",
+  "attacker_country_affiliation": "unknown",
+  "attack_date": "2025-03-11",
+  "check_host": "23ebdbafk857",
+  "additional_image": "",
+  "check_details": {
+    "website_verification": "https://crystal.in.ua/",
+    "check_date": "2025-03-11",
+    "check_results": {
+      "bg1.node.check-host.net": [
+        [
+          0,
+          0.0298700332641602,
+          "Forbidden",
+          "403",
+          "104.21.112.1"
+        ]
+      ],
+      "br1.node.check-host.net": [
+        [
+          0,
+          0.281554937362671,
+          "Forbidden",
+          "403",
+          "104.21.112.1"
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          0,
+          0.0720088481903076,
+          "Forbidden",
+          "403",
+          "104.21.16.1"
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          0,
+          0.0580711364746094,
+          "Forbidden",
+          "403",
+          "104.21.32.1"
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          0,
+          0.0617508888244629,
+          "Forbidden",
+          403,
+          "104.21.64.1"
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          0,
+          3.03406977653503,
+          "Forbidden",
+          "403",
+          "104.21.112.1"
+        ]
+      ],
+      "es1.node.check-host.net": [
+        [
+          0,
+          0.0713798999786377,
+          "Forbidden",
+          "403",
+          "104.21.32.1"
+        ]
+      ],
+      "fi1.node.check-host.net": [
+        [
+          0,
+          0.165276050567627,
+          "Forbidden",
+          403,
+          "104.21.96.1"
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          0,
+          0.0522971153259277,
+          "Forbidden",
+          "403",
+          "104.21.80.1"
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        null,
+        {
+          "message": "Connect timeout"
+        }
+      ],
+      "hk1.node.check-host.net": [
+        [
+          0,
+          0.0721800327301025,
+          "Forbidden",
+          "403",
+          "104.21.112.1"
+        ]
+      ],
+      "hu1.node.check-host.net": [
+        [
+          0,
+          0.0694801807403564,
+          "Forbidden",
+          "403",
+          "104.21.96.1"
+        ]
+      ],
+      "id2.node.check-host.net": [
+        [
+          0,
+          0.105792045593262,
+          "Forbidden",
+          "403",
+          "104.21.96.1"
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          0,
+          6.20306301116943,
+          "Forbidden",
+          "403",
+          "104.21.32.1"
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          0,
+          21.0560510158539,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          0,
+          0.136851787567139,
+          "Forbidden",
+          "403",
+          "104.21.112.1"
+        ]
+      ],
+      "in2.node.check-host.net": [
+        [
+          0,
+          0.215859889984131,
+          "Forbidden",
+          "403",
+          "104.21.64.1"
+        ]
+      ],
+      "ir1.node.check-host.net": [
+        [
+          0,
+          0.420331001281738,
+          "Forbidden",
+          "403",
+          "172.67.216.62"
+        ]
+      ],
+      "ir2.node.check-host.net": [
+        [
+          0,
+          0.266320943832397,
+          "Forbidden",
+          "403",
+          "104.21.96.1"
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        [
+          0,
+          3.48073697090149,
+          "Forbidden",
+          "403",
+          "104.21.80.1"
+        ]
+      ],
+      "ir5.node.check-host.net": [
+        [
+          0,
+          0.502816915512085,
+          "Forbidden",
+          "403",
+          "104.21.96.1"
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          0,
+          0.379763126373291,
+          "Forbidden",
+          "403",
+          "104.21.48.1"
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          0,
+          0.0733470916748047,
+          "Forbidden",
+          "403",
+          "104.21.48.1"
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          0,
+          0.0879421234130859,
+          "Forbidden",
+          "403",
+          "104.21.48.1"
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          0,
+          0.305835962295532,
+          "Forbidden",
+          "403",
+          "104.21.16.1"
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          0,
+          0.116202116012573,
+          "Forbidden",
+          "403",
+          "104.21.48.1"
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          0,
+          0.0887789726257324,
+          "Forbidden",
+          "403",
+          "104.21.16.1"
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          0,
+          0.0501401424407959,
+          "Forbidden",
+          "403",
+          "104.21.112.1"
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          0,
+          0.0385880470275879,
+          "Forbidden",
+          "403",
+          "104.21.112.1"
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          0,
+          0.0675580501556396,
+          "Forbidden",
+          "403",
+          "104.21.48.1"
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          0,
+          0.0341389179229736,
+          "Forbidden",
+          "403",
+          "104.21.64.1"
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          0,
+          0.0925180912017822,
+          "Forbidden",
+          "403",
+          "104.21.64.1"
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          0,
+          0.127747058868408,
+          "Bad Gateway",
+          "502",
+          "104.21.112.1"
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          0,
+          25.0005898475647,
+          "Connection timed out",
+          null,
+          "104.21.16.1"
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          0,
+          0.294065952301025,
+          "Forbidden",
+          "403",
+          "104.21.80.1"
+        ]
+      ],
+      "ru3.node.check-host.net": [
+        [
+          0,
+          15.1429979801178,
+          "Broken pipe",
+          null,
+          "104.21.32.1"
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          0,
+          15.125226020813,
+          "Broken pipe",
+          null,
+          "104.21.16.1"
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          0,
+          0.175067901611328,
+          "Forbidden",
+          "403",
+          "104.21.112.1"
+        ]
+      ],
+      "tr1.node.check-host.net": [
+        [
+          0,
+          3.20354294776917,
+          "Forbidden",
+          "403",
+          "104.21.48.1"
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          0,
+          4.64430809020996,
+          "Forbidden",
+          "403",
+          "104.21.96.1"
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          0,
+          0.121273994445801,
+          "Bad Gateway",
+          "502",
+          "104.21.80.1"
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          0,
+          0.0780160427093506,
+          "Forbidden",
+          "403",
+          "104.21.64.1"
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          0,
+          0.16067910194397,
+          "Forbidden",
+          "403",
+          "104.21.96.1"
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          0,
+          0.0744678974151611,
+          "Forbidden",
+          "403",
+          "104.21.96.1"
+        ]
+      ],
+      "us1.node.check-host.net": [
+        [
+          0,
+          0.0257010459899902,
+          "Forbidden",
+          "403",
+          "104.21.64.1"
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          0,
+          0.0557000637054443,
+          "Forbidden",
+          "403",
+          "104.21.64.1"
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          0,
+          0.0638470649719238,
+          "Forbidden",
+          "403",
+          "104.21.96.1"
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          0,
+          0.792295932769775,
+          "Forbidden",
+          "403",
+          "104.21.48.1"
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": true,
+  "processed": true,
+  "original_image": "https://unit500.python-myth.info.s3.amazonaws.com/ddos/2025/03/11/crystal_in_ua/files/crystal_in_ua.png"
+}
