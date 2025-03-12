@@ -1,0 +1,445 @@
+{
+  "report_type": "ddos",
+  "group_name": "NDTSEC2.0",
+  "actor_name": "NDTSEC2.0",
+  "operation_name": "",
+  "network": "unknown",
+  "targeted_website": "https://www.ocbc.id/id",
+  "targeted_org": "",
+  "attack_type": "DDoS",
+  "attacked_country": "US",
+  "attacker_country_affiliation": "kh",
+  "attack_date": "2025-03-12",
+  "check_host": "23f4cb95k959",
+  "additional_image": "",
+  "check_details": {
+    "website_verification": "https://www.ocbc.id/id",
+    "check_date": "2025-03-12",
+    "check_results": {
+      "bg1.node.check-host.net": [
+        null,
+        {
+          "message": "Connect timeout"
+        }
+      ],
+      "br1.node.check-host.net": [
+        [
+          1,
+          0.0111830234527588,
+          "Found",
+          "302",
+          "45.60.38.152"
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          1,
+          0.0329489707946777,
+          "Found",
+          "302",
+          "45.60.34.152"
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          1,
+          0.0862059593200684,
+          "Found",
+          "302",
+          "45.60.40.152"
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          1,
+          0.0233581066131592,
+          "Found",
+          302,
+          "45.60.34.152"
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          1,
+          0.0158460140228271,
+          "Found",
+          "302",
+          "45.60.34.152"
+        ]
+      ],
+      "es1.node.check-host.net": [
+        [
+          1,
+          0.0467150211334229,
+          "Found",
+          "302",
+          "45.60.34.152"
+        ]
+      ],
+      "fi1.node.check-host.net": [
+        [
+          1,
+          0.0892989635467529,
+          "Found",
+          302,
+          "45.60.34.152"
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          1,
+          0.0336620807647705,
+          "Found",
+          "302",
+          "45.60.34.152"
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        [
+          1,
+          0.024691104888916,
+          "Found",
+          "302",
+          "45.60.34.152"
+        ]
+      ],
+      "hk1.node.check-host.net": [
+        [
+          1,
+          0.04311203956604,
+          "Found",
+          "302",
+          "45.60.36.152"
+        ]
+      ],
+      "id2.node.check-host.net": [
+        [
+          1,
+          0.0143828392028809,
+          "Found",
+          "302",
+          "45.60.36.152"
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          1,
+          0.651657104492188,
+          "Found",
+          "302",
+          "45.60.40.152"
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          1,
+          0.0813250541687012,
+          "Found",
+          "302",
+          "45.60.34.152"
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          1,
+          0.760929107666016,
+          "Found",
+          "302",
+          "45.60.40.152"
+        ]
+      ],
+      "in2.node.check-host.net": [
+        [
+          1,
+          0.0572710037231445,
+          "Found",
+          "302",
+          "45.60.36.152"
+        ]
+      ],
+      "ir1.node.check-host.net": [
+        [
+          0,
+          0.236608028411865,
+          "Forbidden",
+          "403",
+          "45.60.34.152"
+        ]
+      ],
+      "ir2.node.check-host.net": [
+        [
+          0,
+          0.525951147079468,
+          "Forbidden",
+          "403",
+          "45.60.34.152"
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        [
+          0,
+          0.337234973907471,
+          "Forbidden",
+          "403",
+          "45.60.34.152"
+        ]
+      ],
+      "ir5.node.check-host.net": [
+        [
+          0,
+          0.563982009887695,
+          "Forbidden",
+          "403",
+          "45.60.34.152"
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          0,
+          0.214836835861206,
+          "Forbidden",
+          "403",
+          "45.60.34.152"
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          1,
+          0.254340887069702,
+          "Found",
+          "302",
+          "45.60.40.152"
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          1,
+          0.0463659763336182,
+          "Found",
+          "302",
+          "45.60.36.152"
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          1,
+          0.412693977355957,
+          "Found",
+          "302",
+          "45.60.40.152"
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          1,
+          0.0898430347442627,
+          "Found",
+          "302",
+          "45.60.40.152"
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          1,
+          0.364259004592896,
+          "Found",
+          "302",
+          "45.60.40.152"
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          1,
+          0.0721008777618408,
+          "Found",
+          "302",
+          "45.60.40.152"
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          1,
+          0.0314810276031494,
+          "Found",
+          "302",
+          "45.60.34.152"
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          1,
+          0.0275940895080566,
+          "Found",
+          "302",
+          "45.60.34.152"
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          1,
+          0.028994083404541,
+          "Found",
+          "302",
+          "45.60.34.152"
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          1,
+          0.202537059783936,
+          "Found",
+          "302",
+          "45.60.34.152"
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          1,
+          0.118094921112061,
+          "Found",
+          "302",
+          "45.60.34.152"
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          0,
+          0.129977941513062,
+          "Forbidden",
+          "403",
+          "45.60.40.152"
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          0,
+          0.246289014816284,
+          "Forbidden",
+          "403",
+          "45.60.40.152"
+        ]
+      ],
+      "ru3.node.check-host.net": [
+        [
+          0,
+          0.13972806930542,
+          "Forbidden",
+          "403",
+          "45.60.40.152"
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          0,
+          0.24671196937561,
+          "Forbidden",
+          "403",
+          "45.60.40.152"
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          1,
+          0.03767991065979,
+          "Found",
+          "302",
+          "45.60.34.152"
+        ]
+      ],
+      "tr1.node.check-host.net": [
+        [
+          1,
+          0.0958209037780762,
+          "Found",
+          "302",
+          "45.60.34.152"
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          1,
+          0.051685094833374,
+          "Found",
+          "302",
+          "45.60.34.152"
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          0,
+          0.334751129150391,
+          "Forbidden",
+          "403",
+          "45.60.40.152"
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          0,
+          0.327354907989502,
+          "Forbidden",
+          "403",
+          "45.60.40.152"
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          0,
+          0.154344797134399,
+          "Forbidden",
+          "403",
+          "45.60.34.152"
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          1,
+          0.032538890838623,
+          "Found",
+          "302",
+          "45.60.34.152"
+        ]
+      ],
+      "us1.node.check-host.net": [
+        [
+          1,
+          0.614036798477173,
+          "Found",
+          "302",
+          "45.60.40.152"
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          1,
+          0.482512950897217,
+          "Found",
+          "302",
+          "45.60.40.152"
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          1,
+          0.271097898483276,
+          "Found",
+          "302",
+          "45.60.32.152"
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          1,
+          0.131752014160156,
+          "Found",
+          "302",
+          "45.60.36.152"
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": true,
+  "processed": true,
+  "original_image": "https://example.com/default.png"
+}
