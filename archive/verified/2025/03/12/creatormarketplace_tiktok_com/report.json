@@ -1,0 +1,448 @@
+{
+  "report_type": "ddos",
+  "group_name": "DieNet",
+  "actor_name": "DieNet",
+  "operation_name": "",
+  "network": "unknown",
+  "targeted_website": "https://creatormarketplace.tiktok.com/",
+  "targeted_org": "",
+  "attack_type": "DDoS",
+  "attacked_country": "US",
+  "attacker_country_affiliation": "unknown",
+  "attack_date": "2025-03-12",
+  "check_host": "23f614d0k67c",
+  "additional_image": "",
+  "check_details": {
+    "website_verification": "https://creatormarketplace.tiktok.com/",
+    "check_date": "2025-03-12",
+    "check_results": {
+      "bg1.node.check-host.net": [
+        [
+          0,
+          0.286957025527954,
+          "Bad Gateway",
+          "502",
+          "104.83.4.43"
+        ]
+      ],
+      "br1.node.check-host.net": [
+        [
+          0,
+          0.34736704826355,
+          "Bad Gateway",
+          "502",
+          "2.16.169.4"
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          0,
+          0.266195774078369,
+          "Bad Gateway",
+          "502",
+          "2.20.68.70"
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          0,
+          0.296954154968262,
+          "Bad Gateway",
+          "502",
+          "23.212.110.17"
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          0,
+          0.269511938095093,
+          "Bad Gateway",
+          502,
+          "104.126.37.136"
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          0,
+          0.267958879470825,
+          "Bad Gateway",
+          "502",
+          "2.19.96.144"
+        ]
+      ],
+      "es1.node.check-host.net": [
+        [
+          0,
+          1.05169987678528,
+          "Bad Gateway",
+          "502",
+          "88.221.213.97"
+        ]
+      ],
+      "fi1.node.check-host.net": [
+        [
+          0,
+          1.02797293663025,
+          "Bad Gateway",
+          502,
+          "92.123.135.73"
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          0,
+          0.780639171600342,
+          "Bad Gateway",
+          "502",
+          "104.97.14.112"
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        [
+          0,
+          0.529907941818237,
+          "Bad Gateway",
+          "502",
+          "95.101.29.31"
+        ]
+      ],
+      "hk1.node.check-host.net": [
+        [
+          0,
+          0.116252183914185,
+          "Bad Gateway",
+          "502",
+          "23.200.143.87"
+        ]
+      ],
+      "id2.node.check-host.net": [
+        [
+          0,
+          0.0721089839935303,
+          "Bad Gateway",
+          "502",
+          "23.58.144.140"
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          0,
+          0.356641054153442,
+          "Bad Gateway",
+          "502",
+          "82.102.152.168"
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          0,
+          0.320019006729126,
+          "Bad Gateway",
+          "502",
+          "82.102.152.179"
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          0,
+          0.445518016815186,
+          "Bad Gateway",
+          "502",
+          "23.60.96.38"
+        ]
+      ],
+      "in2.node.check-host.net": [
+        [
+          0,
+          0.0474629402160645,
+          "Bad Gateway",
+          "502",
+          "23.202.229.138"
+        ]
+      ],
+      "ir1.node.check-host.net": [
+        [
+          0,
+          0.00638914108276367,
+          "Connection refused",
+          null,
+          null
+        ]
+      ],
+      "ir2.node.check-host.net": [
+        [
+          0,
+          3.00222587585449,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        [
+          0,
+          0.0173530578613281,
+          "Connection refused",
+          null,
+          null
+        ]
+      ],
+      "ir5.node.check-host.net": [
+        [
+          0,
+          0.0210299491882324,
+          "Connection refused",
+          null,
+          null
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          0,
+          0.00336194038391113,
+          "Connection refused",
+          null,
+          null
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          0,
+          0.623201131820679,
+          "Bad Gateway",
+          "502",
+          "173.222.106.31"
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          0,
+          0.148385047912598,
+          "Bad Gateway",
+          "502",
+          "23.63.233.162"
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          0,
+          5.58714985847473,
+          "Bad Gateway",
+          "502",
+          "104.81.60.153"
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          0,
+          0.668154954910278,
+          "Bad Gateway",
+          "502",
+          "96.16.54.192"
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          0,
+          0.331888914108276,
+          "Bad Gateway",
+          "502",
+          "104.117.76.106"
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          0,
+          0.247629880905151,
+          "Bad Gateway",
+          "502",
+          "2.16.6.20"
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          0,
+          0.257473945617676,
+          "Bad Gateway",
+          "502",
+          "2.16.6.20"
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          0,
+          0.234899044036865,
+          "Bad Gateway",
+          "502",
+          "96.16.54.179"
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          0,
+          0.258123874664307,
+          "Bad Gateway",
+          "502",
+          "96.16.54.179"
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          0,
+          0.294183015823364,
+          "Bad Gateway",
+          "502",
+          "23.62.180.219"
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          0,
+          0.290884971618652,
+          "Bad Gateway",
+          "502",
+          "2.17.147.177"
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          0,
+          0.275367975234985,
+          "Bad Gateway",
+          "502",
+          "96.16.54.168"
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          0,
+          0.415259122848511,
+          "Bad Gateway",
+          "502",
+          "104.126.37.136"
+        ]
+      ],
+      "ru3.node.check-host.net": [
+        [
+          0,
+          1.134526014328,
+          "Bad Gateway",
+          "502",
+          "104.81.60.153"
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          0,
+          0.81485915184021,
+          "Bad Gateway",
+          "502",
+          "95.100.107.72"
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          0,
+          0.301563024520874,
+          "Bad Gateway",
+          "502",
+          "104.123.68.216"
+        ]
+      ],
+      "tr1.node.check-host.net": [
+        [
+          0,
+          0.709343910217285,
+          "Bad Gateway",
+          "502",
+          "2.20.134.131"
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          0,
+          1.22287487983704,
+          "Bad Gateway",
+          "502",
+          "2.20.134.129"
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          0,
+          0.960145950317383,
+          "Bad Gateway",
+          "502",
+          "96.16.54.200"
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          0,
+          0.272979021072388,
+          "Bad Gateway",
+          "502",
+          "96.16.54.137"
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          0,
+          0.342339992523193,
+          "Bad Gateway",
+          "502",
+          "96.16.54.179"
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          0,
+          0.989761114120483,
+          "Bad Gateway",
+          "502",
+          "2.18.66.160"
+        ]
+      ],
+      "us1.node.check-host.net": [
+        [
+          0,
+          1.00616407394409,
+          "Bad Gateway",
+          "502",
+          "104.81.60.153"
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          0,
+          0.815268993377686,
+          "Bad Gateway",
+          "502",
+          "23.205.249.157"
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          0,
+          0.357059955596924,
+          "Bad Gateway",
+          "502",
+          "23.48.105.15"
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          0,
+          0.159946918487549,
+          "Bad Gateway",
+          "502",
+          "23.58.144.154"
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": true,
+  "processed": true,
+  "original_image": "https://example.com/default.png"
+}
