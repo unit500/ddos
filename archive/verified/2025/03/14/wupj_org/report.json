@@ -1,0 +1,454 @@
+{
+  "report_type": "ddos",
+  "group_name": "RipperSec",
+  "actor_name": "RipperSec",
+  "operation_name": "",
+  "network": "unknown",
+  "targeted_website": "https://wupj.org/",
+  "targeted_org": "",
+  "attack_type": "DDoS",
+  "attacked_country": "CA",
+  "attacker_country_affiliation": "unknown",
+  "attack_date": "2025-03-14",
+  "check_host": "2401e8a0k217",
+  "additional_image": "",
+  "check_details": {
+    "website_verification": "https://wupj.org/",
+    "check_date": "2025-03-14",
+    "check_results": {
+      "bg1.node.check-host.net": [
+        [
+          0,
+          0.161166906356812,
+          "Date: Fri, 14 Mar 2025 06:50:07 GMT",
+          "520",
+          "104.21.11.220"
+        ]
+      ],
+      "br1.node.check-host.net": [
+        [
+          0,
+          0.150209188461304,
+          "Date: Fri, 14 Mar 2025 06:50:08 GMT",
+          "520",
+          "172.67.167.76"
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          0,
+          0.169705867767334,
+          "Date: Fri, 14 Mar 2025 06:50:07 GMT",
+          "520",
+          "172.67.167.76"
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          0,
+          0.134242057800293,
+          "Date: Fri, 14 Mar 2025 06:50:07 GMT",
+          "520",
+          "104.21.11.220"
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          0,
+          0.153449058532715,
+          "Date: Fri, 14 Mar 2025 06:50:07 GMT",
+          520,
+          "104.21.11.220"
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          0,
+          0.115607976913452,
+          "Date: Fri, 14 Mar 2025 06:50:07 GMT",
+          "520",
+          "172.67.167.76"
+        ]
+      ],
+      "es1.node.check-host.net": [
+        [
+          0,
+          0.159276008605957,
+          "Date: Fri, 14 Mar 2025 06:50:07 GMT",
+          "520",
+          "104.21.11.220"
+        ]
+      ],
+      "fi1.node.check-host.net": [
+        [
+          0,
+          0.215309143066406,
+          "Date: Fri, 14 Mar 2025 06:50:07 GMT",
+          520,
+          "172.67.167.76"
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          0,
+          0.132745981216431,
+          "Date: Fri, 14 Mar 2025 06:50:07 GMT",
+          "520",
+          "104.21.11.220"
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        [
+          0,
+          0.125214099884033,
+          "Date: Fri, 14 Mar 2025 06:50:07 GMT",
+          "520",
+          "104.21.11.220"
+        ]
+      ],
+      "hk1.node.check-host.net": [
+        [
+          0,
+          0.270095825195312,
+          "Date: Fri, 14 Mar 2025 06:50:08 GMT",
+          "520",
+          "172.67.167.76"
+        ]
+      ],
+      "hu1.node.check-host.net": [
+        [
+          0,
+          0.19789719581604,
+          "Date: Fri, 14 Mar 2025 06:50:07 GMT",
+          "520",
+          "172.67.167.76"
+        ]
+      ],
+      "id2.node.check-host.net": [
+        [
+          0,
+          3.31003212928772,
+          "Date: Fri, 14 Mar 2025 06:50:11 GMT",
+          "520",
+          "104.21.11.220"
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          0,
+          0.254135847091675,
+          "Date: Fri, 14 Mar 2025 06:50:07 GMT",
+          "520",
+          "172.67.167.76"
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          0,
+          0.337188005447388,
+          "Date: Fri, 14 Mar 2025 06:50:08 GMT",
+          "520",
+          "172.67.167.76"
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          0,
+          0.27642297744751,
+          "Date: Fri, 14 Mar 2025 06:50:08 GMT",
+          "520",
+          "172.67.167.76"
+        ]
+      ],
+      "in2.node.check-host.net": [
+        null,
+        {
+          "message": "Connect timeout"
+        }
+      ],
+      "ir1.node.check-host.net": [
+        [
+          0,
+          0.371165990829468,
+          "Date: Fri, 14 Mar 2025 06:50:08 GMT",
+          "520",
+          "104.21.11.220"
+        ]
+      ],
+      "ir2.node.check-host.net": [
+        [
+          0,
+          0.571341037750244,
+          "Date: Fri, 14 Mar 2025 06:50:08 GMT",
+          "520",
+          "172.67.167.76"
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        [
+          0,
+          0.406140089035034,
+          "Date: Fri, 14 Mar 2025 06:50:08 GMT",
+          "520",
+          "172.67.167.76"
+        ]
+      ],
+      "ir5.node.check-host.net": [
+        [
+          0,
+          0.430796146392822,
+          "Date: Fri, 14 Mar 2025 06:50:08 GMT",
+          "520",
+          "104.21.11.220"
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          0,
+          1.35456109046936,
+          "Date: Fri, 14 Mar 2025 06:50:09 GMT",
+          "520",
+          "172.67.167.76"
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          0,
+          0.209926128387451,
+          "Date: Fri, 14 Mar 2025 06:50:07 GMT",
+          "520",
+          "172.67.167.76"
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          0,
+          0.236334085464478,
+          "Date: Fri, 14 Mar 2025 06:50:08 GMT",
+          "520",
+          "104.21.11.220"
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          0,
+          1.16151309013367,
+          "Date: Fri, 14 Mar 2025 06:50:08 GMT",
+          "520",
+          "104.21.11.220"
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          0,
+          0.181610107421875,
+          "Date: Fri, 14 Mar 2025 06:50:07 GMT",
+          "520",
+          "104.21.11.220"
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          0,
+          0.181282997131348,
+          "Date: Fri, 14 Mar 2025 06:50:07 GMT",
+          "520",
+          "104.21.11.220"
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          0,
+          0.133940935134888,
+          "Date: Fri, 14 Mar 2025 06:50:07 GMT",
+          "520",
+          "172.67.167.76"
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          0,
+          0.135294914245605,
+          "Date: Fri, 14 Mar 2025 06:50:07 GMT",
+          "520",
+          "172.67.167.76"
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          0,
+          0.140393972396851,
+          "Date: Fri, 14 Mar 2025 06:50:07 GMT",
+          "520",
+          "172.67.167.76"
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          0,
+          0.126964807510376,
+          "Date: Fri, 14 Mar 2025 06:50:07 GMT",
+          "520",
+          "172.67.167.76"
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          0,
+          0.194914102554321,
+          "Date: Fri, 14 Mar 2025 06:50:07 GMT",
+          "520",
+          "104.21.11.220"
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          0,
+          0.158950090408325,
+          "Date: Fri, 14 Mar 2025 06:50:07 GMT",
+          "520",
+          "104.21.11.220"
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          0,
+          0.239676952362061,
+          "Date: Fri, 14 Mar 2025 06:50:07 GMT",
+          "520",
+          "172.67.167.76"
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          0,
+          0.286221027374268,
+          "Date: Fri, 14 Mar 2025 06:50:07 GMT",
+          "520",
+          "104.21.11.220"
+        ]
+      ],
+      "ru3.node.check-host.net": [
+        [
+          0,
+          0.182979822158813,
+          "Date: Fri, 14 Mar 2025 06:50:07 GMT",
+          "520",
+          "172.67.167.76"
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          0,
+          3.27691912651062,
+          "Date: Fri, 14 Mar 2025 06:50:10 GMT",
+          "520",
+          "104.21.11.220"
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          0,
+          0.250024080276489,
+          "Date: Fri, 14 Mar 2025 06:50:07 GMT",
+          "520",
+          "172.67.167.76"
+        ]
+      ],
+      "tr1.node.check-host.net": [
+        [
+          0,
+          0.29301381111145,
+          "Date: Fri, 14 Mar 2025 06:50:07 GMT",
+          "520",
+          "172.67.167.76"
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          0,
+          0.412539005279541,
+          "Date: Fri, 14 Mar 2025 06:50:08 GMT",
+          "520",
+          "172.67.167.76"
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          0,
+          0.168437004089355,
+          "Date: Fri, 14 Mar 2025 06:50:07 GMT",
+          "520",
+          "104.21.11.220"
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          0,
+          0.172560930252075,
+          "Date: Fri, 14 Mar 2025 06:50:07 GMT",
+          "520",
+          "172.67.167.76"
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          0,
+          0.224270105361938,
+          "Date: Fri, 14 Mar 2025 06:50:07 GMT",
+          "520",
+          "104.21.11.220"
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          0,
+          0.11547589302063,
+          "Date: Fri, 14 Mar 2025 06:50:07 GMT",
+          "520",
+          "104.21.11.220"
+        ]
+      ],
+      "us1.node.check-host.net": [
+        [
+          0,
+          2.13572597503662,
+          "Date: Fri, 14 Mar 2025 06:50:10 GMT",
+          "520",
+          "172.67.167.76"
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          0,
+          0.0620880126953125,
+          "Date: Fri, 14 Mar 2025 06:50:07 GMT",
+          "520",
+          "172.67.167.76"
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          0,
+          0.0711441040039062,
+          "Date: Fri, 14 Mar 2025 06:50:07 GMT",
+          "520",
+          "104.21.11.220"
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          0,
+          0.811418056488037,
+          "Date: Fri, 14 Mar 2025 06:50:08 GMT",
+          "520",
+          "104.21.11.220"
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": true,
+  "processed": true,
+  "original_image": "https://unit500.python-myth.info.s3.amazonaws.com/ddos/2025/03/14/wupj_org/files/wupj_org.png"
+}
