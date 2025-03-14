@@ -1,0 +1,442 @@
+{
+  "report_type": "ddos",
+  "group_name": "NoName057(16)",
+  "actor_name": "NoName057(16)",
+  "operation_name": "OpFrance",
+  "network": "unknown",
+  "targeted_website": "https://framatome-career.talent-soft.com/my-account/log-in.aspx",
+  "targeted_org": "",
+  "attack_type": "DDoS",
+  "attacked_country": "FR",
+  "attacker_country_affiliation": "ru",
+  "attack_date": "2025-03-13",
+  "check_host": "23fad064k231",
+  "additional_image": "",
+  "check_details": {
+    "website_verification": "https://framatome-career.talent-soft.com/my-account/log-in.aspx",
+    "check_date": "2025-03-13",
+    "check_results": {
+      "bg1.node.check-host.net": [
+        [
+          0,
+          0.164357900619507,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "br1.node.check-host.net": [
+        [
+          0,
+          0.599840879440308,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          0,
+          1.77078604698181,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          0,
+          0.0909039974212646,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          0,
+          0.0471391677856445,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          0,
+          0.038992166519165,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "es1.node.check-host.net": [
+        [
+          0,
+          0.116426944732666,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "fi1.node.check-host.net": [
+        [
+          0,
+          0.126178026199341,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          0,
+          0.0384190082550049,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        [
+          0,
+          0.0681450366973877,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "hk1.node.check-host.net": [
+        [
+          0,
+          0.723132848739624,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "id2.node.check-host.net": [
+        [
+          0,
+          0.790963888168335,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          0,
+          0.178621053695679,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          0,
+          0.201154947280884,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          0,
+          0.393235921859741,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "in2.node.check-host.net": [
+        null,
+        {
+          "message": "Connect timeout"
+        }
+      ],
+      "ir1.node.check-host.net": [
+        [
+          0,
+          0.301563024520874,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "ir2.node.check-host.net": [
+        [
+          0,
+          0.910717964172363,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        null,
+        {
+          "message": "Connect timeout"
+        }
+      ],
+      "ir5.node.check-host.net": [
+        [
+          0,
+          1.84678196907043,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          0,
+          0.557366847991943,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          0,
+          0.0670762062072754,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          0,
+          0.975844860076904,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          0,
+          7.40319013595581,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          0,
+          0.869794130325317,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          0,
+          0.190821170806885,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          0,
+          0.0713570117950439,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          0,
+          0.06227707862854,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          0,
+          0.163630962371826,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          0,
+          0.0972881317138672,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          0,
+          0.111225128173828,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          0,
+          1.15064001083374,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          0,
+          0.794189929962158,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          0,
+          3.04319381713867,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ru3.node.check-host.net": [
+        [
+          0,
+          0.214363813400269,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          0,
+          0.4878830909729,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          0,
+          0.136178970336914,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "tr1.node.check-host.net": [
+        [
+          0,
+          0.181768178939819,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          0,
+          0.186347961425781,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          0,
+          1.70549893379211,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          0,
+          0.189333915710449,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          0,
+          0.297158002853394,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          0,
+          0.0483779907226562,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "us1.node.check-host.net": [
+        [
+          0,
+          0.430136919021606,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          0,
+          0.385629892349243,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          0,
+          0.306977033615112,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          0,
+          0.669989824295044,
+          "Connection reset by peer",
+          null,
+          "20.40.133.47"
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": true,
+  "processed": true,
+  "original_image": "https://unit500.python-myth.info.s3.amazonaws.com/ddos/2025/03/14/framatome-career_talent-soft_com/files/framatome-career_talent-soft_com.png"
+}
