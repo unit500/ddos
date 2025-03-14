@@ -1,0 +1,454 @@
+{
+  "report_type": "ddos",
+  "group_name": "RipperSec",
+  "actor_name": "RipperSec",
+  "operation_name": "",
+  "network": "unknown",
+  "targeted_website": "https://lgbt.foundation/",
+  "targeted_org": "",
+  "attack_type": "DDoS",
+  "attacked_country": "CA",
+  "attacker_country_affiliation": "unknown",
+  "attack_date": "2025-03-14",
+  "check_host": "2400bd6fk236",
+  "additional_image": "",
+  "check_details": {
+    "website_verification": "https://lgbt.foundation/",
+    "check_date": "2025-03-14",
+    "check_results": {
+      "bg1.node.check-host.net": [
+        [
+          0,
+          25.0006420612335,
+          "Connection timed out",
+          null,
+          "172.67.7.232"
+        ]
+      ],
+      "br1.node.check-host.net": [
+        [
+          0,
+          25.0009531974792,
+          "Connection timed out",
+          null,
+          "104.22.3.3"
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          0,
+          25.000853061676,
+          "Connection timed out",
+          null,
+          "172.67.7.232"
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          0,
+          25.0005030632019,
+          "Connection timed out",
+          null,
+          "104.22.2.3"
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          0,
+          25.0001440048218,
+          "Connection timed out",
+          null,
+          "172.67.7.232"
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          0,
+          11.3453500270844,
+          "Date: Fri, 14 Mar 2025 02:55:03 GMT",
+          "525",
+          "104.22.2.3"
+        ]
+      ],
+      "es1.node.check-host.net": [
+        [
+          0,
+          15.9537410736084,
+          "Date: Fri, 14 Mar 2025 02:55:08 GMT",
+          "520",
+          "104.22.2.3"
+        ]
+      ],
+      "fi1.node.check-host.net": [
+        [
+          0,
+          25.0010948181152,
+          "Connection timed out",
+          null,
+          "104.22.2.3"
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          0,
+          2.90389800071716,
+          "Date: Fri, 14 Mar 2025 02:54:55 GMT",
+          "525",
+          "104.22.3.3"
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        [
+          0,
+          25.0006370544434,
+          "Connection timed out",
+          null,
+          "172.67.7.232"
+        ]
+      ],
+      "hk1.node.check-host.net": [
+        [
+          0,
+          25.000198841095,
+          "Connection timed out",
+          null,
+          "172.67.7.232"
+        ]
+      ],
+      "hu1.node.check-host.net": [
+        [
+          0,
+          7.30192112922668,
+          "Date: Fri, 14 Mar 2025 02:54:59 GMT",
+          "525",
+          "172.67.7.232"
+        ]
+      ],
+      "id2.node.check-host.net": [
+        [
+          0,
+          25.0004448890686,
+          "Connection timed out",
+          null,
+          "172.67.7.232"
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          0,
+          25.0010108947754,
+          "Connection timed out",
+          null,
+          "104.22.3.3"
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          0,
+          17.3136661052704,
+          "Date: Fri, 14 Mar 2025 02:55:09 GMT",
+          "525",
+          "104.22.3.3"
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          0,
+          25.000412940979,
+          "Connection timed out",
+          null,
+          "172.67.7.232"
+        ]
+      ],
+      "in2.node.check-host.net": [
+        null,
+        {
+          "message": "Connect timeout"
+        }
+      ],
+      "ir1.node.check-host.net": [
+        [
+          0,
+          0.00701689720153809,
+          "Connection refused",
+          null,
+          null
+        ]
+      ],
+      "ir2.node.check-host.net": [
+        [
+          0,
+          3.00207495689392,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        [
+          0,
+          0.01938796043396,
+          "Connection refused",
+          null,
+          null
+        ]
+      ],
+      "ir5.node.check-host.net": [
+        [
+          0,
+          0.0197288990020752,
+          "Connection refused",
+          null,
+          null
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          0,
+          0.00269389152526855,
+          "Connection refused",
+          null,
+          null
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          0,
+          10.039491891861,
+          "Date: Fri, 14 Mar 2025 02:55:02 GMT",
+          "525",
+          "172.67.7.232"
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          0,
+          25.0006730556488,
+          "Connection timed out",
+          null,
+          "172.67.7.232"
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          0,
+          25.0005609989166,
+          "Connection timed out",
+          null,
+          "188.114.99.228"
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          0,
+          25.0009129047394,
+          "Connection timed out",
+          null,
+          "172.67.7.232"
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          0,
+          24.9996750354767,
+          "Connection timed out",
+          null,
+          "172.67.7.232"
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          0,
+          25.000538110733,
+          "Connection timed out",
+          null,
+          "104.22.3.3"
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          0,
+          22.9676880836487,
+          "Date: Fri, 14 Mar 2025 02:55:15 GMT",
+          "525",
+          "172.67.7.232"
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          0,
+          7.4350471496582,
+          "Date: Fri, 14 Mar 2025 02:54:59 GMT",
+          "525",
+          "104.22.2.3"
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          0,
+          25.0009899139404,
+          "Connection timed out",
+          null,
+          "172.67.7.232"
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          0,
+          25.0006370544434,
+          "Connection timed out",
+          null,
+          "104.22.2.3"
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          0,
+          25.0002439022064,
+          "Connection timed out",
+          null,
+          "104.22.3.3"
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          0,
+          25.0004680156708,
+          "Connection timed out",
+          null,
+          "188.114.99.232"
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          0,
+          25.0006740093231,
+          "Connection timed out",
+          null,
+          "188.114.98.232"
+        ]
+      ],
+      "ru3.node.check-host.net": [
+        [
+          0,
+          25.0000760555267,
+          "Connection timed out",
+          null,
+          "188.114.98.232"
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          0,
+          25.0002529621124,
+          "Connection timed out",
+          null,
+          "188.114.98.232"
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          0,
+          12.1499500274658,
+          "Date: Fri, 14 Mar 2025 02:55:04 GMT",
+          "525",
+          "104.22.2.3"
+        ]
+      ],
+      "tr1.node.check-host.net": [
+        [
+          0,
+          13.1986410617828,
+          "Internal Server Error",
+          "500",
+          "172.67.7.232"
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          0,
+          25.0002491474152,
+          "Connection timed out",
+          null,
+          "104.22.2.3"
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          0,
+          25.0000381469727,
+          "Connection timed out",
+          null,
+          "172.67.7.232"
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          0,
+          25.0003821849823,
+          "Connection timed out",
+          null,
+          "104.22.2.3"
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          1,
+          20.8057479858398,
+          "OK",
+          "200",
+          "172.67.7.232"
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          0,
+          25.0002539157867,
+          "Connection timed out",
+          null,
+          "188.114.98.228"
+        ]
+      ],
+      "us1.node.check-host.net": [
+        [
+          0,
+          25.0009870529175,
+          "Connection timed out",
+          null,
+          "104.22.3.3"
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          0,
+          18.3239548206329,
+          "Date: Fri, 14 Mar 2025 02:55:11 GMT",
+          "520",
+          "172.67.7.232"
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          0,
+          8.68488788604736,
+          "Date: Fri, 14 Mar 2025 02:55:01 GMT",
+          "525",
+          "104.22.2.3"
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          0,
+          9.52613496780396,
+          "Date: Fri, 14 Mar 2025 02:55:02 GMT",
+          "525",
+          "104.22.2.3"
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": true,
+  "processed": true,
+  "original_image": "https://example.com/default.png"
+}
