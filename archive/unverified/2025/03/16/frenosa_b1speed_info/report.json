@@ -1,0 +1,24 @@
+{
+  "report_type": "ddos",
+  "group_name": "4ANTI T4NK",
+  "actor_name": "4ANTI T4NK",
+  "operation_name": "",
+  "network": "unknown",
+  "targeted_website": "https://frenosa.b1speed.info/",
+  "targeted_org": "",
+  "attack_type": "DDoS",
+  "attacked_country": "CA",
+  "attacker_country_affiliation": "unknown",
+  "attack_date": "2025-03-16",
+  "check_host": "2349a2b1k610",
+  "additional_image": "",
+  "check_details": {
+    "website_verification": "https://frenosa.b1speed.info/",
+    "check_date": "2025-02-21",
+    "check_results": {},
+    "check_report_image": ""
+  },
+  "verified": false,
+  "processed": true,
+  "original_image": "https://example.com/default.png"
+}
