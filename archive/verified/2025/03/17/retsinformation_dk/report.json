@@ -1,0 +1,448 @@
+{
+  "report_type": "ddos",
+  "group_name": "indie",
+  "actor_name": "Anonymous Commando Unit",
+  "operation_name": "",
+  "network": "unknown",
+  "targeted_website": "https://www.retsinformation.dk/",
+  "targeted_org": "",
+  "attack_type": "DDoS",
+  "attacked_country": "DK",
+  "attacker_country_affiliation": "unknown",
+  "attack_date": "2025-03-17",
+  "check_host": "241861dckcf5",
+  "additional_image": "",
+  "check_details": {
+    "website_verification": "https://www.retsinformation.dk/",
+    "check_date": "2025-03-17",
+    "check_results": {
+      "bg1.node.check-host.net": [
+        [
+          0,
+          0.223453998565674,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "br1.node.check-host.net": [
+        [
+          0,
+          0.809858083724976,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          0,
+          0.186813831329346,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          0,
+          0.136648178100586,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          0,
+          0.122902870178223,
+          "Service Unavailable",
+          503,
+          "176.22.94.62"
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          0,
+          0.124988794326782,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "es1.node.check-host.net": [
+        [
+          0,
+          0.197338819503784,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "fi1.node.check-host.net": [
+        [
+          0,
+          0.151894092559814,
+          "Service Unavailable",
+          503,
+          "176.22.94.62"
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          0,
+          0.172022104263306,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        [
+          0,
+          0.147419929504395,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "hk1.node.check-host.net": [
+        [
+          0,
+          1.2000458240509,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "hu1.node.check-host.net": [
+        [
+          0,
+          0.172492027282715,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "id2.node.check-host.net": [
+        [
+          0,
+          1.0894570350647,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          0,
+          0.30288290977478,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          0,
+          0.29106593132019,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          0,
+          0.653542041778564,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "ir1.node.check-host.net": [
+        [
+          0,
+          0.38233494758606,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "ir2.node.check-host.net": [
+        [
+          0,
+          0.401674032211304,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        [
+          0,
+          0.366564989089966,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "ir5.node.check-host.net": [
+        [
+          0,
+          3.43056416511536,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          0,
+          0.293926000595093,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          0,
+          0.176665067672729,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          0,
+          1.06981301307678,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          0,
+          0.409657001495361,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          0,
+          0.167497873306274,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          0,
+          0.201519966125488,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          0,
+          0.154132843017578,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          0,
+          0.423819065093994,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          0,
+          0.144339084625244,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          0,
+          0.170713901519775,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          0,
+          0.827172994613647,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          0,
+          0.169763803482056,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          0,
+          0.149850845336914,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          0,
+          0.17979097366333,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "ru3.node.check-host.net": [
+        [
+          0,
+          0.159817934036255,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          0,
+          0.240705013275146,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          0,
+          0.126038074493408,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "tr1.node.check-host.net": [
+        [
+          0,
+          0.240951061248779,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          0,
+          0.224272966384888,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          0,
+          0.160382032394409,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          0,
+          0.168837070465088,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          0,
+          0.251072883605957,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          0,
+          0.166140079498291,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "us1.node.check-host.net": [
+        [
+          0,
+          0.625357866287231,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          0,
+          0.49278712272644,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          0,
+          0.466182947158813,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          0,
+          1.10823702812195,
+          "Service Unavailable",
+          "503",
+          "176.22.94.62"
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": true,
+  "processed": true,
+  "original_image": "https://unit500.python-myth.info.s3.amazonaws.com/ddos/2025/03/17/retsinformation_dk/files/retsinformation_dk.png"
+}
