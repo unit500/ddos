@@ -1,0 +1,445 @@
+{
+  "report_type": "ddos",
+  "group_name": "4ANTI T4NK",
+  "actor_name": "4ANTI T4NK",
+  "operation_name": "",
+  "network": "unknown",
+  "targeted_website": "https://www.pn-mentok.go.id/",
+  "targeted_org": "",
+  "attack_type": "DDoS",
+  "attacked_country": "SG",
+  "attacker_country_affiliation": "id",
+  "attack_date": "2025-03-18",
+  "check_host": "24234898k728",
+  "additional_image": "",
+  "check_details": {
+    "website_verification": "https://www.pn-mentok.go.id/",
+    "check_date": "2025-03-18",
+    "check_results": {
+      "bg1.node.check-host.net": [
+        [
+          0,
+          25.000972032547,
+          "Connection timed out",
+          null,
+          "194.163.42.13"
+        ]
+      ],
+      "br1.node.check-host.net": [
+        [
+          0,
+          25.0009140968323,
+          "Connection timed out",
+          null,
+          "194.163.42.13"
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          0,
+          5.03096580505371,
+          "Internal Server Error",
+          "500",
+          "194.163.42.13"
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          0,
+          3.28388404846191,
+          "Internal Server Error",
+          "500",
+          "194.163.42.13"
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          0,
+          8.16415309906006,
+          "Internal Server Error",
+          500,
+          "194.163.42.13"
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          0,
+          6.06786298751831,
+          "Internal Server Error",
+          "500",
+          "194.163.42.13"
+        ]
+      ],
+      "es1.node.check-host.net": [
+        [
+          0,
+          25.0009219646454,
+          "Connection timed out",
+          null,
+          "194.163.42.13"
+        ]
+      ],
+      "fi1.node.check-host.net": [
+        [
+          0,
+          9.24524903297424,
+          "Internal Server Error",
+          500,
+          "194.163.42.13"
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          0,
+          25.0008790493011,
+          "Connection timed out",
+          null,
+          "194.163.42.13"
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        null,
+        {
+          "message": "Connect timeout"
+        }
+      ],
+      "hk1.node.check-host.net": [
+        [
+          0,
+          8.97039699554443,
+          "Internal Server Error",
+          "500",
+          "194.163.42.13"
+        ]
+      ],
+      "hu1.node.check-host.net": [
+        [
+          0,
+          25.0004878044128,
+          "Connection timed out",
+          null,
+          "194.163.42.13"
+        ]
+      ],
+      "id2.node.check-host.net": [
+        [
+          0,
+          2.64916396141052,
+          "Internal Server Error",
+          "500",
+          "194.163.42.13"
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          0,
+          13.251140832901,
+          "Internal Server Error",
+          "500",
+          "194.163.42.13"
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          0,
+          9.20544695854187,
+          "Internal Server Error",
+          "500",
+          "194.163.42.13"
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          0,
+          25.0008089542389,
+          "Connection timed out",
+          null,
+          "194.163.42.13"
+        ]
+      ],
+      "ir1.node.check-host.net": [
+        [
+          0,
+          13.0179500579834,
+          "Internal Server Error",
+          "500",
+          "194.163.42.13"
+        ]
+      ],
+      "ir2.node.check-host.net": [
+        [
+          0,
+          16.0060911178589,
+          "Internal Server Error",
+          "500",
+          "194.163.42.13"
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        [
+          0,
+          10.3136479854584,
+          "Internal Server Error",
+          "500",
+          "194.163.42.13"
+        ]
+      ],
+      "ir5.node.check-host.net": [
+        [
+          0,
+          11.457512140274,
+          "Internal Server Error",
+          "500",
+          "194.163.42.13"
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          0,
+          10.8660759925842,
+          "Internal Server Error",
+          "500",
+          "194.163.42.13"
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          0,
+          25.0007071495056,
+          "Connection timed out",
+          null,
+          "194.163.42.13"
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          0,
+          9.97577619552612,
+          "Internal Server Error",
+          "500",
+          "194.163.42.13"
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          0,
+          13.0996680259705,
+          "Internal Server Error",
+          "500",
+          "194.163.42.13"
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          0,
+          25.0001020431519,
+          "Connection timed out",
+          null,
+          "194.163.42.13"
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          0,
+          24.9954149723053,
+          "Connection timed out",
+          null,
+          "194.163.42.13"
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          0,
+          25.0011088848114,
+          "Connection timed out",
+          null,
+          "194.163.42.13"
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          0,
+          6.3558669090271,
+          "Internal Server Error",
+          "500",
+          "194.163.42.13"
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          0,
+          8.97062706947327,
+          "Internal Server Error",
+          "500",
+          "194.163.42.13"
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          0,
+          25.001011133194,
+          "Connection timed out",
+          null,
+          "194.163.42.13"
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          0,
+          25.0003809928894,
+          "Connection timed out",
+          null,
+          "194.163.42.13"
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          0,
+          9.9790940284729,
+          "Internal Server Error",
+          "500",
+          "194.163.42.13"
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          0,
+          25.0012040138245,
+          "Connection timed out",
+          null,
+          "194.163.42.13"
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          0,
+          11.5082728862762,
+          "Internal Server Error",
+          "500",
+          "194.163.42.13"
+        ]
+      ],
+      "ru3.node.check-host.net": [
+        [
+          0,
+          25.0013060569763,
+          "Connection timed out",
+          null,
+          "194.163.42.13"
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          0,
+          25.0002229213715,
+          "Connection timed out",
+          null,
+          "194.163.42.13"
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          0,
+          13.2871301174164,
+          "Internal Server Error",
+          "500",
+          "194.163.42.13"
+        ]
+      ],
+      "tr1.node.check-host.net": [
+        [
+          0,
+          10.7754900455475,
+          "Internal Server Error",
+          "500",
+          "194.163.42.13"
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          0,
+          4.41574096679688,
+          "Internal Server Error",
+          "500",
+          "194.163.42.13"
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          0,
+          24.9997539520264,
+          "Connection timed out",
+          null,
+          "194.163.42.13"
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          0,
+          25.0001540184021,
+          "Connection timed out",
+          null,
+          "194.163.42.13"
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          0,
+          25.0001261234283,
+          "Connection timed out",
+          null,
+          "194.163.42.13"
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          0,
+          25.0008959770203,
+          "Connection timed out",
+          null,
+          "194.163.42.13"
+        ]
+      ],
+      "us1.node.check-host.net": [
+        [
+          0,
+          25.0003960132599,
+          "Connection timed out",
+          null,
+          "194.163.42.13"
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          0,
+          13.0807039737701,
+          "Internal Server Error",
+          "500",
+          "194.163.42.13"
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          0,
+          25.0006282329559,
+          "Connection timed out",
+          null,
+          "194.163.42.13"
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          0,
+          25.000864982605,
+          "Connection timed out",
+          null,
+          "194.163.42.13"
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": true,
+  "processed": true,
+  "original_image": "https://example.com/default.png"
+}
