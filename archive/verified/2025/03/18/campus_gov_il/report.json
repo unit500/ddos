@@ -1,0 +1,445 @@
+{
+  "report_type": "ddos",
+  "group_name": "indie",
+  "actor_name": "indie",
+  "operation_name": "Op israel",
+  "network": "Vortex",
+  "targeted_website": "https://campus.gov.il/",
+  "targeted_org": "",
+  "attack_type": "DDoS",
+  "attacked_country": "US",
+  "attacker_country_affiliation": "unknown",
+  "attack_date": "2025-03-18",
+  "check_host": "2425676ak241",
+  "additional_image": "",
+  "check_details": {
+    "website_verification": "https://campus.gov.il/",
+    "check_date": "2025-03-18",
+    "check_results": {
+      "bg1.node.check-host.net": [
+        [
+          0,
+          0.184462070465088,
+          "Not Allowed",
+          "405",
+          "13.32.110.100"
+        ]
+      ],
+      "br1.node.check-host.net": [
+        [
+          0,
+          0.544839143753052,
+          "Not Allowed",
+          "405",
+          "99.84.31.7"
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          0,
+          0.0360920429229736,
+          "Not Allowed",
+          "405",
+          "52.84.45.76"
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          0,
+          0.0471100807189941,
+          "Not Allowed",
+          "405",
+          "13.32.110.51"
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          0,
+          0.0258998870849609,
+          "Not Allowed",
+          405,
+          "108.138.26.90"
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          0,
+          0.018808126449585,
+          "Not Allowed",
+          "405",
+          "108.138.26.90"
+        ]
+      ],
+      "es1.node.check-host.net": [
+        [
+          0,
+          0.149440050125122,
+          "Not Allowed",
+          "405",
+          "18.172.226.51"
+        ]
+      ],
+      "fi1.node.check-host.net": [
+        [
+          0,
+          0.127233982086182,
+          "Not Allowed",
+          405,
+          "3.164.68.84"
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          0,
+          0.127468109130859,
+          "Not Allowed",
+          "405",
+          "108.157.214.78"
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        null,
+        {
+          "message": "Connect timeout"
+        }
+      ],
+      "hk1.node.check-host.net": [
+        [
+          0,
+          0.243720054626465,
+          "Not Allowed",
+          "405",
+          "13.35.186.118"
+        ]
+      ],
+      "hu1.node.check-host.net": [
+        [
+          0,
+          0.0632541179656982,
+          "Not Allowed",
+          "405",
+          "18.172.242.63"
+        ]
+      ],
+      "id2.node.check-host.net": [
+        [
+          0,
+          0.140006065368652,
+          "Not Allowed",
+          "405",
+          "18.67.175.18"
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          1,
+          0.189601182937622,
+          "OK",
+          "200",
+          "52.84.45.76"
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          1,
+          0.100558042526245,
+          "OK",
+          "200",
+          "3.169.71.128"
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          0,
+          0.0518550872802734,
+          "Not Allowed",
+          "405",
+          "54.239.216.60"
+        ]
+      ],
+      "ir1.node.check-host.net": [
+        [
+          0,
+          0.0064690113067627,
+          "Connection refused",
+          null,
+          null
+        ]
+      ],
+      "ir2.node.check-host.net": [
+        [
+          0,
+          3.00272703170776,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        [
+          0,
+          0.0157740116119385,
+          "Connection refused",
+          null,
+          null
+        ]
+      ],
+      "ir5.node.check-host.net": [
+        [
+          0,
+          11.9996199607849,
+          "No such device or address",
+          null,
+          null
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          0,
+          0.00351786613464355,
+          "Connection refused",
+          null,
+          null
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          0,
+          0.0451250076293945,
+          "Not Allowed",
+          "405",
+          "108.157.188.86"
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          0,
+          0.103344917297363,
+          "Not Allowed",
+          "405",
+          "18.65.100.114"
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          0,
+          0.460186004638672,
+          "Not Allowed",
+          "405",
+          "108.157.214.78"
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          0,
+          0.0773160457611084,
+          "Not Allowed",
+          "405",
+          "18.244.102.77"
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          0,
+          0.180989027023315,
+          "Not Allowed",
+          "405",
+          "108.157.214.93"
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          0,
+          0.0296189785003662,
+          "Not Allowed",
+          "405",
+          "18.239.50.32"
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          0,
+          2.01673102378845,
+          "No such device or address",
+          null,
+          null
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          0,
+          0.0615239143371582,
+          "Not Allowed",
+          "405",
+          "18.244.102.50"
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          0,
+          0.04534912109375,
+          "Not Allowed",
+          "405",
+          "18.244.102.50"
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          0,
+          0.124664068222046,
+          "Not Allowed",
+          "405",
+          "3.160.132.3"
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          0,
+          0.0538539886474609,
+          "Not Allowed",
+          "405",
+          "18.172.242.32"
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          0,
+          0.205101013183594,
+          "Not Allowed",
+          "405",
+          "3.164.68.34"
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          0,
+          0.489719152450562,
+          "Not Allowed",
+          "405",
+          "108.138.26.126"
+        ]
+      ],
+      "ru3.node.check-host.net": [
+        [
+          0,
+          0.157859086990356,
+          "Not Allowed",
+          "405",
+          "108.138.26.90"
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          0,
+          0.366379976272583,
+          "Not Allowed",
+          "405",
+          "3.164.68.34"
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          0,
+          0.056920051574707,
+          "Not Allowed",
+          "405",
+          "108.157.214.126"
+        ]
+      ],
+      "tr1.node.check-host.net": [
+        [
+          0,
+          0.210957050323486,
+          "Not Allowed",
+          "405",
+          "18.239.50.18"
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          0,
+          0.0517230033874512,
+          "Not Allowed",
+          "405",
+          "3.168.236.50"
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          0,
+          0.102329015731812,
+          "Not Allowed",
+          "405",
+          "18.244.102.50"
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          0,
+          0.266388893127441,
+          "Not Allowed",
+          "405",
+          "108.138.26.90"
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          0,
+          0.227839946746826,
+          "Not Allowed",
+          "405",
+          "18.244.102.101"
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          0,
+          0.0351579189300537,
+          "Not Allowed",
+          "405",
+          "18.245.162.90"
+        ]
+      ],
+      "us1.node.check-host.net": [
+        [
+          0,
+          0.0252389907836914,
+          "Not Allowed",
+          "405",
+          "13.33.21.12"
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          0,
+          0.154690980911255,
+          "Not Allowed",
+          "405",
+          "13.33.21.104"
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          0,
+          0.167085886001587,
+          "Not Allowed",
+          "405",
+          "99.86.74.75"
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          0,
+          0.136609077453613,
+          "Not Allowed",
+          "405",
+          "18.67.216.93"
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": true,
+  "processed": true,
+  "original_image": "https://unit500.python-myth.info.s3.amazonaws.com/ddos/2025/03/18/campus_gov_il/files/campus_gov_il.png"
+}
