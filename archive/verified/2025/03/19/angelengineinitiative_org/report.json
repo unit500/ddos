@@ -1,0 +1,442 @@
+{
+  "report_type": "ddos",
+  "group_name": "4ANTI T4NK",
+  "actor_name": "xlamper",
+  "operation_name": "",
+  "network": "Lucky Stresser V2",
+  "targeted_website": "https://angelengineinitiative.org/",
+  "targeted_org": "",
+  "attack_type": "DDoS",
+  "attacked_country": "US",
+  "attacker_country_affiliation": "unknown",
+  "attack_date": "2025-03-19",
+  "check_host": "2428f3c9k4c6",
+  "additional_image": "",
+  "check_details": {
+    "website_verification": "https://angelengineinitiative.org/",
+    "check_date": "2025-03-19",
+    "check_results": {
+      "bg1.node.check-host.net": [
+        null,
+        {
+          "message": "Connect timeout"
+        }
+      ],
+      "br1.node.check-host.net": [
+        [
+          0,
+          0.00665020942687988,
+          "Too Many Requests",
+          "429",
+          "192.0.78.25"
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          1,
+          0.0217111110687256,
+          "OK",
+          "200",
+          "192.0.78.24"
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          0,
+          0.0213840007781982,
+          "Too Many Requests",
+          "429",
+          "192.0.78.25"
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          0,
+          0.0290420055389404,
+          "Too Many Requests",
+          429,
+          "192.0.78.24"
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          1,
+          0.0110950469970703,
+          "OK",
+          "200",
+          "192.0.78.24"
+        ]
+      ],
+      "es1.node.check-host.net": [
+        [
+          1,
+          0.0393989086151123,
+          "OK",
+          "200",
+          "192.0.78.24"
+        ]
+      ],
+      "fi1.node.check-host.net": [
+        [
+          1,
+          0.0359768867492676,
+          "OK",
+          200,
+          "192.0.78.24"
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          1,
+          0.0278000831604004,
+          "OK",
+          "200",
+          "192.0.78.25"
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        null,
+        {
+          "message": "Connect timeout"
+        }
+      ],
+      "hk1.node.check-host.net": [
+        [
+          0,
+          0.02223801612854,
+          "Too Many Requests",
+          "429",
+          "192.0.78.24"
+        ]
+      ],
+      "hu1.node.check-host.net": [
+        [
+          0,
+          0.0352640151977539,
+          "Too Many Requests",
+          "429",
+          "192.0.78.25"
+        ]
+      ],
+      "id2.node.check-host.net": [
+        [
+          1,
+          0.0603928565979004,
+          "OK",
+          "200",
+          "192.0.78.25"
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          1,
+          0.267849922180176,
+          "OK",
+          "200",
+          "192.0.78.25"
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          1,
+          0.201586008071899,
+          "OK",
+          "200",
+          "192.0.78.25"
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          0,
+          0.00696110725402832,
+          "Too Many Requests",
+          "429",
+          "192.0.78.25"
+        ]
+      ],
+      "ir1.node.check-host.net": [
+        [
+          1,
+          0.301137924194336,
+          "OK",
+          "200",
+          "192.0.78.25"
+        ]
+      ],
+      "ir2.node.check-host.net": [
+        [
+          1,
+          0.982148170471191,
+          "OK",
+          "200",
+          "192.0.78.24"
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        [
+          1,
+          0.405330181121826,
+          "OK",
+          "200",
+          "192.0.78.24"
+        ]
+      ],
+      "ir5.node.check-host.net": [
+        [
+          0,
+          0.264772176742554,
+          "Too Many Requests",
+          "429",
+          "192.0.78.25"
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          1,
+          5.05863499641418,
+          "OK",
+          "200",
+          "192.0.78.25"
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          1,
+          0.00719285011291504,
+          "OK",
+          "200",
+          "192.0.78.25"
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          1,
+          0.0400261878967285,
+          "OK",
+          "200",
+          "192.0.78.24"
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          0,
+          0.393392086029053,
+          "Too Many Requests",
+          "429",
+          "192.0.78.25"
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          1,
+          0.0609219074249268,
+          "OK",
+          "200",
+          "192.0.78.24"
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          0,
+          0.0883097648620605,
+          "Too Many Requests",
+          "429",
+          "192.0.78.24"
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          1,
+          0.0103211402893066,
+          "OK",
+          "200",
+          "192.0.78.24"
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          1,
+          0.0177850723266602,
+          "OK",
+          "200",
+          "192.0.78.24"
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          1,
+          0.0536189079284668,
+          "OK",
+          "200",
+          "192.0.78.24"
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          1,
+          0.0835981369018555,
+          "OK",
+          "200",
+          "192.0.78.25"
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          1,
+          0.076117992401123,
+          "OK",
+          "200",
+          "192.0.78.25"
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          1,
+          0.045219898223877,
+          "OK",
+          "200",
+          "192.0.78.25"
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          1,
+          0.082970142364502,
+          "OK",
+          "200",
+          "192.0.78.24"
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          1,
+          0.232071876525879,
+          "OK",
+          "200",
+          "192.0.78.24"
+        ]
+      ],
+      "ru3.node.check-host.net": [
+        [
+          1,
+          0.12915301322937,
+          "OK",
+          "200",
+          "192.0.78.24"
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          1,
+          0.266192197799683,
+          "OK",
+          "200",
+          "192.0.78.25"
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          1,
+          0.0288810729980469,
+          "OK",
+          "200",
+          "192.0.78.25"
+        ]
+      ],
+      "tr1.node.check-host.net": [
+        [
+          0,
+          0.139307975769043,
+          "Too Many Requests",
+          "429",
+          "192.0.78.24"
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          0,
+          0.104773998260498,
+          "Too Many Requests",
+          "429",
+          "192.0.78.24"
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          0,
+          0.0746579170227051,
+          "Too Many Requests",
+          "429",
+          "192.0.78.25"
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          0,
+          0.0813748836517334,
+          "Too Many Requests",
+          "429",
+          "192.0.78.25"
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          1,
+          1.32227516174316,
+          "OK",
+          "200",
+          "192.0.78.25"
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          1,
+          0.0348000526428223,
+          "OK",
+          "200",
+          "192.0.78.25"
+        ]
+      ],
+      "us1.node.check-host.net": [
+        [
+          1,
+          0.00921511650085449,
+          "OK",
+          "200",
+          "192.0.78.25"
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          1,
+          0.0117142200469971,
+          "OK",
+          "200",
+          "192.0.78.24"
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          1,
+          0.0129430294036865,
+          "OK",
+          "200",
+          "192.0.78.24"
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          0,
+          0.21012806892395,
+          "Too Many Requests",
+          "429",
+          "192.0.78.24"
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": true,
+  "processed": true,
+  "original_image": "https://unit500.python-myth.info.s3.amazonaws.com/ddos/2025/03/19/angelengineinitiative_org/files/angelengineinitiative_org.png"
+}
