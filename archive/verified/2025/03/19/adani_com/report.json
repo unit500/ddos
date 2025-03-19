@@ -1,0 +1,445 @@
+{
+  "report_type": "ddos",
+  "group_name": "SYLHET GANG-SG",
+  "actor_name": "SYLHET GANG-SG",
+  "operation_name": "",
+  "network": "Other",
+  "targeted_website": "https://www.adani.com/",
+  "targeted_org": "",
+  "attack_type": "DDoS",
+  "attacked_country": "US",
+  "attacker_country_affiliation": "bd",
+  "attack_date": "2025-03-19",
+  "check_host": "242906e5k7ac",
+  "additional_image": "",
+  "check_details": {
+    "website_verification": "https://www.adani.com/",
+    "check_date": "2025-03-19",
+    "check_results": {
+      "bg1.node.check-host.net": [
+        [
+          0,
+          5.45237016677856,
+          "Service Unavailable",
+          "503",
+          "2.20.134.90"
+        ]
+      ],
+      "br1.node.check-host.net": [
+        [
+          0,
+          3.57881307601929,
+          "Service Unavailable",
+          "503",
+          "104.94.100.73"
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          0,
+          3.39139604568481,
+          "Service Unavailable",
+          "503",
+          "173.222.106.9"
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          0,
+          4.89206290245056,
+          "Service Unavailable",
+          "503",
+          "23.212.110.42"
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          0,
+          5.17046093940735,
+          "Service Unavailable",
+          503,
+          "104.126.37.131"
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          0,
+          1.10797309875488,
+          "Service Unavailable",
+          "503",
+          "23.36.162.197"
+        ]
+      ],
+      "es1.node.check-host.net": [
+        [
+          0,
+          1.54109597206116,
+          "Service Unavailable",
+          "503",
+          "88.221.213.105"
+        ]
+      ],
+      "fi1.node.check-host.net": [
+        [
+          0,
+          2.46406197547913,
+          "Service Unavailable",
+          503,
+          "2.22.31.233"
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          0,
+          2.76767992973328,
+          "Service Unavailable",
+          "503",
+          "104.97.14.192"
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        null,
+        {
+          "message": "Connect timeout"
+        }
+      ],
+      "hk1.node.check-host.net": [
+        [
+          0,
+          16.4144380092621,
+          "Forbidden",
+          "403",
+          "23.200.143.76"
+        ]
+      ],
+      "hu1.node.check-host.net": [
+        [
+          0,
+          1.89433908462524,
+          "Service Unavailable",
+          "503",
+          "2.16.16.178"
+        ]
+      ],
+      "id2.node.check-host.net": [
+        [
+          0,
+          3.13315296173096,
+          "Service Unavailable",
+          "503",
+          "92.123.133.138"
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          0,
+          3.6518349647522,
+          "Service Unavailable",
+          "503",
+          "82.102.152.170"
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          0,
+          25.0006101131439,
+          "Connection timed out",
+          null,
+          "104.115.80.64"
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          0,
+          1.12065505981445,
+          "Forbidden",
+          "403",
+          "104.94.100.146"
+        ]
+      ],
+      "ir1.node.check-host.net": [
+        [
+          0,
+          3.3839750289917,
+          "Service Unavailable",
+          "503",
+          "185.200.232.57"
+        ]
+      ],
+      "ir2.node.check-host.net": [
+        [
+          0,
+          0.844029903411865,
+          "Service Unavailable",
+          "503",
+          "82.178.158.114"
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        [
+          0,
+          3.08705592155457,
+          "Service Unavailable",
+          "503",
+          "185.200.232.56"
+        ]
+      ],
+      "ir5.node.check-host.net": [
+        [
+          0,
+          2.81364011764526,
+          "Service Unavailable",
+          "503",
+          "96.16.88.165"
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          0,
+          2.45806503295898,
+          "Service Unavailable",
+          "503",
+          "104.115.82.10"
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          0,
+          1.12083697319031,
+          "Service Unavailable",
+          "503",
+          "173.222.106.9"
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          0,
+          2.91021299362183,
+          "Service Unavailable",
+          "503",
+          "2.18.27.154"
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          0,
+          2.20268392562866,
+          "Service Unavailable",
+          "503",
+          "96.16.88.162"
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          0,
+          9.19998908042908,
+          "Service Unavailable",
+          "503",
+          "104.94.100.146"
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          0,
+          2.65252614021301,
+          "Service Unavailable",
+          "503",
+          "104.94.100.146"
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          0,
+          17.9789979457855,
+          "Service Unavailable",
+          "503",
+          "2.16.6.13"
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          0,
+          3.79368710517883,
+          "Service Unavailable",
+          "503",
+          "92.123.133.173"
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          0,
+          3.03609800338745,
+          "Service Unavailable",
+          "503",
+          "96.16.54.185"
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          0,
+          3.11469697952271,
+          "Service Unavailable",
+          "503",
+          "96.16.54.161"
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          0,
+          3.51310896873474,
+          "Service Unavailable",
+          "503",
+          "23.62.180.218"
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          0,
+          1.5422830581665,
+          "Service Unavailable",
+          "503",
+          "2.20.45.209"
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          0,
+          25.0007009506226,
+          "Connection timed out",
+          null,
+          "2.19.183.10"
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          0,
+          6.4331841468811,
+          "Service Unavailable",
+          "503",
+          "104.94.100.73"
+        ]
+      ],
+      "ru3.node.check-host.net": [
+        [
+          0,
+          6.60056686401367,
+          "Service Unavailable",
+          "503",
+          "104.94.100.73"
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          0,
+          21.4872190952301,
+          "Service Unavailable",
+          "503",
+          "2.19.183.10"
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          0,
+          25.0004801750183,
+          "Connection timed out",
+          null,
+          "2.19.183.10"
+        ]
+      ],
+      "tr1.node.check-host.net": [
+        [
+          0,
+          1.53183913230896,
+          "Service Unavailable",
+          "503",
+          "2.19.196.121"
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          0,
+          9.03184509277344,
+          "Service Unavailable",
+          "503",
+          "2.20.134.90"
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          0,
+          8.55428886413574,
+          "Service Unavailable",
+          "503",
+          "104.94.100.146"
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          0,
+          13.2003810405731,
+          "Service Unavailable",
+          "503",
+          "92.123.133.138"
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          0,
+          6.26925492286682,
+          "Service Unavailable",
+          "503",
+          "104.94.100.73"
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          0,
+          1.92185616493225,
+          "Service Unavailable",
+          "503",
+          "92.122.54.81"
+        ]
+      ],
+      "us1.node.check-host.net": [
+        [
+          0,
+          7.00709295272827,
+          "Service Unavailable",
+          "503",
+          "173.222.162.171"
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          0,
+          14.0472860336304,
+          "Service Unavailable",
+          "503",
+          "184.31.0.178"
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          0,
+          2.04944705963135,
+          "Service Unavailable",
+          "503",
+          "23.48.105.4"
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          0,
+          7.46802282333374,
+          "Service Unavailable",
+          "503",
+          "104.94.100.73"
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": true,
+  "processed": true,
+  "original_image": "https://unit500.python-myth.info.s3.amazonaws.com/ddos/2025/03/19/adani_com/files/adani_com.png"
+}
