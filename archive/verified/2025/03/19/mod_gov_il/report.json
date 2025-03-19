@@ -1,0 +1,445 @@
+{
+  "report_type": "ddos",
+  "group_name": "Anonymous Commando Unit",
+  "actor_name": "Anonymous Commando Unit",
+  "operation_name": "",
+  "network": "unknown",
+  "targeted_website": "https://www.mod.gov.il/",
+  "targeted_org": "",
+  "attack_type": "DDoS",
+  "attacked_country": "US",
+  "attacker_country_affiliation": "unknown",
+  "attack_date": "2025-03-19",
+  "check_host": "24290b18kd0a",
+  "additional_image": "",
+  "check_details": {
+    "website_verification": "https://www.mod.gov.il/",
+    "check_date": "2025-03-19",
+    "check_results": {
+      "bg1.node.check-host.net": [
+        [
+          0,
+          24.999351978302,
+          "Connection timed out",
+          null,
+          "45.60.33.88"
+        ]
+      ],
+      "br1.node.check-host.net": [
+        [
+          0,
+          25.0012052059174,
+          "Connection timed out",
+          null,
+          "45.60.37.88"
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          0,
+          25.0005390644073,
+          "Connection timed out",
+          null,
+          "45.60.33.88"
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          0,
+          25.0011620521545,
+          "Connection timed out",
+          null,
+          "45.60.33.88"
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          0,
+          25.0002720355988,
+          "Connection timed out",
+          null,
+          "45.60.33.88"
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          0,
+          25.0004329681396,
+          "Connection timed out",
+          null,
+          "45.60.33.88"
+        ]
+      ],
+      "es1.node.check-host.net": [
+        [
+          0,
+          25.0000240802765,
+          "Connection timed out",
+          null,
+          "45.60.33.88"
+        ]
+      ],
+      "fi1.node.check-host.net": [
+        [
+          0,
+          25.0001831054688,
+          "Connection timed out",
+          null,
+          "45.60.33.88"
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          0,
+          25.0018429756165,
+          "Connection timed out",
+          null,
+          "45.60.39.88"
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        null,
+        {
+          "message": "Connect timeout"
+        }
+      ],
+      "hk1.node.check-host.net": [
+        [
+          0,
+          25.0008950233459,
+          "Connection timed out",
+          null,
+          "45.60.35.88"
+        ]
+      ],
+      "hu1.node.check-host.net": [
+        [
+          0,
+          25.0002830028534,
+          "Connection timed out",
+          null,
+          "45.60.33.88"
+        ]
+      ],
+      "id2.node.check-host.net": [
+        [
+          0,
+          25.0018670558929,
+          "Connection timed out",
+          null,
+          "45.60.39.88"
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          0,
+          24.9998250007629,
+          "Connection timed out",
+          null,
+          "45.60.33.88"
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          0,
+          24.9998159408569,
+          "Connection timed out",
+          null,
+          "45.60.33.88"
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          0,
+          0.407463073730469,
+          "Forbidden",
+          "403",
+          "45.60.35.88"
+        ]
+      ],
+      "ir1.node.check-host.net": [
+        [
+          0,
+          0.00760912895202637,
+          "Connection refused",
+          null,
+          null
+        ]
+      ],
+      "ir2.node.check-host.net": [
+        [
+          0,
+          3.00605916976929,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        [
+          0,
+          0.023669958114624,
+          "Connection refused",
+          null,
+          null
+        ]
+      ],
+      "ir5.node.check-host.net": [
+        [
+          0,
+          12.0001401901245,
+          "No such device or address",
+          null,
+          null
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          0,
+          0.00354790687561035,
+          "Connection refused",
+          null,
+          null
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          0,
+          25.001161813736,
+          "Connection timed out",
+          null,
+          "45.60.33.88"
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          0,
+          25.0006458759308,
+          "Connection timed out",
+          null,
+          "45.60.35.88"
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          0,
+          25.0005209445953,
+          "Connection timed out",
+          null,
+          "45.60.39.88"
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          0,
+          25.0009469985962,
+          "Connection timed out",
+          null,
+          "45.60.33.88"
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          0,
+          25.0008211135864,
+          "Connection timed out",
+          null,
+          "45.60.33.88"
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          0,
+          25.0012109279633,
+          "Connection timed out",
+          null,
+          "45.60.33.88"
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          0,
+          24.9998469352722,
+          "Connection timed out",
+          null,
+          "45.60.33.88"
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          0,
+          25.0007989406586,
+          "Connection timed out",
+          null,
+          "45.60.33.88"
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          0,
+          25.0006589889526,
+          "Connection timed out",
+          null,
+          "45.60.33.88"
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          0,
+          25.0006051063538,
+          "Connection timed out",
+          null,
+          "45.60.33.88"
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          0,
+          25.0009338855743,
+          "Connection timed out",
+          null,
+          "45.60.33.88"
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          0,
+          0.269211053848267,
+          "Forbidden",
+          "403",
+          "45.60.39.88"
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          0,
+          0.226189136505127,
+          "Forbidden",
+          "403",
+          "45.60.39.88"
+        ]
+      ],
+      "ru3.node.check-host.net": [
+        [
+          0,
+          0.405740976333618,
+          "Forbidden",
+          "403",
+          "45.60.39.88"
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          0,
+          0.271785974502563,
+          "Forbidden",
+          "403",
+          "45.60.39.88"
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          0,
+          25.0021579265594,
+          "Connection timed out",
+          null,
+          "45.60.33.88"
+        ]
+      ],
+      "tr1.node.check-host.net": [
+        [
+          0,
+          25.0002038478851,
+          "Connection timed out",
+          null,
+          "45.60.33.88"
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          0,
+          25.0002529621124,
+          "Connection timed out",
+          null,
+          "45.60.33.88"
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          0,
+          25.0005128383636,
+          "Connection timed out",
+          null,
+          "45.60.33.88"
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          0,
+          25.0007879734039,
+          "Connection timed out",
+          null,
+          "45.60.33.88"
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          0,
+          25.0014989376068,
+          "Connection timed out",
+          null,
+          "45.60.33.88"
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          0,
+          25.0004060268402,
+          "Connection timed out",
+          null,
+          "45.60.33.88"
+        ]
+      ],
+      "us1.node.check-host.net": [
+        [
+          0,
+          25.0004241466522,
+          "Connection timed out",
+          null,
+          "45.60.31.88"
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          0,
+          25.0010380744934,
+          "Connection timed out",
+          null,
+          "45.60.31.88"
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          0,
+          25.000746011734,
+          "Connection timed out",
+          null,
+          "45.60.31.88"
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          0,
+          25.0006730556488,
+          "Connection timed out",
+          null,
+          "45.60.39.88"
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": true,
+  "processed": true,
+  "original_image": "https://unit500.python-myth.info.s3.amazonaws.com/ddos/2025/03/19/mod_gov_il/files/mod_gov_il.png"
+}
