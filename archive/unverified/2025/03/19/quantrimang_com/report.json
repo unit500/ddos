@@ -1,0 +1,19 @@
+{
+  "report_type": "ddos",
+  "group_name": "QDDT",
+  "actor_name": "QDDT",
+  "operation_name": "",
+  "network": "unknown",
+  "targeted_website": "https://quantrimang.com/",
+  "targeted_org": "",
+  "attack_type": "DDoS",
+  "attacked_country": "CA",
+  "attacker_country_affiliation": "vn",
+  "attack_date": "2025-03-19",
+  "check_host": "",
+  "additional_image": "",
+  "unverified": true,
+  "processed": true,
+  "additional_image_original": "https://i.ibb.co/GQKzXmkf/photo-2025-03-19-11-31-39.jpg",
+  "original_image": "https://example.com/default.png"
+}
