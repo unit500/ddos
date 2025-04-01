@@ -1,0 +1,448 @@
+{
+  "report_type": "ddos",
+  "group_name": "indie",
+  "actor_name": "indie",
+  "operation_name": "Hack For Humanity",
+  "network": "unknown",
+  "targeted_website": "https://www.mindef.gov.cm/",
+  "targeted_org": "",
+  "attack_type": "DDoS",
+  "attacked_country": "CM",
+  "attacker_country_affiliation": "unknown",
+  "attack_date": "2025-04-01",
+  "check_host": "248e477ck44c",
+  "additional_image": "",
+  "check_details": {
+    "website_verification": "https://www.mindef.gov.cm/",
+    "check_date": "2025-04-01",
+    "check_results": {
+      "bg1.node.check-host.net": [
+        [
+          0,
+          5.6617591381073,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "br1.node.check-host.net": [
+        [
+          0,
+          6.00222611427307,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          0,
+          5.92591285705566,
+          "No route to host",
+          null,
+          null
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          0,
+          5.86633086204529,
+          "No route to host",
+          null,
+          null
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          0,
+          5.69691514968872,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          0,
+          5.68351483345032,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "es1.node.check-host.net": [
+        [
+          0,
+          5.87820386886597,
+          "No route to host",
+          null,
+          null
+        ]
+      ],
+      "fi1.node.check-host.net": [
+        [
+          0,
+          5.63904404640198,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          0,
+          5.92026805877686,
+          "No route to host",
+          null,
+          null
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        [
+          0,
+          5.67425608634949,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "hk1.node.check-host.net": [
+        [
+          0,
+          5.08627486228943,
+          "No route to host",
+          null,
+          null
+        ]
+      ],
+      "hu1.node.check-host.net": [
+        [
+          0,
+          5.68170094490051,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "id2.node.check-host.net": [
+        [
+          0,
+          5.45476818084717,
+          "No route to host",
+          null,
+          null
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          0,
+          5.63080596923828,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          0,
+          5.8191921710968,
+          "No route to host",
+          null,
+          null
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          0,
+          5.68129301071167,
+          "No route to host",
+          null,
+          null
+        ]
+      ],
+      "ir1.node.check-host.net": [
+        [
+          0,
+          5.46939182281494,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ir2.node.check-host.net": [
+        [
+          0,
+          5.51512503623962,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        [
+          0,
+          5.52439403533936,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ir5.node.check-host.net": [
+        [
+          0,
+          6.00309300422668,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          0,
+          5.56678795814514,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          0,
+          5.88076591491699,
+          "No route to host",
+          null,
+          null
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          0,
+          5.35832691192627,
+          "No route to host",
+          null,
+          null
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          0,
+          5.69731783866882,
+          "No route to host",
+          null,
+          null
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          0,
+          5.78781008720398,
+          "No route to host",
+          null,
+          null
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          0,
+          5.78667688369751,
+          "No route to host",
+          null,
+          null
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          0,
+          5.71789193153381,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          0,
+          5.68383693695068,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          0,
+          5.88425898551941,
+          "No route to host",
+          null,
+          null
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          0,
+          6.00176906585693,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          0,
+          5.83703994750977,
+          "No route to host",
+          null,
+          null
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          0,
+          5.64785981178284,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          0,
+          5.6087589263916,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          0,
+          5.83678007125854,
+          "No route to host",
+          null,
+          null
+        ]
+      ],
+      "ru3.node.check-host.net": [
+        [
+          0,
+          5.59043908119202,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          0,
+          6.00319790840149,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          0,
+          5.86440992355347,
+          "No route to host",
+          null,
+          null
+        ]
+      ],
+      "tr1.node.check-host.net": [
+        [
+          0,
+          5.85683608055115,
+          "No route to host",
+          null,
+          null
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          0,
+          6.00230693817139,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          0,
+          5.79808211326599,
+          "No route to host",
+          null,
+          null
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          0,
+          6.00170707702637,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          0,
+          6.00340414047241,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          0,
+          5.6852810382843,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "us1.node.check-host.net": [
+        [
+          0,
+          5.21578192710876,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          0,
+          6.00170111656189,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          0,
+          5.58424401283264,
+          "No route to host",
+          null,
+          null
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          0,
+          5.27383208274841,
+          "No route to host",
+          null,
+          null
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": true,
+  "processed": true,
+  "original_image": "https://unit500.python-myth.info.s3.amazonaws.com/ddos/2025/04/01/mindef_gov_cm/files/mindef_gov_cm.png"
+}
