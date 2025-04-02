@@ -1,0 +1,448 @@
+{
+  "report_type": "ddos",
+  "group_name": "Keymous",
+  "actor_name": "Keymous",
+  "operation_name": "",
+  "network": "unknown",
+  "targeted_website": "https://www.bankofstockton.com/",
+  "targeted_org": "",
+  "attack_type": "DDoS",
+  "attacked_country": "US",
+  "attacker_country_affiliation": "unknown",
+  "attack_date": "2025-04-02",
+  "check_host": "2494fa58k90a",
+  "additional_image": "",
+  "check_details": {
+    "website_verification": "https://www.bankofstockton.com/",
+    "check_date": "2025-04-02",
+    "check_results": {
+      "bg1.node.check-host.net": [
+        [
+          0,
+          25.0004441738129,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "br1.node.check-host.net": [
+        [
+          0,
+          25.0002691745758,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          0,
+          25.0004899501801,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          0,
+          25.0006930828094,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          0,
+          25.0000109672546,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          0,
+          25.0000989437103,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "es1.node.check-host.net": [
+        [
+          0,
+          25.0006191730499,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "fi1.node.check-host.net": [
+        [
+          0,
+          24.9994928836823,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          0,
+          25.000324010849,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        [
+          0,
+          24.9994790554047,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "hk1.node.check-host.net": [
+        [
+          0,
+          25.000776052475,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "hu1.node.check-host.net": [
+        [
+          0,
+          25.0000970363617,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "id2.node.check-host.net": [
+        [
+          0,
+          25.0003249645233,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          0,
+          25.0002188682556,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          0,
+          25.0002598762512,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          0,
+          24.9995248317719,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "ir1.node.check-host.net": [
+        [
+          0,
+          24.999696969986,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "ir2.node.check-host.net": [
+        [
+          0,
+          25.0001158714294,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        [
+          0,
+          25.0000081062317,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "ir5.node.check-host.net": [
+        [
+          0,
+          25.0001838207245,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          0,
+          25.0008850097656,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          0,
+          25.0006289482117,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          0,
+          25.0019838809967,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          0,
+          25.0008451938629,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          0,
+          25.000415802002,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          0,
+          25.0000460147858,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          0,
+          25.0001101493835,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          0,
+          24.9996900558472,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          0,
+          24.9999499320984,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          0,
+          25.0005168914795,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          0,
+          25.0002410411835,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          0,
+          25.000256061554,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          0,
+          25.0001399517059,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          0,
+          24.9998331069946,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "ru3.node.check-host.net": [
+        [
+          0,
+          25.0007359981537,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          0,
+          25.0010039806366,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          0,
+          25.0006401538849,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "tr1.node.check-host.net": [
+        [
+          0,
+          25.0001380443573,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          0,
+          25.0000879764557,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          0,
+          25.0008211135864,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          0,
+          25.0001730918884,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          0,
+          24.999981880188,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          0,
+          24.998829126358,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "us1.node.check-host.net": [
+        [
+          0,
+          25.0009410381317,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          0,
+          25.0003471374512,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          0,
+          25.0273711681366,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          0,
+          25.0005779266357,
+          "Connection timed out",
+          null,
+          "13.64.149.218"
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": true,
+  "processed": true,
+  "original_image": "https://unit500.python-myth.info.s3.amazonaws.com/ddos/2025/04/02/bankofstockton_com/files/bankofstockton_com.png"
+}
