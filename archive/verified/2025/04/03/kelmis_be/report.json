@@ -1,8 +1,8 @@
 {
   "report_type": "ddos",
-  "group_name": "Keymous",
-  "actor_name": "Keymous",
-  "operation_name": "",
+  "group_name": "NoName057(16)",
+  "actor_name": "NoName057(16)",
+  "operation_name": "OpBelgium",
   "network": "unknown",
   "targeted_website": "https://www.kelmis.be/",
   "targeted_org": "",
