@@ -1,0 +1,445 @@
+{
+  "report_type": "ddos",
+  "group_name": "Red Wolf Cyber",
+  "actor_name": "Red Wolf Cyber",
+  "operation_name": "Bloody France",
+  "network": "unknown",
+  "targeted_website": "https://www.dgse.gouv.fr/fr",
+  "targeted_org": "",
+  "attack_type": "DDoS",
+  "attacked_country": "US",
+  "attacker_country_affiliation": "ir",
+  "attack_date": "2025-04-03",
+  "check_host": "249e4a00k9d5",
+  "additional_image": "",
+  "check_details": {
+    "website_verification": "https://www.dgse.gouv.fr/fr",
+    "check_date": "2025-04-03",
+    "check_results": {
+      "bg1.node.check-host.net": [
+        null,
+        {
+          "message": "Connect timeout"
+        }
+      ],
+      "br1.node.check-host.net": [
+        [
+          0,
+          6.45625996589661,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          0,
+          4.24847292900085,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          1,
+          14.0070140361786,
+          "OK",
+          "200",
+          "107.154.50.81"
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          0,
+          4.11210489273071,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          0,
+          4.14572381973267,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "es1.node.check-host.net": [
+        [
+          0,
+          4.46242713928223,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "fi1.node.check-host.net": [
+        [
+          0,
+          4.42302393913269,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          0,
+          4.72231793403625,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        [
+          0,
+          4.1109299659729,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "hk1.node.check-host.net": [
+        [
+          0,
+          5.72910499572754,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "hu1.node.check-host.net": [
+        [
+          0,
+          3.02109694480896,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "id2.node.check-host.net": [
+        [
+          0,
+          6.33281302452087,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          1,
+          18.9965410232544,
+          "OK",
+          "200",
+          "107.154.50.81"
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          0,
+          5.43887305259705,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          0,
+          5.13923501968384,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "ir1.node.check-host.net": [
+        [
+          0,
+          4.67771887779236,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "ir2.node.check-host.net": [
+        [
+          0,
+          4.57394409179688,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        [
+          0,
+          4.95507287979126,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "ir5.node.check-host.net": [
+        [
+          1,
+          12.1276881694794,
+          "OK",
+          "200",
+          "107.154.50.81"
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          0,
+          3.91476798057556,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          0,
+          4.64758205413818,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          0,
+          6.58434700965881,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          0,
+          5.26930594444275,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          0,
+          4.18893194198608,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          0,
+          4.913743019104,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          0,
+          4.28075408935547,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          0,
+          4.61559915542603,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          0,
+          4.27642488479614,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          1,
+          18.180319070816,
+          "OK",
+          "200",
+          "107.154.50.81"
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          0,
+          4.93407511711121,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          0,
+          4.71005892753601,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          0,
+          4.48593497276306,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          0,
+          4.29610896110535,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ru3.node.check-host.net": [
+        [
+          0,
+          4.87972712516785,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          0,
+          5.70889186859131,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          0,
+          4.80482888221741,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "tr1.node.check-host.net": [
+        [
+          1,
+          14.3532021045685,
+          "OK",
+          "200",
+          "107.154.50.81"
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          0,
+          4.5378429889679,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          1,
+          11.893462896347,
+          "OK",
+          "200",
+          "107.154.50.81"
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          0,
+          4.22293996810913,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          0,
+          4.53473901748657,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          0,
+          4.15222597122192,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "us1.node.check-host.net": [
+        [
+          0,
+          5.3377058506012,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          0,
+          4.8686261177063,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          0,
+          5.06947898864746,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          0,
+          5.19232296943665,
+          "Connection reset by peer",
+          null,
+          "107.154.50.81"
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": true,
+  "processed": true,
+  "original_image": "https://unit500.python-myth.info.s3.amazonaws.com/ddos/2025/04/03/dgse_gouv_fr/files/dgse_gouv_fr.png"
+}
