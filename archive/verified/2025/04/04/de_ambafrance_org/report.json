@@ -1,0 +1,448 @@
+{
+  "report_type": "ddos",
+  "group_name": "Red Wolf Cyber",
+  "actor_name": "Red Wolf Cyber",
+  "operation_name": "",
+  "network": "unknown",
+  "targeted_website": "https://de.ambafrance.org/Applying-for-a-French-visa-in-Germany",
+  "targeted_org": "",
+  "attack_type": "DDoS",
+  "attacked_country": "FR",
+  "attacker_country_affiliation": "unknown",
+  "attack_date": "2025-04-04",
+  "check_host": "24a4d983k1e0",
+  "additional_image": "",
+  "check_details": {
+    "website_verification": "https://de.ambafrance.org/Applying-for-a-French-visa-in-Germany",
+    "check_date": "2025-04-04",
+    "check_results": {
+      "bg1.node.check-host.net": [
+        [
+          0,
+          0.313197135925293,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "br1.node.check-host.net": [
+        [
+          0,
+          1.02599596977234,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          0,
+          0.402055978775024,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          0,
+          0.207931995391846,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          0,
+          0.177475214004517,
+          "Unauthorized",
+          401,
+          "95.128.47.156"
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          0,
+          0.276925086975098,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "es1.node.check-host.net": [
+        [
+          0,
+          0.226859092712402,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "fi1.node.check-host.net": [
+        [
+          0,
+          0.326930999755859,
+          "Unauthorized",
+          401,
+          "95.128.47.156"
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          0,
+          0.308993101119995,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        [
+          0,
+          0.167017936706543,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "hk1.node.check-host.net": [
+        [
+          0,
+          1.29877901077271,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "hu1.node.check-host.net": [
+        [
+          0,
+          0.265344858169556,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "id2.node.check-host.net": [
+        [
+          0,
+          0.974328994750977,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          0,
+          0.40861988067627,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          0,
+          0.456331968307495,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          0,
+          0.691674947738647,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "ir1.node.check-host.net": [
+        [
+          0,
+          0.541568040847778,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "ir2.node.check-host.net": [
+        [
+          0,
+          0.579679012298584,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        [
+          0,
+          0.726309061050415,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "ir5.node.check-host.net": [
+        [
+          0,
+          1.47017407417297,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          0,
+          0.586719036102295,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          0,
+          0.32149600982666,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          0,
+          1.30466389656067,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          0,
+          0.66961407661438,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          0,
+          0.297921180725098,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          0,
+          0.355932950973511,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          0,
+          0.311954021453857,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          0,
+          0.21122407913208,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          0,
+          0.18888783454895,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          0,
+          0.311845064163208,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          0,
+          0.313692808151245,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          0,
+          0.386689186096191,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          0,
+          0.384609937667847,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          0,
+          0.364264965057373,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "ru3.node.check-host.net": [
+        [
+          0,
+          0.339273929595947,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          0,
+          0.444555997848511,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          0,
+          0.379853963851929,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "tr1.node.check-host.net": [
+        [
+          0,
+          0.402884006500244,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          0,
+          0.482619047164917,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          0,
+          0.43159818649292,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          0,
+          0.432929992675781,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          0,
+          0.56387996673584,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          0,
+          0.37863302230835,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "us1.node.check-host.net": [
+        [
+          0,
+          0.948116064071655,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          0,
+          0.562340974807739,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          0,
+          0.705396175384521,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          0,
+          1.07636904716492,
+          "Unauthorized",
+          "401",
+          "95.128.47.156"
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": true,
+  "processed": true,
+  "original_image": "https://unit500.python-myth.info.s3.amazonaws.com/ddos/2025/04/04/de_ambafrance_org/files/de_ambafrance_org.png"
+}
