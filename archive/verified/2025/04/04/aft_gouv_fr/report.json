@@ -1,0 +1,448 @@
+{
+  "report_type": "ddos",
+  "group_name": "Red Wolf Cyber",
+  "actor_name": "Red Wolf Cyber",
+  "operation_name": "",
+  "network": "unknown",
+  "targeted_website": "https://www.aft.gouv.fr/en/central-banks",
+  "targeted_org": "",
+  "attack_type": "DDoS",
+  "attacked_country": "DE",
+  "attacker_country_affiliation": "unknown",
+  "attack_date": "2025-04-04",
+  "check_host": "24a4c4fbkbff",
+  "additional_image": "",
+  "check_details": {
+    "website_verification": "https://www.aft.gouv.fr/en/central-banks",
+    "check_date": "2025-04-04",
+    "check_results": {
+      "bg1.node.check-host.net": [
+        [
+          0,
+          0.14299488067627,
+          "Forbidden",
+          "403",
+          "141.101.90.99"
+        ]
+      ],
+      "br1.node.check-host.net": [
+        [
+          1,
+          1.13715100288391,
+          "OK",
+          "200",
+          "141.101.90.97"
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          0,
+          0.073390007019043,
+          "Forbidden",
+          "403",
+          "141.101.90.98"
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          0,
+          0.0286068916320801,
+          "Forbidden",
+          "403",
+          "141.101.90.98"
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          0,
+          0.122060775756836,
+          "Forbidden",
+          403,
+          "141.101.90.96"
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          1,
+          0.208636999130249,
+          "OK",
+          "200",
+          "141.101.90.97"
+        ]
+      ],
+      "es1.node.check-host.net": [
+        [
+          0,
+          0.106490135192871,
+          "Forbidden",
+          "403",
+          "141.101.90.98"
+        ]
+      ],
+      "fi1.node.check-host.net": [
+        [
+          0,
+          0.118201017379761,
+          "Forbidden",
+          403,
+          "141.101.90.98"
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          0,
+          0.0692291259765625,
+          "Forbidden",
+          "403",
+          "141.101.90.97"
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        [
+          1,
+          0.15791916847229,
+          "OK",
+          "200",
+          "141.101.90.97"
+        ]
+      ],
+      "hk1.node.check-host.net": [
+        [
+          1,
+          1.47762989997864,
+          "OK",
+          "200",
+          "141.101.90.97"
+        ]
+      ],
+      "hu1.node.check-host.net": [
+        [
+          1,
+          0.287203073501587,
+          "OK",
+          "200",
+          "141.101.90.97"
+        ]
+      ],
+      "id2.node.check-host.net": [
+        [
+          0,
+          0.958944797515869,
+          "Forbidden",
+          "403",
+          "141.101.90.98"
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          0,
+          0.63457202911377,
+          "Forbidden",
+          "403",
+          "141.101.90.99"
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          0,
+          0.405961990356445,
+          "Forbidden",
+          "403",
+          "141.101.90.96"
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          1,
+          1.20352816581726,
+          "OK",
+          "200",
+          "141.101.90.97"
+        ]
+      ],
+      "ir1.node.check-host.net": [
+        [
+          1,
+          0.742429971694946,
+          "OK",
+          "200",
+          "141.101.90.99"
+        ]
+      ],
+      "ir2.node.check-host.net": [
+        [
+          0,
+          0.451333999633789,
+          "Forbidden",
+          "403",
+          "141.101.90.99"
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        [
+          0,
+          0.52836012840271,
+          "Forbidden",
+          "403",
+          "141.101.90.97"
+        ]
+      ],
+      "ir5.node.check-host.net": [
+        [
+          0,
+          2.30133700370789,
+          "Forbidden",
+          "403",
+          "141.101.90.99"
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          0,
+          0.458832979202271,
+          "Forbidden",
+          "403",
+          "141.101.90.96"
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          1,
+          0.204438924789429,
+          "OK",
+          "200",
+          "141.101.90.98"
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          0,
+          1.2420608997345,
+          "Forbidden",
+          "403",
+          "141.101.90.96"
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          0,
+          1.10695004463196,
+          "Forbidden",
+          "403",
+          "141.101.90.99"
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          0,
+          0.0567421913146973,
+          "Forbidden",
+          "403",
+          "141.101.90.96"
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          1,
+          0.3909010887146,
+          "OK",
+          "200",
+          "141.101.90.98"
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          0,
+          0.0482420921325684,
+          "Forbidden",
+          "403",
+          "141.101.90.97"
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          0,
+          0.063992977142334,
+          "Forbidden",
+          "403",
+          "141.101.90.98"
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          0,
+          0.102973937988281,
+          "Forbidden",
+          "403",
+          "141.101.90.96"
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          0,
+          0.0897140502929688,
+          "Forbidden",
+          "403",
+          "141.101.90.98"
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          1,
+          0.432979106903076,
+          "OK",
+          "200",
+          "141.101.90.98"
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          0,
+          0.0615649223327637,
+          "Forbidden",
+          "403",
+          "141.101.90.97"
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          0,
+          0.216464996337891,
+          "Forbidden",
+          "403",
+          "141.101.90.98"
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          0,
+          0.219744205474854,
+          "Forbidden",
+          "403",
+          "141.101.90.96"
+        ]
+      ],
+      "ru3.node.check-host.net": [
+        [
+          0,
+          0.326730012893677,
+          "Forbidden",
+          "403",
+          "141.101.90.98"
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          1,
+          2.6535439491272,
+          "OK",
+          "200",
+          "141.101.90.96"
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          0,
+          0.12377405166626,
+          "Forbidden",
+          "403",
+          "141.101.90.98"
+        ]
+      ],
+      "tr1.node.check-host.net": [
+        [
+          0,
+          0.192083120346069,
+          "Forbidden",
+          "403",
+          "141.101.90.98"
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          0,
+          0.126607894897461,
+          "Forbidden",
+          "403",
+          "141.101.90.96"
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          0,
+          0.273298025131226,
+          "Forbidden",
+          "403",
+          "141.101.90.99"
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          1,
+          0.522263050079346,
+          "OK",
+          "200",
+          "141.101.90.96"
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          0,
+          0.200348854064941,
+          "Forbidden",
+          "403",
+          "141.101.90.97"
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          1,
+          0.334541082382202,
+          "OK",
+          "200",
+          "141.101.90.99"
+        ]
+      ],
+      "us1.node.check-host.net": [
+        [
+          1,
+          0.894017934799194,
+          "OK",
+          "200",
+          "141.101.90.97"
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          0,
+          0.610352039337158,
+          "Forbidden",
+          "403",
+          "141.101.90.98"
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          1,
+          0.698094844818115,
+          "OK",
+          "200",
+          "141.101.90.96"
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          0,
+          1.10646796226501,
+          "Forbidden",
+          "403",
+          "141.101.90.98"
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": true,
+  "processed": true,
+  "original_image": "https://unit500.python-myth.info.s3.amazonaws.com/ddos/2025/04/04/aft_gouv_fr/files/aft_gouv_fr.png"
+}
