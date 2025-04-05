@@ -1,0 +1,448 @@
+{
+  "report_type": "ddos",
+  "group_name": "NXBBSEC",
+  "actor_name": "NXBBSEC",
+  "operation_name": "",
+  "network": "unknown",
+  "targeted_website": "https://gateway.ga.gov/",
+  "targeted_org": "",
+  "attack_type": "DDoS",
+  "attacked_country": "US",
+  "attacker_country_affiliation": "unknown",
+  "attack_date": "2025-04-05",
+  "check_host": "24aaabf9kc2f",
+  "additional_image": "",
+  "check_details": {
+    "website_verification": "https://gateway.ga.gov/",
+    "check_date": "2025-04-05",
+    "check_results": {
+      "bg1.node.check-host.net": [
+        [
+          0,
+          2.49077701568604,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "br1.node.check-host.net": [
+        [
+          0,
+          1.12535810470581,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          0,
+          1.03602313995361,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          0,
+          0.655416011810303,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          0,
+          0.87904691696167,
+          "Forbidden",
+          403,
+          "98.80.57.69"
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          0,
+          0.383144855499268,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "es1.node.check-host.net": [
+        [
+          0,
+          0.675843954086304,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "fi1.node.check-host.net": [
+        [
+          0,
+          0.424343109130859,
+          "Forbidden",
+          403,
+          "98.80.57.69"
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          0,
+          0.425819873809814,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        [
+          0,
+          0.445926189422607,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "hk1.node.check-host.net": [
+        [
+          0,
+          7.91761684417725,
+          "No such device or address",
+          null,
+          null
+        ]
+      ],
+      "hu1.node.check-host.net": [
+        [
+          0,
+          0.860999822616577,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "id2.node.check-host.net": [
+        [
+          0,
+          3.51173305511475,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          0,
+          2.66533279418945,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          0,
+          1.30981016159058,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          0,
+          1.05747294425964,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "ir1.node.check-host.net": [
+        [
+          0,
+          2.94857597351074,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "ir2.node.check-host.net": [
+        [
+          0,
+          0.837279081344604,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        [
+          0,
+          1.76263499259949,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "ir5.node.check-host.net": [
+        [
+          0,
+          3.18240094184875,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          0,
+          1.18911695480347,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          0,
+          1.05807304382324,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          0,
+          1.15821695327759,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          0,
+          12.1883928775787,
+          "No such device or address",
+          null,
+          null
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          0,
+          0.736366033554077,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          0,
+          2.80779910087585,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          0,
+          0.425356149673462,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          0,
+          0.487643003463745,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          0,
+          0.755982160568237,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          0,
+          0.609739065170288,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          0,
+          1.09641289710999,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          0,
+          0.929459095001221,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          0,
+          1.33171987533569,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          0,
+          1.0524480342865,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "ru3.node.check-host.net": [
+        [
+          0,
+          0.91166090965271,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          0,
+          1.30946612358093,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          0,
+          0.62950611114502,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "tr1.node.check-host.net": [
+        [
+          0,
+          1.07206106185913,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          0,
+          0.882662057876587,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          0,
+          0.667746782302856,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          0,
+          0.692194938659668,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          0,
+          0.737359046936035,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          0,
+          0.440365791320801,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "us1.node.check-host.net": [
+        [
+          0,
+          0.282540082931519,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          0,
+          0.318665027618408,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          1,
+          0.0697970390319824,
+          "Moved Permanently",
+          "301",
+          "98.80.57.69"
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          0,
+          2.81050682067871,
+          "Forbidden",
+          "403",
+          "98.80.57.69"
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": true,
+  "processed": true,
+  "original_image": "https://example.com/default.png"
+}
