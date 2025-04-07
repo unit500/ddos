@@ -1,0 +1,18 @@
+{
+  "report_type": "ddos",
+  "group_name": "waasds",
+  "actor_name": "waasds",
+  "operation_name": "",
+  "network": "unknown",
+  "targeted_website": "http://test.com",
+  "targeted_org": "",
+  "attack_type": "DDoS",
+  "attacked_country": "US",
+  "attacker_country_affiliation": "unknown",
+  "attack_date": "2025-04-07",
+  "check_host": "",
+  "additional_image": "",
+  "unverified": true,
+  "processed": true,
+  "original_image": "https://example.com/default.png"
+}
