@@ -1,0 +1,448 @@
+{
+  "report_type": "ddos",
+  "group_name": "AnonPioneers",
+  "actor_name": "AnonPioneers",
+  "operation_name": "Hack For Humanity",
+  "network": "unknown",
+  "attacked_country": "IL",
+  "attacker_country_affiliation": "unknown",
+  "attack_date": "2025-04-07",
+  "additional_image": "",
+  "targeted_website": "https://huji.ac.il",
+  "check_host": "24bafa5eka9c",
+  "check_it": "",
+  "mass": true,
+  "check_details": {
+    "website_verification": "https://huji.ac.il",
+    "check_date": "2025-04-07",
+    "check_results": {
+      "bg1.node.check-host.net": [
+        [
+          0,
+          24.9994351863861,
+          "Connection timed out",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "br1.node.check-host.net": [
+        [
+          0,
+          5.31284594535828,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          0,
+          4.34384512901306,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          0,
+          0.446730136871338,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          0,
+          4.32476115226746,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          0,
+          4.33179688453674,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "es1.node.check-host.net": [
+        [
+          0,
+          3.21906590461731,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "fi1.node.check-host.net": [
+        [
+          0,
+          0.980977058410645,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          0,
+          4.54200410842896,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        [
+          0,
+          4.44641804695129,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "hk1.node.check-host.net": [
+        [
+          0,
+          5.35851716995239,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "hu1.node.check-host.net": [
+        [
+          0,
+          4.43293404579163,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "id2.node.check-host.net": [
+        [
+          0,
+          5.28713893890381,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          0,
+          4.20775985717773,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          0,
+          4.18378901481628,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          0,
+          5.63759994506836,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "ir1.node.check-host.net": [
+        [
+          0,
+          0.0124280452728271,
+          "Connection refused",
+          null,
+          null
+        ]
+      ],
+      "ir2.node.check-host.net": [
+        [
+          0,
+          3.16459703445435,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        [
+          0,
+          0.0360910892486572,
+          "Connection refused",
+          null,
+          null
+        ]
+      ],
+      "ir5.node.check-host.net": [
+        [
+          0,
+          3.19432806968689,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          0,
+          0.006011962890625,
+          "Connection refused",
+          null,
+          null
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          0,
+          4.31158399581909,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          0,
+          6.03406310081482,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          0,
+          0.813966035842896,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          0,
+          4.52950000762939,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          0,
+          0.464250087738037,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          0,
+          0.530408143997192,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          0,
+          4.34408593177795,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          0,
+          0.472399950027466,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          0,
+          4.58324384689331,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          0,
+          5.28284287452698,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          0,
+          0.481109857559204,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          0,
+          0.673731088638306,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          0,
+          3.10127997398376,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ru3.node.check-host.net": [
+        [
+          0,
+          0.720669031143188,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          0,
+          0.77529501914978,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          0,
+          4.61482715606689,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "tr1.node.check-host.net": [
+        [
+          0,
+          3.06645894050598,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          0,
+          3.17007803916931,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          0,
+          0.550925016403198,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          0,
+          0.519696950912476,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          0,
+          0.6697678565979,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          0,
+          4.53902196884155,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "us1.node.check-host.net": [
+        [
+          0,
+          5.09836006164551,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          0,
+          1.11049795150757,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          0,
+          0.894111156463623,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          0,
+          6.1115710735321,
+          "Connection reset by peer",
+          null,
+          "128.139.7.7"
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": true,
+  "processed": true,
+  "original_image": "https://example.com/default.png"
+}
