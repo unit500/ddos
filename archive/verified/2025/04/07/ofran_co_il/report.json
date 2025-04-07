@@ -1,0 +1,448 @@
+{
+  "report_type": "ddos",
+  "group_name": "AnonPioneers",
+  "actor_name": "AnonPioneers",
+  "operation_name": "Hack For Humanity",
+  "network": "unknown",
+  "attacked_country": "CA",
+  "attacker_country_affiliation": "unknown",
+  "attack_date": "2025-04-07",
+  "additional_image": "",
+  "targeted_website": "https://ofran.co.il/",
+  "check_host": "24ba6d75k7a7",
+  "check_it": "",
+  "mass": true,
+  "check_details": {
+    "website_verification": "https://ofran.co.il/",
+    "check_date": "2025-04-07",
+    "check_results": {
+      "bg1.node.check-host.net": [
+        [
+          0,
+          0.0220348834991455,
+          "Forbidden",
+          "403",
+          "172.67.12.35"
+        ]
+      ],
+      "br1.node.check-host.net": [
+        [
+          0,
+          0.0246560573577881,
+          "Forbidden",
+          "403",
+          "104.22.12.187"
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          0,
+          17.3932089805603,
+          "Date: Mon, 07 Apr 2025 00:54:51 GMT",
+          "521",
+          "104.22.13.187"
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          0,
+          8.62719321250916,
+          "Date: Mon, 07 Apr 2025 00:54:42 GMT",
+          "521",
+          "104.22.13.187"
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          0,
+          17.3981850147247,
+          "Date: Mon, 07 Apr 2025 00:54:51 GMT",
+          521,
+          "104.22.12.187"
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          0,
+          17.2621378898621,
+          "Date: Mon, 07 Apr 2025 00:54:51 GMT",
+          "521",
+          "172.67.12.35"
+        ]
+      ],
+      "es1.node.check-host.net": [
+        [
+          0,
+          17.3695728778839,
+          "Date: Mon, 07 Apr 2025 00:54:51 GMT",
+          "521",
+          "104.22.13.187"
+        ]
+      ],
+      "fi1.node.check-host.net": [
+        [
+          0,
+          11.1755199432373,
+          "Date: Mon, 07 Apr 2025 00:54:45 GMT",
+          521,
+          "104.22.13.187"
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          0,
+          17.2821369171143,
+          "Date: Mon, 07 Apr 2025 00:54:51 GMT",
+          "521",
+          "172.67.12.35"
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        [
+          0,
+          13.2076930999756,
+          "Date: Mon, 07 Apr 2025 00:54:47 GMT",
+          "521",
+          "104.22.13.187"
+        ]
+      ],
+      "hk1.node.check-host.net": [
+        [
+          0,
+          0.0196399688720703,
+          "Forbidden",
+          "403",
+          "104.22.12.187"
+        ]
+      ],
+      "hu1.node.check-host.net": [
+        [
+          0,
+          10.3462789058685,
+          "Date: Mon, 07 Apr 2025 00:54:44 GMT",
+          "521",
+          "104.22.12.187"
+        ]
+      ],
+      "id2.node.check-host.net": [
+        [
+          0,
+          0.0164690017700195,
+          "Forbidden",
+          "403",
+          "104.22.13.187"
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          0,
+          17.262708902359,
+          "Date: Mon, 07 Apr 2025 00:54:51 GMT",
+          "521",
+          "104.22.13.187"
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          0,
+          17.2492070198059,
+          "Date: Mon, 07 Apr 2025 00:54:51 GMT",
+          "521",
+          "172.67.12.35"
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          0,
+          0.0212860107421875,
+          "Forbidden",
+          "403",
+          "104.22.12.187"
+        ]
+      ],
+      "ir1.node.check-host.net": [
+        [
+          0,
+          0.00844597816467285,
+          "Connection refused",
+          null,
+          null
+        ]
+      ],
+      "ir2.node.check-host.net": [
+        [
+          0,
+          3.00215888023376,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        [
+          0,
+          0.0182068347930908,
+          "Connection refused",
+          null,
+          null
+        ]
+      ],
+      "ir5.node.check-host.net": [
+        [
+          0,
+          25.0009801387787,
+          "Connection timed out",
+          null,
+          "104.22.12.187"
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          0,
+          0.00262308120727539,
+          "Connection refused",
+          null,
+          null
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          0,
+          17.2442078590393,
+          "Date: Mon, 07 Apr 2025 00:54:51 GMT",
+          "521",
+          "104.22.12.187"
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          0,
+          17.6647160053253,
+          "Date: Mon, 07 Apr 2025 00:54:52 GMT",
+          "521",
+          "172.67.12.35"
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          0,
+          7.95536994934082,
+          "Date: Mon, 07 Apr 2025 00:54:42 GMT",
+          "521",
+          "188.114.98.228"
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          0,
+          17.3583889007568,
+          "Date: Mon, 07 Apr 2025 00:54:51 GMT",
+          "521",
+          "104.22.12.187"
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          0,
+          17.2295150756836,
+          "Date: Mon, 07 Apr 2025 00:54:51 GMT",
+          "521",
+          "172.67.12.35"
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          0,
+          0.0128469467163086,
+          "Forbidden",
+          "403",
+          "104.22.13.187"
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          0,
+          0.0240318775177002,
+          "Forbidden",
+          "403",
+          "104.22.13.187"
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          0,
+          17.3645188808441,
+          "Date: Mon, 07 Apr 2025 00:54:51 GMT",
+          "521",
+          "172.67.12.35"
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          0,
+          17.3687160015106,
+          "Date: Mon, 07 Apr 2025 00:54:51 GMT",
+          "521",
+          "104.22.13.187"
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          0,
+          17.3242030143738,
+          "Date: Mon, 07 Apr 2025 00:54:51 GMT",
+          "521",
+          "172.67.12.35"
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          0,
+          17.338711977005,
+          "Date: Mon, 07 Apr 2025 00:54:51 GMT",
+          "521",
+          "104.22.12.187"
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          0,
+          0.0738840103149414,
+          "Forbidden",
+          "403",
+          "188.114.99.224"
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          0,
+          0.0448839664459229,
+          "Forbidden",
+          "403",
+          "188.114.99.224"
+        ]
+      ],
+      "ru3.node.check-host.net": [
+        [
+          0,
+          0.0816559791564941,
+          "Forbidden",
+          "403",
+          "188.114.98.232"
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          0,
+          0.164896965026855,
+          "Forbidden",
+          "403",
+          "188.114.98.224"
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          0,
+          17.3412280082703,
+          "Date: Mon, 07 Apr 2025 00:54:51 GMT",
+          "521",
+          "104.22.12.187"
+        ]
+      ],
+      "tr1.node.check-host.net": [
+        [
+          0,
+          17.3135440349579,
+          "Date: Mon, 07 Apr 2025 00:54:51 GMT",
+          "521",
+          "188.114.99.228"
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          0,
+          17.3061649799347,
+          "Date: Mon, 07 Apr 2025 00:54:51 GMT",
+          "521",
+          "104.22.13.187"
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          0,
+          9.55376601219177,
+          "Date: Mon, 07 Apr 2025 00:54:43 GMT",
+          "521",
+          "104.22.13.187"
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          0,
+          17.2586181163788,
+          "Date: Mon, 07 Apr 2025 00:54:51 GMT",
+          "521",
+          "104.22.12.187"
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          0,
+          8.79760384559631,
+          "Date: Mon, 07 Apr 2025 00:54:42 GMT",
+          "521",
+          "104.22.12.187"
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          0,
+          17.3965559005737,
+          "Date: Mon, 07 Apr 2025 00:54:51 GMT",
+          "521",
+          "172.67.12.35"
+        ]
+      ],
+      "us1.node.check-host.net": [
+        [
+          0,
+          17.2973139286041,
+          "Date: Mon, 07 Apr 2025 00:54:51 GMT",
+          "521",
+          "104.22.12.187"
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          0,
+          17.2471740245819,
+          "Date: Mon, 07 Apr 2025 00:54:51 GMT",
+          "521",
+          "104.22.12.187"
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          0,
+          10.3575069904327,
+          "Date: Mon, 07 Apr 2025 00:54:44 GMT",
+          "521",
+          "188.114.99.228"
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          0,
+          17.4461619853973,
+          "Date: Mon, 07 Apr 2025 00:54:52 GMT",
+          "521",
+          "104.22.12.187"
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": true,
+  "processed": true,
+  "original_image": "https://unit500.python-myth.info.s3.amazonaws.com/ddos/2025/04/07/ofran_co_il/files/ofran_co_il.png"
+}
