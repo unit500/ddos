@@ -1,0 +1,452 @@
+{
+  "report_type": "ddos",
+  "group_name": "Red Wolf Cyber",
+  "actor_name": "",
+  "operation_name": "",
+  "network": "unknown",
+  "targeted_website[]": "https://biengioibienbentre.vn/noi-dung/huyen-thanh-phu-thuc-hien-de-1816-tai-benh-vien-da-khoa-huyen.html",
+  "check_host[]": "24c67433k900",
+  "check_it[]": "on",
+  "attack_date": "2025-04-08",
+  "additional_image": "",
+  "g-recaptcha-response": "03AFcWeA4rOhhRrqy_EbbJqCCNq5D1JQPLDjBGOms_1CqrNo8ASt9T9EnIW8WZBHh0U3zTekiRGiLUCPhWgOqCw6qatsRzUlAOObXUwSgc2s9VoeEIhqcnOeVdP555xKEgemuTSi7r8bscx59FdV8w1W9cuZzEpkNQ0-d79iD2sLMulJ9W2NyOLZShie8GKMfkv2-KyAFnCr-5ZCoytzazOXnrAcgPbWhw1_-JsjnsDm_bUnx4BGkhnsr84sdDHAzM3xt_i0n6h32Cb-Xld3XCaebob9ZW62I32ftFTShjR2otGshNo2agr_L0bdvPUBl67Ba6ZugqZ6GfAyfrJ5z6ntvdDEa3qa8l-0aMqiu0LiBVuW0D7DcrWyeOT2E29zk5Ow0u30xWzDoKJs0EArprJHlA-5uW8ryMTz4YrdTIeAosl_4Bw23b70xRrL9U8LKNOSnbEVR6fwZHLM6_y7PiYmOtgrcqA-I0kyJB_h69ehcVpgEiOuEuXRmzANxme6p7vTa0h8kkGHSjHf91LAmEAc0AtRCYBiHMeYvDy-SiWqmlNDXQ_YPnTQtSPeXRAqQ0IxXGMedgb2O1HPnUvQNCMS7GiRgrhc1Ri-4gigqMB8lTxHKLVtLTbC5nPv-Qm4cJzX8xJM9tCDm6qYckwwSFB0e50asFDTq089S6rkL_2Etzwa9Jo8Sap5ETG0aesqE3Wmw6PQCRlyRpex5S4xOEfL-ieXORtd7ykYDl58cFhwrvSkASXmOg6tEZeITJsWKiH8MkDt40jw11wT-5VYfnJKnHJ06YuPPp0uYPMIdEABLof4YJeX1aHbvjRB6OrHZQzxX8fbKZqBBBLdN6sZnTOvFN0dC60DIEs7-KjjyUdY2RFFUJQvsmUmf2TwESbOxnABQB6gmRtshZ0pntbdjh7OYG1nopYdJLs3DXOPa0n7pR4qfCrloaN8BN85qmwV_JXspQRLvbJSHQkV-qe9fr4gsT53Lt_m_ZhcpvTDzjzdgEJ_sLTvMc1jJxwK-91sPd8BObIrzTIhTM56jS2AnXLPWtFiVfoagBdoiPVsP9mOWYc09B1qe6no56K1qKQ3VBX4Q2gKC3WqwbOGxL940uK9roLFkcd-zuGlyO5kevP_5DYDiaWwz2skQWm3mm5vwBedbIvlrwk8s_AN-YW79iIOtvrZjdsF36BQ1U0JIzaVYmBmSHGLgROgNpbjsIyyCQ9ZiRqcljC85uNw-ooP1h98XYuc2a7hcAtHd8Q3aUWyNnSCgNONsi19RhcUyntov7AoIcFZ72at0p7wZMpVae6XbeKQgDEVBJg1faZ4Y9Btihj0Ta3Z0Is829-uOP-AtXFGLudz4uavCr-CbWw4pUD2hQW4p7MMihHRiUNHllbX4PCDuHHkuL9Ze2JKddkyjqjTbNiXpOE358Qb-IMRJ4jQ6_cz5rep_SD5j1faOY7YoH5Fol4FjA-X1zpRaLvbhN_fyL5PFs_cFWBoif-AJaU7Jyi0fosNkdfJr-Y4H7t4PF6HaRLB1c5fpPcWQC2BHzyTJbNKGq5GCHXPxcy2J6v4U6evAKy16Do8YSD8J93L5hNV2vO_cRVoL7r5vQo5GyA_1XqCtc7b_3tvt8cMrV2izOfa1rUFB7aoQsJkGbaBlj-wO6U8Hwt_mXgp39u3QwMAmkuCAu21GZGKZKlVThgd4zZwx2VRgA6SxGAGJTe2Jy885RXBClnLMS8f_bxYHDqzp8Rrp7JzJ0N0vlwFl-lIeQPLEUwOV3KsRvll9zcXfiW2RHJGTeWrpC7iEFPJT0b8F1Tr9sYLfx4z6axzlmqjji9qEUNOu0ZiX0oDW2sbiYcx7p7CA4mI4B_P2Aogy42CX64ERUIpvhIAIUvceguEi8ERYi7h1WgFO9vVfp5sbaizmaUkshyvg6V78g_l0aQYUPO0DGljndrUNL6IFVmZKeN70TgOx9AsFvfnhGlJlsY9WDo2DGnyE-ik8U9nzHAtzdTWOyGv77AiB1xjDaKbyFwWzZHA-STfVelMK-l2MrL8Z4-oTsb84t9VFS6lND0p8TbGScW3a5",
+  "targeted_website": "https://ttytcholach.vn/",
+  "check_host": "24c678d9kba2",
+  "check_it": "true",
+  "mass": true,
+  "attacked_country": "VN",
+  "attacker_country_affiliation": "Unknown",
+  "check_details": {
+    "website_verification": "https://ttytcholach.vn/",
+    "check_date": "2025-04-08",
+    "check_results": {
+      "bg1.node.check-host.net": [
+        [
+          0,
+          0.717216968536377,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "br1.node.check-host.net": [
+        [
+          0,
+          0.746740102767944,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          0,
+          0.402600049972534,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          0,
+          0.529023885726929,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          0,
+          0.393309116363525,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          0,
+          0.522286891937256,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "es1.node.check-host.net": [
+        [
+          0,
+          0.397534847259521,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "fi1.node.check-host.net": [
+        [
+          0,
+          0.440494060516357,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          0,
+          0.392819881439209,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        [
+          0,
+          0.391583204269409,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "hk1.node.check-host.net": [
+        [
+          0,
+          0.306710958480835,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "hu1.node.check-host.net": [
+        [
+          0,
+          0.564990997314453,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "id2.node.check-host.net": [
+        [
+          0,
+          0.108053922653198,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          0,
+          0.596611022949219,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          0,
+          0.59953784942627,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          0,
+          0.173297882080078,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "ir1.node.check-host.net": [
+        [
+          0,
+          0.568838119506836,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "ir2.node.check-host.net": [
+        [
+          0,
+          3.15706300735474,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        [
+          0,
+          0.700968980789185,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "ir5.node.check-host.net": [
+        [
+          0,
+          0.757368087768555,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          0,
+          0.837602853775024,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          0,
+          0.378361940383911,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          0,
+          0.196491003036499,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          0,
+          0.75835394859314,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          0,
+          0.561875820159912,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          0,
+          0.655529975891113,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          0,
+          0.536011934280396,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          0,
+          0.679213047027588,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          0,
+          0.434178113937378,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          0,
+          0.73511004447937,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          0,
+          0.663527965545654,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          0,
+          0.422369003295898,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          0,
+          0.655539035797119,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          0,
+          0.671265125274658,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "ru3.node.check-host.net": [
+        [
+          0,
+          0.69313383102417,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          0,
+          0.42709493637085,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          0,
+          0.757895946502686,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "tr1.node.check-host.net": [
+        [
+          0,
+          0.486170053482056,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          0,
+          0.56921911239624,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          0,
+          0.603233098983765,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          0,
+          0.565294981002808,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          0,
+          0.623533964157104,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          0,
+          0.438087940216064,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "us1.node.check-host.net": [
+        [
+          0,
+          0.38055682182312,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          0,
+          0.520931005477905,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          0,
+          0.516243934631348,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          0,
+          0.00710892677307129,
+          "Connection reset by peer",
+          null,
+          "45.119.83.183"
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": true,
+  "processed": true,
+  "original_image": "https://example.com/default.png"
+}
