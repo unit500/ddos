@@ -1,0 +1,449 @@
+{
+  "report_type": "ddos",
+  "group_name": "NoName057(16)",
+  "actor_name": "",
+  "operation_name": "",
+  "network": "unknown",
+  "targeted_website[]": "https://ukrjet.ua/",
+  "check_host[]": "24de125ckcb1",
+  "check_it[]": "on",
+  "attack_date": "2025-04-11",
+  "additional_image": "",
+  "g-recaptcha-response": "03AFcWeA7An-L-OOL06n7gQEBeJcS2SYEqtonEzcDbcmaWyV9Cgkk2EZaTpXHZvyD0FHdrDj0gxFjBgfrbOSKrILrEQhQYx3alMVl3KbKQK3THIMGWjuXv0QYBUT2yZm9ZYMIEdZvZOHVyXawf4ek7XTKiQvOqecMED9G1zd_nhxEhodzKOhhE5Oh51BVrMXyWDbxNfM-TGvLszXPXBpcd2_UIrU9w85gocNWeADaCzswSF2MCqVpNc6NQHrrxEeO4nwovYQlKcL79jN_SU9L7uubyZzngA9Fn4XPhqZugXx3VVbEwO5ULdzqLFfeYGGjBNVo1rINWABeVr-azIwcPefA9zjj49KgZrfg7QqKB9Ubq6aojDBMzG9dxHpjSahWPY4XsrIkIXSJAE8Ex0u8FCK5A-wGibSrPnbG6Q6Dw-wkH3LKKpMIV91prAyaYNdX0Vyon06U17juJYKzORc31TiCBzlR3RQVN_HQEDzgEzq4OG1lbR6FwWDmSPjrq5RzPxZFrfXoNeYKwxMxBTMa6M0oulG_8kZQ5M879wyUuHh90uZwPY9v8CsThxRKjHEEb8JL2pP4AIMVL27HCUPH7ZKKIPVGgKczjGkXSuw2PBNf4mhABus1VHG-pho6RxvsM7Vu8jREbmQflrEhwIci2RHA8zMNrR8B05V2C6-0dHUGp_pW1cc4gKKdytdcCMw4yI12JNItvgqcYE-sg2tYnm7qkggaVWUT2u3xC5y3tmj68TM_i-g-PkA563kUnyN393OV6gkCI17B0EHCMxps0sPJeyPdL0ZEEQMu21Ib_XgFkdzHW7wk674ms5LwnjXcKZyn1AyrrdGr7AYgMCGSEr8OrMRFnXJ89_tkpzOh2JCrKor3tewEKTaUPwUoPrVrs33yAMmwm7EvKgDkM2bQ5cHsr9jVCdZHx0n3JWG_L9368KiizmS1ntdkBeSs2tYC3_-0hwVVg2yW6E4eEIoFacpkXXIynXtyWphQnNTEU8hD-7cJ6nc1lVxhN9SYwQ7jnpsMI10MBqOFWzvOj0T7U_F_LVn0Eix7yU84ueSkd3WIBp7ffJA38gOL_5_RCH8lGWCqI1NOmWOpI5W9BT_vzLTrjN9QV9BWNIvbvQo-Nt5WAtYJBnO6NmisE1Jb4I3ZSY1XEJ9IZKX_6WhtP0A815U_H16bMVZSANYcgVcRk_H0k40EUsc0NOyxvBrVaT-0xqx7foh5cstlYSnnH6x8YbvhupGN4o5y7M2uCSpEjGYAwPi-vTNodIEUU9hYd2IC-n4Jz3G7ifoktRmjcHNzL9PfU6zs4opUg0PvwDkYKW3iXbfNdlJs_JMkCqGC1Bi42xgbBp9nk80MiqPUxjJ2sobAf8h8Ek9RiOXb-aUs3vhTfGhur7AgWAJiOnkP5lckCXQj6BcRTyybQKY_UNaqi93RXKDqsR4M1ecX0FQT-CgWm5uePHb--uCjDraXyfJwk-pr2RhhT8gITr8msdAdixBVRmWdTElFu48CX_goG7s-luUn4V124Lig9Bygov4qcbxWtydtF7LjKPhjIrtHTx5ElZ6tbJvnJqNFJkNXo7ctQX7fs-FRxHNyf70hKkR9pjnY8j6N-uvkv_zCO-cGOb2An1QUGhO8PKv-d8ZQTSH5jsr159zdYs7IfDj5uXxqckdkxe9Zi5Dy0PYaQPkgOC9cmMBTZHN4VxokWZtNT1vMxwuPghLvNbgPWqxqsLngZNMSwq7sytvM0ZGwC_M9BAlvoPkPpDTDgAS-PWov4PLVIe5-afvfFsj8RLjc4-_5FGgcIaJPHUQbUw94ijlAaPSVGSy2jON1RJMW_7TaUrbjMO2PcJxXK3zlSkwXTAprWDFiGzOvZjZnXcsIn2NLhe14tutOstAvACABRzmFqSaICbQwk57bIAiTpiksdnXNanyq9K4tHPUqCxqESBys7z2sEdJwfZmZa_uMnJAbPxlYu5849Zw33xkES5atpIOwtWcpt3c7Plx1Bz2Hoqy3qmd34bFZ3odEz2xuxAsRgKQ72V2_vdZD6HaU",
+  "targeted_website": "https://chezara-telemetria.com/",
+  "check_host": "24de122eke3b",
+  "check_it": "true",
+  "mass": true,
+  "attacked_country": "UA",
+  "attacker_country_affiliation": "Unknown",
+  "check_details": {
+    "website_verification": "https://chezara-telemetria.com/",
+    "check_date": "2025-04-11",
+    "check_results": {
+      "bg1.node.check-host.net": [
+        [
+          0,
+          0.24196195602417,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "br1.node.check-host.net": [
+        [
+          0,
+          0.879305839538574,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          0,
+          0.13744592666626,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          0,
+          0.094973087310791,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          0,
+          0.138832807540894,
+          "Loop Detected",
+          508,
+          "185.68.16.156"
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          0,
+          25.001070022583,
+          "Connection timed out",
+          null,
+          "185.68.16.156"
+        ]
+      ],
+      "es1.node.check-host.net": [
+        null,
+        {
+          "message": "Connect timeout"
+        }
+      ],
+      "fi1.node.check-host.net": [
+        [
+          0,
+          0.259175062179565,
+          "Loop Detected",
+          508,
+          "185.68.16.156"
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          0,
+          0.129873991012573,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        [
+          0,
+          0.193772792816162,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "hk1.node.check-host.net": [
+        [
+          0,
+          0.681993007659912,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "hu1.node.check-host.net": [
+        [
+          0,
+          0.16802191734314,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "id2.node.check-host.net": [
+        [
+          0,
+          1.14003205299377,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          0,
+          0.255564212799072,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          0,
+          0.308448076248169,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          0,
+          0.771506071090698,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "ir1.node.check-host.net": [
+        [
+          0,
+          0.689374923706055,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "ir2.node.check-host.net": [
+        [
+          0,
+          0.826590061187744,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        [
+          0,
+          0.646553039550781,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "ir5.node.check-host.net": [
+        [
+          0,
+          0.549711942672729,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          0,
+          0.677459001541138,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          0,
+          0.107603073120117,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          0,
+          25.0005900859833,
+          "Connection timed out",
+          null,
+          "185.68.16.156"
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          0,
+          0.542646884918213,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          0,
+          0.0923478603363037,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          0,
+          0.241161823272705,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          0,
+          0.216579914093018,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          0,
+          0.161962032318115,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          0,
+          0.109648942947388,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          0,
+          0.0943539142608643,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          0,
+          0.298327922821045,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          0,
+          0.154146909713745,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          0,
+          3.14455699920654,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          0,
+          3.02653098106384,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ru3.node.check-host.net": [
+        [
+          0,
+          3.00601100921631,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          0,
+          3.16696405410767,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          0,
+          0.194602012634277,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "tr1.node.check-host.net": [
+        [
+          0,
+          0.363065958023071,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          0,
+          0.703060150146484,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          0,
+          0.160837173461914,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          0,
+          0.0469710826873779,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          0,
+          0.198630094528198,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          0,
+          0.170382976531982,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "us1.node.check-host.net": [
+        [
+          0,
+          0.709289073944092,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          0,
+          0.813386917114258,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          0,
+          0.517928123474121,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          0,
+          0.899924039840698,
+          "Loop Detected",
+          "508",
+          "185.68.16.156"
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": true,
+  "processed": true,
+  "original_image": "https://example.com/default.png"
+}
