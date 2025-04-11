@@ -1,0 +1,449 @@
+{
+  "report_type": "ddos",
+  "group_name": "indie",
+  "actor_name": "Mr. Hamza",
+  "operation_name": "",
+  "network": "unknown",
+  "targeted_website[]": "https://revista.ieee.es/",
+  "check_host[]": "24da4113kb34",
+  "check_it[]": "on",
+  "attack_date": "2025-04-11",
+  "additional_image": "",
+  "g-recaptcha-response": "03AFcWeA7RTiyzjZzibzFW4H09W0pjPatuvX6iateJatPwxG54zroarmIpXngrTJP7iLyGa0uq7tqurc_EfNXODz5uR3i6QaiZYQRhOQu90zL-pJN1eY90jp0NLYxo5xf-JDs3NXaQyXiUDDueECtI1_iLvM5d7rOqxFmmA0DToTVV8vRb58LUKFoWBFzmSseqdI5PGnaCHdvJy1_NDQKCGtf4PreKFE5qol1HMrksojOLWttH_GNRrXa5qoYx-i40M-436kki4qO7sb22BX2S7s7itJ4tTMzaJuNLbRcRMslNPYreEKOPM5sGZJhe4Yo5wNqG-5r7Ev4d-7LWV8zrJt9HVDwv9dFCtUo5qA2gb93Sw_Vg-EmfpjQi6VzGwTuwKJSOrEIAzkqsg7NuahslI9MlynJ86z6YdSoNOyWYWqFCuwSLJ5LHq37tBIvMsONfb_9uSwg1x41QhrkbgmQ8uds_WkAKIi_6mmRYMg_LFfhCbzN2w8JHd3HX5igLd3Rpm4JkI3rfkRjywOA5ZAW-PXOfKKMmTyrM4-5m85FjF71vsd5d20tSGv-D8tP9KbB9S2AlqRjVphEtcerJBpyRTss3g3cTnoMXWMPg-vvQfsXiQQPQszFs6NVkZ2_AKSN09cPxo1xArkVBGMxGcc1mUtCmhV6T5bodxtkWLFiioMDN64T9sJ-a19p18eW42Q044FzyoncH736PrIEKI1MXNXjLrKfO7Ptmt4lM7A9fFldStPV8_GOg5lzmYUWW-sPo0X6tUjSOmVNoUgTYVgY33q6xsHcEuxnN9ljhtMYgj7I5Hvo15aCu3n_UfPFcSF1vaNGTk5v9NSiAju74fwM9mDTcSCmkbGBA8PK1DTsZa3-OFpV8ZlwRdCuQ1GvbA0kSPOCioUeJPNUmHotwESZJdX1aD7eivNPYPep32lxE_UUKl6WfTYhb3dCiqtA99VepYMpZVQ66MgqFzCOrsQ91IFgVdJNb_y17QlXvBYU6NROmAp61RdVnDR9FNUzutntQUciwMg4KG5c1VStl5sQOGjAeq1l6JIDeMij1mWNRTc1bRpYVME9PeIbgxjwXt0-Ll5Oi0nsrRFg1TjJgSGnYku1J9DM2rVA_o-U1vOZ3dsEq1JEAF3LKFveV4v2Hd6Wiuvpbbah6MhsSavy8SSnbIXAv6601XvHjQcM3cI5aPAMDuDoonT-Y-hQKpoM5CEn49oGODSpZ1hEdJfXeTBWdSVr0WGlQA6JNujAmuyj2dxz3bnezddJxGXmlyTocADbTYgIANoeYiXBN1ENGgHaLcmiLDjHyYF_QGsUICwZJvTlgq5gI8M3VyJHi-ZC7WPoDdKtvCZzM_34nT474dZZhEgYLbdWEAB4dF4tuCEHA6cM59NaKB_Tl5iUmB5NCNT_U0r_k5VWV8QKENrnJlXCsRJz7hDnrs32ixwa_orp8zOetuDoJtskXfQIpUjsJaI_1j8HG4S7ZPKUaRIiQk9oG7yUHhYc9Yt7WAkwG7NygCRi2uHzujlcHTiaybMmpbkjDJ5iKhAC0jAqwGl1ffMUQEn-qNtlz9MZHqZwMU-LsIlzSqUj4VtF8afKCZ_pj-D02HjAmOwUilor_vch1p20e3Jg1pSShng1V0d_wftqrZxfutoZhMLVge2-xjDWyBrunOvu44dEL7k20LZG57vAtVsMEkIxuuExQ0TVQRtocdPz_N669RZ-rWASXv_3vmKgeRpWpxlvIVQ60JM8RmY8rtUHe6G70fI5C8J7lksFwgO5ymuSNly1HPHHdoqrpwYQxYbLcYaq8-MjdI3yYNfG0iB_QTpqP9aQcBM7nJWOa0WPducc7Zb9CQxJXLunlXiIdvdKhjFgeEfvJDA4-TovN6lX5Bk2uY7lTA2pibWfC9OeoIae9XhqFi3H7FJGVjj7NvhxVMAIC-vkKTibXRiehigDFLfAG5JIMSApZp04IEUUIEzikes7fqNT_IU5zQ_TxJcr5HSx0yVlZDzzQtRAqADARMcEVzO72I3Bc9uUivjxrEgDzRmSkRRil6ZyH2-gGmBlnAyhGbr72",
+  "targeted_website": "https://www.ccn-cert.cni.es/es/",
+  "check_host": "24da2cfckce8",
+  "check_it": "true",
+  "mass": true,
+  "attacked_country": "US",
+  "attacker_country_affiliation": "Unknown",
+  "check_details": {
+    "website_verification": "https://www.ccn-cert.cni.es/es/",
+    "check_date": "2025-04-10",
+    "check_results": {
+      "bg1.node.check-host.net": [
+        [
+          0,
+          0.0997240543365479,
+          "Connection reset by peer",
+          null,
+          "79.127.211.129"
+        ]
+      ],
+      "br1.node.check-host.net": [
+        [
+          0,
+          25.0009858608246,
+          "Connection timed out",
+          null,
+          "169.150.220.17"
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          0,
+          0.069983959197998,
+          "Forbidden",
+          "403",
+          "79.127.237.161"
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          0,
+          0.0699799060821533,
+          "Forbidden",
+          "403",
+          "79.127.237.161"
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          0,
+          0.103821992874146,
+          "Connection reset by peer",
+          null,
+          "79.127.211.129"
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          0,
+          0.0509049892425537,
+          "Forbidden",
+          "403",
+          "79.127.237.161"
+        ]
+      ],
+      "es1.node.check-host.net": [
+        null,
+        {
+          "message": "Connect timeout"
+        }
+      ],
+      "fi1.node.check-host.net": [
+        [
+          0,
+          0.385082006454468,
+          "Forbidden",
+          403,
+          "79.127.237.161"
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          0,
+          0.0300350189208984,
+          "Connection reset by peer",
+          null,
+          "79.127.211.129"
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        [
+          0,
+          0.0940439701080322,
+          "Connection reset by peer",
+          null,
+          "79.127.211.129"
+        ]
+      ],
+      "hk1.node.check-host.net": [
+        [
+          0,
+          0.178359031677246,
+          "Broken pipe",
+          null,
+          "154.47.23.177"
+        ]
+      ],
+      "hu1.node.check-host.net": [
+        [
+          0,
+          0.127182006835938,
+          "Forbidden",
+          "403",
+          "79.127.237.161"
+        ]
+      ],
+      "id2.node.check-host.net": [
+        [
+          0,
+          0.343906879425049,
+          "Broken pipe",
+          null,
+          "154.47.23.177"
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          0,
+          0.896699905395508,
+          "Broken pipe",
+          null,
+          "154.47.23.177"
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          0,
+          0.970033884048462,
+          "Broken pipe",
+          null,
+          "154.47.23.177"
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          0,
+          0.364516973495483,
+          "Connection reset by peer",
+          null,
+          "79.127.211.129"
+        ]
+      ],
+      "ir1.node.check-host.net": [
+        [
+          0,
+          0.312900066375732,
+          "Forbidden",
+          "403",
+          "79.127.237.161"
+        ]
+      ],
+      "ir2.node.check-host.net": [
+        [
+          0,
+          0.296615123748779,
+          "Forbidden",
+          "403",
+          "79.127.237.161"
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        [
+          0,
+          0.172761917114258,
+          "Too many open files",
+          null,
+          null
+        ]
+      ],
+      "ir5.node.check-host.net": [
+        [
+          0,
+          0.350897789001465,
+          "Connection reset by peer",
+          null,
+          "79.127.211.129"
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          0,
+          0.382650852203369,
+          "Broken pipe",
+          null,
+          "79.127.211.129"
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          0,
+          0.121792078018188,
+          "Forbidden",
+          "403",
+          "79.127.237.161"
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          0,
+          0.634596109390259,
+          "Broken pipe",
+          null,
+          "154.47.23.177"
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          0,
+          0.340033054351807,
+          "Connection reset by peer",
+          null,
+          "79.127.211.129"
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          0,
+          0.0747249126434326,
+          "Connection reset by peer",
+          null,
+          "79.127.211.129"
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          0,
+          0.647449016571045,
+          "Connection reset by peer",
+          null,
+          "79.127.211.129"
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          0,
+          0.0297529697418213,
+          "Broken pipe",
+          null,
+          "79.127.211.129"
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          0,
+          0.0573060512542725,
+          "Broken pipe",
+          null,
+          "79.127.211.129"
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          0,
+          0.1717689037323,
+          "Broken pipe",
+          null,
+          "79.127.211.129"
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          0,
+          0.341919183731079,
+          "Forbidden",
+          "403",
+          "79.127.237.161"
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          0,
+          0.344093084335327,
+          "Forbidden",
+          "403",
+          "185.103.37.77"
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          0,
+          0.0749921798706055,
+          "Connection reset by peer",
+          null,
+          "79.127.211.129"
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          0,
+          0.141957998275757,
+          "Forbidden",
+          "403",
+          "79.127.237.161"
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          0,
+          0.222481966018677,
+          "Connection reset by peer",
+          null,
+          "79.127.211.129"
+        ]
+      ],
+      "ru3.node.check-host.net": [
+        [
+          0,
+          0.748852968215942,
+          "Connection reset by peer",
+          null,
+          "79.127.211.129"
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          0,
+          0.261600971221924,
+          "Broken pipe",
+          null,
+          "79.127.211.129"
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          0,
+          0.11517596244812,
+          "Forbidden",
+          "403",
+          "79.127.237.161"
+        ]
+      ],
+      "tr1.node.check-host.net": [
+        [
+          0,
+          0.156631946563721,
+          "Connection reset by peer",
+          null,
+          "79.127.211.129"
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          0,
+          0.270658016204834,
+          "Forbidden",
+          "403",
+          "79.127.237.161"
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          0,
+          0.0740640163421631,
+          "Connection reset by peer",
+          null,
+          "79.127.211.129"
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          0,
+          0.157889127731323,
+          "Forbidden",
+          "403",
+          "79.127.237.161"
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          0,
+          0.205623149871826,
+          "Broken pipe",
+          null,
+          "79.127.211.129"
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          0,
+          0.0787949562072754,
+          "Broken pipe",
+          null,
+          "79.127.211.129"
+        ]
+      ],
+      "us1.node.check-host.net": [
+        [
+          0,
+          0.616857051849365,
+          "Forbidden",
+          "403",
+          "79.127.237.161"
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          0,
+          0.132097959518433,
+          "Broken pipe",
+          null,
+          "143.244.35.226"
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          0,
+          0.0481648445129395,
+          "Broken pipe",
+          null,
+          "143.244.35.226"
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          0,
+          0.333307027816772,
+          "Broken pipe",
+          null,
+          "154.47.23.177"
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": false,
+  "processed": true,
+  "original_image": "https://example.com/default.png"
+}
