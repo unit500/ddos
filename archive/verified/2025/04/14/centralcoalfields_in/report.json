@@ -1,0 +1,443 @@
+{
+  "report_type": "ddos",
+  "group_name": "Rabbit Cyber Team",
+  "actor_name": "",
+  "operation_name": "",
+  "network": "unknown",
+  "targeted_website[]": "https://dhhodisha.in/",
+  "check_host[]": "24f5030aka9d",
+  "check_it[]": "on",
+  "attack_date": "2025-04-14",
+  "additional_image": "",
+  "g-recaptcha-response": "03AFcWeA5hSp-eOhxu2Tsm-t_L37gPgoUoUH9fBWU4xF3QFfIX3yB6P8BNHfMPanoNeFi1buE5NLkf0iBouGsUfmehIBJ4Z8XmXCABK2opm8KvyHBjbsMFf2csfkCxTVf6pN51qaFIPkxKRYxM8Mj8WrfsX1eJB6QPFudCNMIDxlqtGHHNjhjTrHMN2HWRIw-AEJTsXayQNqyn96YErXCkWCuScMERGbml7esjE7hXpymNYsVe4JiGCytCL5pDvM0lwNHoBwVwp8UFd5yHYu6wPpmwgv0BXzrh3NhjYCvPNd5q-6EYoPx3ne2LSuj8RP3_9tIca9xz0vBkSMQVtIXRkMwWZVOAsLOx1UyDxXSCDZU_Ggyj3_AW0tMzB3syQsPOIjEAdaos7kn2ILC1n3U6MN6wVawNxxkm7FavkZkoTzfFSdMtnB4gefm136XlJlhnq38j1bytommTGbQxkfFIgVaN1h3-YikdoR661KlnwfT_9Y1fa-h4gAU6f2o-bGykWy6JcJcNeWj97zDuaF66YqB1_SmDlEOHtRJBdgkXy0PIhMPsu3ujn9baTGOGYJudqbAoyd2Qv-8kjH1XvSVIqO6oHenFucOB9WkfsJklzTs_T8GofzB0szlLZ0YlE2X0eI8Wt3SVUkOMmkDBOMCRGlRRYwHF-gaQzNKJ0wA9OR_CC78bNSXq89tx4MY8yzN3zy9H6rst2r2VjyJBEws66T41cSE_IqRoOVgJjWwYwWPx3Wl8K6uVI9aaIG7b6PawP1nVIl60rYCiHDIttEM3bxuVVtnbhUtNpIWtNwCevIc_KtWPeYZFWYswVrI-HjaUbIQsPG9nJuRQeaSV8k75hQsXz_MYuycSBOQ7U4FkLaog2DkfT13hBYn9cDY1_JC69mvk_mN3mLWzMiZLtyOXUH4PFOvRCoel9pNueithoPq6jIh9XpWr-GhN6p-2Dt9ytzMY4Eyc1n8hSpHEwzziMSJcfsg1Mx-VKumeL66W7r6UZmXYJVtuAsZakfx3rRL81P3c777omo0ydNfpnp2j4BwIf42IX2rTzIKAI031zKfqyHRIAymS1jIo41Tki_w8-3oJeJAugXCK8Jf170Nl0TZkO9cmC7pUglTdBzIcJw3rVoLNplSRXAvSEGWqu4pgjIJdPMGYs5YN2U8tbIKbDnqGf-Z4xk0SBmFSs6bD-DFBiPdRWExRKATwpHF6Grl2RKZx5xN8NeUbJghvqN-mv0S_8BRR47WRCJb6KAHQPnuQbDAPtnZgQ8lMs9vN-FQHRYG-bC2BcDBxffpKFNWnQwojZ5tzGKf37TYDQki8XLiKIrSdVRbGJghSJJCPo7DHh9l21mZP6fhaKiLzxE30tVLZMOjlpFl87IelJXlKbgI_Bojk0Qi0bYNPV9HVCeSpksVR4ncSy-j3WP4sjVA9LRaZ1TZbbA0b9udLW7WrgPJQ4POOycJcS7XX5--Kp_eLCQDHJ8hNdTqVAXCeLdotg25pm-Y36sUFMfUP960eN1-qMs35L4ldtzYjq99uw-ACuVMrfndgfpRES3hQowMK1bOTzh0kXvnljceDBhitosJ8AnKMQisMzBKi2rM4pBVybPFAbeHQsidnVKlruBFtH1OrN9YA5N7w8Vm5N1HPHI5JaG99IyGmO0iLaBpMkc_xS3qQ79T_w-6j1YI4d97d1lJ7ys2p_SQwznV-9tww3tIpNVxX_ObZMy3SR8vWsvYMoKUK3xfCVXZ6Q1lDz6-cK9KQql5jwiIYNy-yQWkMjcNH_XG6FqQ_v_SDrRTaRQOvvQ_Hn2U6HjgtvQ9-yBE5vUa-tGecWuiRj8K8_PGX2TfVtJSiApYwLMpWfstmuLwgeGrm471aUo4jYP8IghrJFTCKXj39Hn_ydF4_rNynXA9KaIt-U_EAzYou6OgasL_5cTjWvzm2LxNHRzy_9O-eTJC_7eIFOsOqshE-s0_jv7TnDdqBs2XhjQxzqwwyFFUt6VuCuDt9VNQ9BhQEaW3KPdF8uiMoFuPd-gjkRmbI0t5L8pxIuNR9Jp-06KqsmA1el7s1nz5JcBk92kueRUUDIlSDTcS6_k8X66XaEUg3iFLc65E4WrhlUmq9QAL7aJuKuJQIC7Tg_NIdqdU4ZV8jaGnq02RjbArG9msoYQkJM59OPnksnidJ85Zk8ChxJ8O8RfxJTf3vfXasW5VZE8x0--Ky7tcTdzpbxdJyNdZafrQu4lqqmK7UFnwdGdvgwH5q4oPRATDVpjU-sRgotVmq43VGjIxCk-LPGy2xPBM-Z8IRlUDPLj8w_wY4fXV9ejBPQ35YoNaJ04Sb",
+  "targeted_website": "https://centralcoalfields.in/hindi/ind/indexh.php",
+  "check_host": "24f50ac7k86f",
+  "check_it": "true",
+  "mass": true,
+  "attacked_country": "IN",
+  "attacker_country_affiliation": "Unknown",
+  "check_details": {
+    "website_verification": "https://centralcoalfields.in/hindi/ind/indexh.php",
+    "check_date": "2025-04-14",
+    "check_results": {
+      "bg1.node.check-host.net": [
+        [
+          0,
+          3.74597001075745,
+          "Forbidden",
+          "403",
+          "35.154.219.205"
+        ]
+      ],
+      "br1.node.check-host.net": [
+        [
+          0,
+          3.90532493591309,
+          "Forbidden",
+          "403",
+          "35.154.219.205"
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          0,
+          25.0005080699921,
+          "Connection timed out",
+          null,
+          "35.154.219.205"
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          0,
+          25.0007491111755,
+          "Connection timed out",
+          null,
+          "35.154.219.205"
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          0,
+          25.0004529953003,
+          "Connection timed out",
+          null,
+          "13.126.106.69"
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          0,
+          3.86004185676575,
+          "Forbidden",
+          "403",
+          "35.154.219.205"
+        ]
+      ],
+      "es1.node.check-host.net": [
+        [
+          0,
+          14.2491319179535,
+          "Forbidden",
+          "403",
+          "13.126.106.69"
+        ]
+      ],
+      "fi1.node.check-host.net": [
+        [
+          0,
+          12.4100358486176,
+          "Forbidden",
+          403,
+          "35.154.219.205"
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          0,
+          25.0008511543274,
+          "Connection timed out",
+          null,
+          "35.154.219.205"
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        [
+          0,
+          19.257875919342,
+          "Forbidden",
+          "403",
+          "13.126.106.69"
+        ]
+      ],
+      "hk1.node.check-host.net": [
+        [
+          0,
+          20.2848608493805,
+          "Forbidden",
+          "403",
+          "35.154.219.205"
+        ]
+      ],
+      "hu1.node.check-host.net": [
+        [
+          0,
+          25.0007050037384,
+          "Connection timed out",
+          null,
+          "13.126.106.69"
+        ]
+      ],
+      "id2.node.check-host.net": [
+        [
+          0,
+          24.9999768733978,
+          "Connection timed out",
+          null,
+          "35.154.219.205"
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          0,
+          14.2502839565277,
+          "Forbidden",
+          "403",
+          "13.126.106.69"
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          0,
+          25.0008578300476,
+          "Connection timed out",
+          null,
+          "13.126.106.69"
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          0,
+          25.0001850128174,
+          "Connection timed out",
+          null,
+          "13.126.106.69"
+        ]
+      ],
+      "ir1.node.check-host.net": [
+        [
+          0,
+          25.0006258487701,
+          "Connection timed out",
+          null,
+          "35.154.219.205"
+        ]
+      ],
+      "ir2.node.check-host.net": [
+        [
+          0,
+          25.0013868808746,
+          "Connection timed out",
+          null,
+          "35.154.219.205"
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        [
+          0,
+          25.000235080719,
+          "Connection timed out",
+          null,
+          "13.126.106.69"
+        ]
+      ],
+      "ir5.node.check-host.net": [
+        [
+          0,
+          24.9999389648438,
+          "Connection timed out",
+          null,
+          "35.154.219.205"
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          0,
+          1.77586102485657,
+          "Forbidden",
+          "403",
+          "13.126.106.69"
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          0,
+          12.4069368839264,
+          "Forbidden",
+          "403",
+          "35.154.219.205"
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          0,
+          25.0010471343994,
+          "Connection timed out",
+          null,
+          "35.154.219.205"
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          0,
+          14.3233458995819,
+          "Forbidden",
+          "403",
+          "13.126.106.69"
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          0,
+          20.8261151313782,
+          "Gateway Time-out",
+          "504",
+          "35.154.219.205"
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          0,
+          25.0003268718719,
+          "Connection timed out",
+          null,
+          "13.126.106.69"
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          0,
+          1.72115898132324,
+          "Forbidden",
+          "403",
+          "13.126.106.69"
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          0,
+          3.84347486495972,
+          "Forbidden",
+          "403",
+          "35.154.219.205"
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          0,
+          14.2625851631165,
+          "Forbidden",
+          "403",
+          "13.126.106.69"
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          0,
+          20.919401884079,
+          "Gateway Time-out",
+          "504",
+          "35.154.219.205"
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          0,
+          25.000452041626,
+          "Connection timed out",
+          null,
+          "13.126.106.69"
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          0,
+          25.0001940727234,
+          "Connection timed out",
+          null,
+          "35.154.219.205"
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          0,
+          1.7804479598999,
+          "Forbidden",
+          "403",
+          "13.126.106.69"
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          0,
+          3.75823402404785,
+          "Forbidden",
+          "403",
+          "35.154.219.205"
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          0,
+          13.2000288963318,
+          "Gateway Time-out",
+          "504",
+          "13.126.106.69"
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          0,
+          3.63717007637024,
+          "Forbidden",
+          "403",
+          "35.154.219.205"
+        ]
+      ],
+      "tr1.node.check-host.net": [
+        [
+          0,
+          25.0002610683441,
+          "Connection timed out",
+          null,
+          "13.126.106.69"
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          0,
+          25.0010011196136,
+          "Connection timed out",
+          null,
+          "13.126.106.69"
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          0,
+          25.0011868476868,
+          "Connection timed out",
+          null,
+          "13.126.106.69"
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          0,
+          13.2072579860687,
+          "Gateway Time-out",
+          "504",
+          "13.126.106.69"
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          0,
+          13.2006900310516,
+          "Gateway Time-out",
+          "504",
+          "13.126.106.69"
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          0,
+          3.71699690818787,
+          "Forbidden",
+          "403",
+          "35.154.219.205"
+        ]
+      ],
+      "us1.node.check-host.net": [
+        [
+          0,
+          20.7847719192505,
+          "Forbidden",
+          "403",
+          "35.154.219.205"
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          0,
+          14.4729900360107,
+          "Forbidden",
+          "403",
+          "13.126.106.69"
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          0,
+          24.9996800422668,
+          "Connection timed out",
+          null,
+          "13.126.106.69"
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          0,
+          25.0001418590546,
+          "Connection timed out",
+          null,
+          "35.154.219.205"
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": true,
+  "processed": true,
+  "original_image": "https://example.com/default.png"
+}
