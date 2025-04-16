@@ -1,0 +1,441 @@
+{
+  "report_type": "ddos",
+  "group_name": "Arab Ghosts Hackers",
+  "actor_name": "",
+  "operation_name": "",
+  "network": "unknown",
+  "targeted_website[]": "https://salaambank.co.ug/",
+  "check_host[]": "250148f5k315",
+  "check_it[]": "on",
+  "attack_date": "2025-04-16",
+  "additional_image": "",
+  "g-recaptcha-response": "03AFcWeA5mJ7oTW5ZMT9pIkYzpxIg-7jAq665ESIaDUo4SysEDXwGvf1MAumAvTsvL69zq-OCkZMQGCBU6O9Q1httHTP6ciZx-PGZJ3Q0-OM2PxncEvs2CYrgkqlBxS38LhkZBAIaQGtb1ACohvOjiAd-6vbjy7-fh63p8jiIubZVsWumWDZScCbsGm5cpdHm1lU_XUs9DIwjgLKUWwMjKCXGY1X3BVPfMDreQcbVPX1euUJvlT4cQKFxumO-sAdU4CowmII93mjrGF4rwe0Z79O5482EVkOqQ9SEKg67WhjGYmShecvQtv4ssIlI3ZeKXFqMKAzmLJe7nCapAfzurnCifcehioBiAPdm_hGm0HR7I2a6afYiFk9TP3CVwjqerORZqyBBpXZ9Qb1qYQIvgEh_yHukuumH8it7oAwacSawX2YfDUjDrKMh5WVyKcCC1xlu_qRTp-amdlNnPNM2BqLCbj-ZQixBUgRUvapGbnKYyvk8-WraKPVBNbewPNudTRQnc2b403aoKXqy8y8ZUzxQYu425Js69xrNUwG0gg56Y4f7QSSr1H4ncNVhFkCPTrvPnEWMErPHui8gC5OhhJvmeF01d6dNf7p6AlPpevgzIO--4e1NByD8KJQVv3887IdE8IINmFOYbblXtZbR8VyFj8fUk5R5aePgM_nP5ZzcWP3xl48I-_H-1pKAfDB_3tvzKp8bRodnNl8M853jlOP2ulWTXndNyOgX87jGSvy1iICBSyIjI8ft-aASXcn_vwl3j5pHPuouWFCgQqQVHgkt_9AbgimHevCdPkEUvKpxIFBZcMj2FOuYAPzS6G6V-RLDASrOCJzafSsfTAxqIxXyPcqbH9AvunERAxi5we_lr56EYgT5Cc44nckLFfF6GMLLOA7yA26arC0WfYWEFxfun_M2eLRFGtxSg3R_HtaFsLiRUVK8cZWa4mdhjACfWpfOXfp80qwnMzELhc5nK_NA8jfpAh1FQbw9rUI-w1xPYaf1iPhiWi-1HE5xX46rme7plhJ9rHMPjsWz1kn8Wck7Fa8uoaW8MSGlwT3Y5DBcL5Za7K8PnlkdnbMD3ACtwKBefsd7m806V_GHmUKoyLYgmSoqTHvXmep3H3w29M7XtCcXh1P8WtWH-dJWE9Okzlf6BxMsKSJxX0x4Bst-ksFf74hoXRfTpcEvDezyrBZzyQUNWc-5x32CVpmzhR_V9ZeGLqNo9AdUdWiaLa9gEp5KuRg7eySjPoC0fLHbricn3lvx4jfuzt58Yd8av69mOI8ikmlcoXI8kVJpS3cMd80lEdtOU9dvygiKFWhhV17CPExeM3OlAannT-wzM1KvdeuDP1dYtmAVKPnViu_RvYpoyG9JbsrzJMjycSsXLwDIdUjdIAZluWvRiwE4RkVWMQvObxKa-Aobq0DqvC_eXCqtJBNIDA_VFREpWuJZUpAxn9bu4_tdPuV1XRP4PuD0KsbZIWIYrg-XucGdSPCk9YBqrTDobNNeD65suwKpcFdnxQpEq9MuzgLaQsh3WdHUiR3VoX31cS4oYXFj8Kfxj0HNwhxDXiyX9Hd7OcRDcIY5Y11H8jcep5Q4lSEXfFRNfq8m2vYNM_RfKy6_0mjdcFR7wWsooRFCwLH1XdfIOvr0Pj347G9TIub_A6P4x6Sah25Y1ODO6R0pbgIj1R45214rHG9nXnPQ6zCHWPDJy9xAUm3gLFj-21M9RervBNAdpzzGeE486t4kg35EqOMe5c_twn6XWFWWq7kATfm6EvEL77wcLqDXXp-hzaFwCtM2kTdqAs8M4cOJM3i9O-dhO8WjD47yEn0HE6ggJ43mwHXxeK3jq0AWfnBz1D0DOaAnYpUd1bMWNv0nZO3njK2H_sOl00KmQSggwSElFpC3S6_olriAASSVQEHunWKyf_7kJ3jOXLx6XSdhRyoyuw_2wVePq1s6BOUd37RjpPkLdtMMRWB5R0FXTOvHWGhS_YoYr8joL67GYMVPlWpCruNvBDyJxGdSwNsKCEQ7i1EgepklD3E80d7LmrboGUXtC0DFwU9yx3ZBSlKtA4cJy7Bi1V3E84Ddt3eMCZCFzZPwj9p4uM5hXd9uDgV6gL_b0ce0WF0ft5yu6s3TAG0U03EnrxpVxSAxJaoWRnZB9fkkwyIg4G_wJYFI2RL8NG7ISsZTr_7leb6gTMSV0WRMW_-vyi_7YGoy815aUp2EmQUuAqLP3aSrQGJYcrFFrq09X8ydiF8tbYBJKRdqyWpslRb42vQxRpbJWqnqmclFTYqdcjeNX9-QgSb7mUrU",
+  "targeted_website": "https://salaambank.co.ug/",
+  "check_host": "250148f5k315",
+  "check_it": "true",
+  "mass": true,
+  "attacked_country": "US",
+  "attacker_country_affiliation": "Unknown",
+  "check_details": {
+    "website_verification": "https://salaambank.co.ug/",
+    "check_date": "2025-04-15",
+    "check_results": {
+      "bg1.node.check-host.net": [
+        null,
+        {
+          "message": "Connect timeout"
+        }
+      ],
+      "br1.node.check-host.net": [
+        [
+          0,
+          3.00222396850586,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          0,
+          3.00095200538635,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          0,
+          3.00331497192383,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          0,
+          3.00098299980164,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          0,
+          3.00272107124329,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "es1.node.check-host.net": [
+        [
+          0,
+          3.00168204307556,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "fi1.node.check-host.net": [
+        [
+          0,
+          3.00220203399658,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          0,
+          25.000519990921,
+          "Connection timed out",
+          null,
+          "69.175.76.248"
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        [
+          0,
+          3.00197005271912,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "hk1.node.check-host.net": [
+        [
+          0,
+          3.00203704833984,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "hu1.node.check-host.net": [
+        [
+          0,
+          3.02108097076416,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "id2.node.check-host.net": [
+        [
+          0,
+          3.00171494483948,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          0,
+          3.00101494789124,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          0,
+          3.00201416015625,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          0,
+          3.00190186500549,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ir1.node.check-host.net": [
+        [
+          0,
+          25.0007779598236,
+          "Connection timed out",
+          null,
+          "69.175.76.248"
+        ]
+      ],
+      "ir2.node.check-host.net": [
+        [
+          0,
+          3.00231909751892,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        [
+          0,
+          3.0015869140625,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ir5.node.check-host.net": [
+        [
+          0,
+          25.0004289150238,
+          "Connection timed out",
+          null,
+          "69.175.76.248"
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          0,
+          3.00101613998413,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          0,
+          3.0018789768219,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          0,
+          3.00099492073059,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          0,
+          3.04887199401855,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          0,
+          3.00208711624146,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          0,
+          3.00224208831787,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          0,
+          3.00165009498596,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          0,
+          3.00193309783936,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          0,
+          3.00168704986572,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          0,
+          3.00096201896667,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          0,
+          3.00108194351196,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          0,
+          3.00180387496948,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          0,
+          3.00094199180603,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          0,
+          3.00242614746094,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          0,
+          3.00253105163574,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          0,
+          3.00234889984131,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "tr1.node.check-host.net": [
+        [
+          0,
+          3.00206112861633,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          0,
+          3.00147604942322,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          0,
+          3.00185704231262,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          0,
+          3.0012891292572,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          0,
+          3.00292611122131,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          0,
+          3.00189685821533,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "us1.node.check-host.net": [
+        [
+          0,
+          3.00219011306763,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          0,
+          3.00109505653381,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          0,
+          3.00357389450073,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          0,
+          3.00138998031616,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": false,
+  "processed": true,
+  "additional_image_original": "https://i.ibb.co/mrtYW82H/photo-2025-04-16-09-38-42.jpg",
+  "original_image": "https://example.com/default.png"
+}
