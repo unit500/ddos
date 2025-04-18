@@ -1,0 +1,452 @@
+{
+  "report_type": "ddos",
+  "group_name": "Keymous",
+  "actor_name": "",
+  "operation_name": "",
+  "network": "unknown",
+  "targeted_website[]": "https://www.chalmers.se/",
+  "check_host[]": "25141a15kaa8",
+  "check_it[]": "on",
+  "attack_date": "2025-04-18",
+  "additional_image": "",
+  "g-recaptcha-response": "03AFcWeA4lRddGJUUN2fecWjZzwo02iGi2OkelZxL4Cc1eU3YsmQd_nneuRHOPUSReTEo_wmOCs7dG5zyLbQ1ba5lis2RTw51DTZVgE-RyAtKc52nuVMM9F-cN-I8_CTw8F0-cVXCAxS_aY7OXHeXxdmdLV101ygWlpdlK0AEhHmr5KVjRuXVgx-P9MPuoPty5mDEBlpyViIn1of8WwHz59ddPnkFWtayiS3buoouA_UryVmfcARkZ_B6zhxSVvTX38SF450e5fyjy1pUkNQC618nucAU_a7pj8tFPKhjT4TrJ1KMdL_hxBTEBFGG0e1EKWSay0vSFUEkSWyYJczg8APVWF9OAVfIEx9cIAlFpWoh5V5Y66RZlEWKzeuSKI7R30ZXu5vagjHYbajtlQgpzfIGBAV_Ovf97qwZHdCCK3F3sYGru3ohFV5ELoDTYDLKQVwlbTaTzJQpUElmCJpk0Hd-BmVuuBPq78gbuQ07y1IdKbvSXmNUz8k-d44btosRy2bv0lh3nWl2KpbgYhIidu6hKImSmxH97wPiFDoywOsLDHc-_mPgWC0y_FG6eWxeGXEJjYXEAJxPnV1LiFmlweaqXWOjExErJORPLIAW0qoBH6HkpyfbqtdllgMdFTh6t5_DCdd9IeDLW9s_Mt754S9O2MYgWV314nBVbyPtbHil3KU1zkQ76VtUo3h58b7cIVRuj-h5lSAVv9PT5YdL1rNcbrwKgzxbkFC8v-4zygKUOVDHjhfhyFTne3sFCVthH8V_uVmzCFbvpw_lsaVFgcOc_6VlOkSfEToResJChnpVLzMj8NtIFFMmPaVGH09zZ1UmW2fv4Rm_TuyW3mxB_sMkeYPkeaqUXcxwlXc96LhufQRxPzkeRQuLAZYbu0JOwtU6g2A5k2vWjH2hFtBgqDSw69SAKYk6NujWhBBydhw9pf8W8MpJmorqYQUTWJx0FaU2-axUFPSdH60tRU_fkuMwoE3oT9nBHpWVlOty7my2jWvqHyxA1T4biRnfFSTRTT_GataK0G8mtpg8VSNXYGIfHuj08jV9GsFWPwPZdH_Ztd7Ilv54TV1jNnFXdNg-hSami3bExMOgfPI51SkbsSDZkH5UyDXqjSrJ3dXXTzRfazr0IuuQyhrgnM1lpCzgSbm9zVkDoG_Re8fuef4_bqPvnxd1y62IyCi2Br44fSl0h044uNnu6DJGCxH9IS6At0ZsVl9ImnK3LKlHoG6ExTw41IapXOPgVLXSbolW21MIncOEWsczcB6k-FQr3kFKa5HEeumnrjg9DpKUpu1ub4jnNB1o1sG-e6MLJWJx626pIDrVXdmiPuaHjYB26DpccaHTMURgmnJIY6lLLO_foJkUI8EnA_uD8vOCnfkEkhoGicmOEGw73JNh2vwjvH6elJPpq6YXk3IYg29k4iGVu34IEUE6dih5cFjX70wK-IMZdMX3ExaC8U2X-13bsfY_98VERuln7mjNkmvm_hhSHveNXw2XoDtuiae0GjVF-8j0fZa1lJBHE8r9ZHQ7qLrNcdIeBqzBbmbmCkp12aMp17NsNZDqdv0zqE-MekkUkyHbmXEZgG8lTuC36LOiOsQC3Cmyqf7TPe3swIY-BcWkbM48FoQm3OSgudc1t8Wc8K1pN_9K_GBiS8iiiqB_gPvr1NohjMp-EzrIqYmoRgy6kG7l-b0KpHYEPWJS5TXI59eqs-j5jAC_lpE3ZsKIdWtAo233rLL8-LSleOHbVwSj1mB_szskRKlTdoquyBhomMm1gGxvySuk2YlyHcg2c-IVQkNvNB6VeFC51zmk_jc6AR8FKwZccJwQB6jgBh67KgCM3KPxe8euvGWWPduykhUIR3FvOaG3uRxytdPQlr7nW1kNkqiwJRftbVcTvjTeE-qvi7imYC6Stpj7TGDvuBCLLGuDhrVYpQWsiVRf2AuW_L8vJ-T3RKH56wTQjG9sYx7EoGf3tIrEuSHqvoM3qHQ_n-eCVdb4nlFjENlh3FPGt9nsFzQa8Pql1JB_TkM6yD6qzpcmd4lLrVKw1viZMU7LCaKjV4Ef_9jwNs4rgscEtpxFoncrR_L6BR0GOZwThml8zJCT0IYdB8e_31sE4a5J7hjN3pCmNzOloFN9gSzWtMhTFTFWNsJADHSIA0aZNWrNrndrE5g77XD4UT4XtQP_sd0jDUDtm9drY3ao6MBr8HVutAkCWNTCW0SLbB9sRddXdYofdhStUid44AYkeJAVulsMs-5xWEKpQRb6RMMHjfmcH2VKOBOw5ik-bP02JsNbQgWVlsChKrIdVWyDJ2MpyIO0OoAdfWboMv-bc_mZ2tWOT6l3iKRCPdA",
+  "targeted_website": "https://www.svensktnaringsliv.se/",
+  "check_host": "25140ba4k6cb",
+  "check_it": "true",
+  "mass": true,
+  "attacked_country": "IE",
+  "attacker_country_affiliation": "Unknown",
+  "check_details": {
+    "website_verification": "https://www.svensktnaringsliv.se/",
+    "check_date": "2025-04-17",
+    "check_results": {
+      "bg1.node.check-host.net": [
+        [
+          0,
+          3.00318694114685,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "br1.node.check-host.net": [
+        [
+          0,
+          18.1243691444397,
+          "Connection reset by peer",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          0,
+          3.00121998786926,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          0,
+          18.4550220966339,
+          "Connection reset by peer",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          0,
+          25.0005080699921,
+          "Connection timed out",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          0,
+          18.4741299152374,
+          "Connection reset by peer",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "es1.node.check-host.net": [
+        [
+          0,
+          18.2342410087585,
+          "Connection reset by peer",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "fi1.node.check-host.net": [
+        [
+          0,
+          18.3977839946747,
+          "Connection reset by peer",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          0,
+          18.5011119842529,
+          "Connection reset by peer",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        [
+          0,
+          18.469694852829,
+          "Connection reset by peer",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "hk1.node.check-host.net": [
+        [
+          0,
+          17.8101079463959,
+          "Connection reset by peer",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "hu1.node.check-host.net": [
+        [
+          0,
+          3.00641894340515,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "id2.node.check-host.net": [
+        [
+          0,
+          18.098730802536,
+          "Connection reset by peer",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          0,
+          25.0001771450043,
+          "Connection timed out",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          0,
+          3.00169205665588,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          0,
+          25.0004041194916,
+          "Connection timed out",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "ir1.node.check-host.net": [
+        [
+          0,
+          18.2297298908234,
+          "Connection reset by peer",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "ir2.node.check-host.net": [
+        [
+          0,
+          18.259290933609,
+          "Connection reset by peer",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        [
+          0,
+          18.2875289916992,
+          "Connection reset by peer",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "ir5.node.check-host.net": [
+        [
+          0,
+          18.2648758888245,
+          "Connection reset by peer",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          0,
+          18.3294260501862,
+          "Connection reset by peer",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          0,
+          3.00144696235657,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          0,
+          17.9868221282959,
+          "Connection reset by peer",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          0,
+          24.9998559951782,
+          "Connection timed out",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          0,
+          18.3655409812927,
+          "Connection reset by peer",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          0,
+          18.346981048584,
+          "Connection reset by peer",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          0,
+          18.4753170013428,
+          "Connection reset by peer",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          0,
+          18.4872059822083,
+          "Connection reset by peer",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          0,
+          3.00210499763489,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          0,
+          18.4502999782562,
+          "Connection reset by peer",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          0,
+          18.3988709449768,
+          "Connection reset by peer",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          0,
+          18.4207289218903,
+          "Connection reset by peer",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          0,
+          3.00093007087708,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          0,
+          18.3890378475189,
+          "Connection reset by peer",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "ru3.node.check-host.net": [
+        [
+          0,
+          18.3850440979004,
+          "Connection reset by peer",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          0,
+          3.00208902359009,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          0,
+          18.4192550182343,
+          "Connection reset by peer",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "tr1.node.check-host.net": [
+        [
+          0,
+          18.5560622215271,
+          "Connection reset by peer",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          0,
+          3.00114488601685,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          0,
+          18.3646838665009,
+          "Connection reset by peer",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          0,
+          18.4011421203613,
+          "Connection reset by peer",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          0,
+          24.9982080459595,
+          "Connection timed out",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          0,
+          3.00136280059814,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "us1.node.check-host.net": [
+        [
+          0,
+          18.0276398658752,
+          "Connection reset by peer",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          0,
+          18.2712821960449,
+          "Connection reset by peer",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          0,
+          18.2195770740509,
+          "Connection reset by peer",
+          null,
+          "20.54.32.10"
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          0,
+          24.9999830722809,
+          "Connection timed out",
+          null,
+          "20.54.32.10"
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": false,
+  "processed": true,
+  "original_image": "https://example.com/default.png"
+}
