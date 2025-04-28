@@ -1,0 +1,468 @@
+{
+  "report_type": "ddos",
+  "group_name": "Anon Sec",
+  "actor_name": "",
+  "operation_name": "Op Ukraine",
+  "network": "unknown",
+  "targeted_website[]": "https://dkrs.gov.ua/",
+  "check_host[]": "256defc5ke7f",
+  "check_it[]": "on",
+  "attack_date": "2025-04-28",
+  "additional_image": "https://unit500.python-myth.info.s3.amazonaws.com/ddos/2025/04/28/kvs_gov_ua/files/additional_image.jpg",
+  "g-recaptcha-response": "03AFcWeA5J7yYDINQP7OSeBAvGP7CEOxkCR6gGElJZOe2dMv_QY0WfgV0XqRqtVmSb1CSu91Lpt-DPK1aJORLKirt_rOseiwVOoFBoNBriqP6ySlQQWQDq4uOKynZ3O9v9w4uYMu_Lbx3AQ1Ga2g4R-fx5zl2trV3E3zTgBuMix6HIVeoRcBeNNOr6lXRKNDHRucE5VJdZSyUOGTSA-J9KD42aLuHp3SXdiOLeRLASvt09s8fIappFKH2J5mIARAWZi0soPQV6tvkpvnPRZVMappybFzwl8UXvag1_ZZs5EzLYOzyBPHQhT5Pi5o1_gq8GCa1Ycn_3-GBMY1zLiChnzlSl0q4eLSJj5TYeXjqmaEbhE41DZ0ZZQRfYIvdYxT3NiKIvKbqLZhI1c4Yr60MA56UN2aQxPUO2UyFKZ82A0mr1dmrFvS6q7OZ0XO3oqlSVgbJrEwBFalHRdE9R6c-dykbWVvuvOSlvPbqXWHHw4Ucp_ngzg_qmi_6Y2Tfny6hHTXVqpR6vOsj_NBYOwC4Fhtiib94FUh0EO6JqQop-E2fasX4pqjUlJ0iTG4nQger88YZS1z807YEZKnJ9v3WSVrlWuyrOJpCHFll0ot_uXjq_8XkJXdTFEiW_GCLp4uV_n0rPeu9gVUsKeYm3W3sGUTP4WjvMv1Uavq0Aq4x4T2sDZxLcO9pKz0Zf4KF97FqcvuUvVl7c6rsCYdRI6sinMadmVPuoDnR1bAB50Hp1O7YwneP4pYWRaxMHUxPbiW06n87lkt3SiJ5FdsHMx-zC17id2L49GjB6t4NY7lkrlVrGes5NsRDSuP6vVC0qdgcjp141CvJrn1KVKALfDfJT93xRWZuXkGU1oJS7uEx0OJytEexQ0PdK-CDHe_Sfno-KK_Ct55SGSk_nQczHcJ8drANjZLyQEfA3Qr9Gk8xP36d2rldHc-GKb4bPM3qkZO1DItkdB8wl-dfHvnO3h3ivQJ1o1sy1CK3KilBcslw4FOYRAKjk80pisDh0f-9QYgXkAhZu6aiMU8ntrKHaoCBPNnvFpwKVZm96QlRNdZeGPnTBpdsZRuypBt6gz3WZ_vK47je1RPUi82o0e6fpe_huol5CyBCDlU_UimFudk3TFBi87udMKXJeS-HEgtnY4_SOf2n6wV7WHHD-_uDKpyyON-jrBjx7MfRMZLptvA4gRZznZqr941-l1xAUvaeGlkPNDUpTARd3bBI-F9_9Hlfop47QJPwsuUH1fKrUF57IthdHY3djpODZM26ob65C0NOoWRcRHjrRmxq1aIY4lzBSPo3vBIiojhgNpWMVjSjH8SQz-U9nVp4UQnySQp02cTqbkgONNRpc0j5ji0wOwlv0gsUErn-5YA__9y63-9Kl-05hEt3LdfoiRkowZmNCebqtJMgrIA1RfW4bmqJT9rZQHhkqwunqfkdssAlbgmzbxrQOz0LLiG2MmPVLCaHYUne8ua_tpDfnUuhJW7yEIqBbWi237H8f4htmsFY9ay6w9ONzyWP4_5fueAiR-v5lPi_31pyIb0lP6UrutJE83_BzRt1Nx1Qh2Lb5-C5sBocoRDfOqwI9JVcqgImmtbVPjOz33BUEOhEvPhaJn-_QG6a2LjsbED3Tj7i8MpoKK4BR3yJm1POfBO8KODbVczpeI0RoJakZ-FaHHOaYjShnw4zZu-uXI8Ke7771aSbLGzbrG2PZHpBaV2iTvpDoNxjO1VzXR7j5fC4gUDSrk5dEvCBQJfsi-qqGsuSOAOqbWHdM3wLZbPphWV38cjVdVzaaIt29cC1PBzNNrKnL3yS8MM3LdYzmRUJGA2wtMhRvh94kG0Ghr18Bo2V-Q1o-IfnBLnf7duqhwLjE0CxznmacYoL5p05sFKFk21H900jbmcH5iGIaUhwPpnkuQyW6WXPsyCc8_tky8n5a69gT_JcU7I85Ua6NXvMN3W2Q_G9GITj33OYzXLf7-MEOxMF0rqHBuF6E3yyUtNKOEQgNQZ7y5TpsNuZEfEqZy6BA1HCYMqybFsvl-inwiHtDWF4eMh_XzGSXX5O-SGsw6_8F6MXCQkek0nLBSgDUoUfzNKv1bqOlz93beesMN67YwOpHeZ0086vS_H0TW06BIg7uB6wK0Rcb-hQRvY1weFcBmKQNZuk2Mrw2KphsnCkIRA0rJsA2FRs7fUyA7-UMd-EPAxAnxywdjq270MRcyOyiLaAMB1UbA-wtY0deFxc2CvFxPperGr_lChrWa04QAtW_SEHsx_9Q2PcPvGCK6oIAKNecXtQnngFt9R9_gZ-PHY5AkEePgdjqO5n_-vbmBgat5DJx1JIfsjQnkQsYiL9Na8Tr--B3v7Ldp9zRcSarCKU",
+  "targeted_website": "https://kvs.gov.ua/",
+  "check_host": "256ded12k2ac",
+  "check_it": "true",
+  "mass": true,
+  "attacked_country": "UA",
+  "attacker_country_affiliation": "Unknown",
+  "check_details": {
+    "website_verification": "https://kvs.gov.ua/",
+    "check_date": "2025-04-28",
+    "check_results": {
+      "au1.node.check-host.net": [
+        [
+          0,
+          0.818102121353149,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "bg1.node.check-host.net": [
+        null,
+        {
+          "message": "Connect timeout"
+        }
+      ],
+      "br1.node.check-host.net": [
+        [
+          0,
+          0.817332983016968,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          0,
+          0.122457981109619,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          0,
+          0.228840112686157,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          0,
+          0.140164852142334,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          0,
+          0.109836101531982,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "es1.node.check-host.net": [
+        [
+          0,
+          0.252037048339844,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "fi1.node.check-host.net": [
+        [
+          0,
+          0.222208976745605,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          0,
+          0.178002834320068,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        [
+          0,
+          0.192137956619263,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "hk1.node.check-host.net": [
+        [
+          0,
+          1.0824019908905,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "hu1.node.check-host.net": [
+        [
+          0,
+          0.177158117294312,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "id2.node.check-host.net": [
+        [
+          0,
+          0.939698934555054,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          0,
+          0.322263956069946,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          0,
+          0.574206829071045,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          0,
+          1.08991003036499,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "ir1.node.check-host.net": [
+        [
+          0,
+          0.487684011459351,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "ir2.node.check-host.net": [
+        [
+          0,
+          0.523498058319092,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        [
+          0,
+          0.543883800506592,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "ir5.node.check-host.net": [
+        [
+          0,
+          2.10009717941284,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          0,
+          0.865399122238159,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          0,
+          0.263224124908447,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          0,
+          0.99394702911377,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          0,
+          0.540701150894165,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          0,
+          0.0922729969024658,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          0,
+          0.107614040374756,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          0,
+          0.160830974578857,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          0,
+          0.079254150390625,
+          "No such device or address",
+          null,
+          null
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          0,
+          0.16887903213501,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          1,
+          0.179859161376953,
+          "OK",
+          "200",
+          "213.160.146.51"
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          0,
+          0.324712991714478,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          0,
+          3.31346297264099,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          0,
+          3.06074500083923,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          0,
+          3.07551598548889,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "ru3.node.check-host.net": [
+        [
+          0,
+          0.320394992828369,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          0,
+          3.04214787483215,
+          "Connection timed out",
+          null,
+          null
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          0,
+          0.248785972595215,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "sg1.node.check-host.net": [
+        [
+          0,
+          1.82350182533264,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "tr1.node.check-host.net": [
+        [
+          0,
+          0.297684907913208,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          0,
+          0.241003036499023,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          1,
+          0.155867099761963,
+          "OK",
+          "200",
+          "213.160.146.51"
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          0,
+          0.0343310832977295,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          0,
+          0.216502904891968,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          0,
+          0.18596887588501,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "us1.node.check-host.net": [
+        [
+          0,
+          0.493227005004883,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          0,
+          0.434530973434448,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          0,
+          0.565544843673706,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          0,
+          1.00126504898071,
+          "Broken pipe",
+          null,
+          "213.160.146.51"
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": true,
+  "processed": true,
+  "additional_image_original": "https://i.ibb.co/SDG0hZ9q/photo-2025-04-28-15-48-19.jpg",
+  "original_image": "https://example.com/default.png"
+}
