@@ -1,0 +1,473 @@
+{
+  "report_type": "ddos",
+  "group_name": "ANON-KH",
+  "actor_name": "",
+  "operation_name": "",
+  "network": "unknown",
+  "targeted_website[]": "https://kcf.vn/",
+  "check_host[]": "2578a06bk5ab",
+  "check_it[]": "on",
+  "attack_date": "2025-04-29",
+  "additional_image": "",
+  "g-recaptcha-response": "03AFcWeA4Wbq8lUNcQtv7hGcRUoVnRlCpK3zUZiJpR7QtsQrmNX9E-4aVK3WwkBbky6g7ceMUXdM22WHaw9-SVEgTQXEPKrBl6emOY-_TI55GtyRzQMpJpOfAzf1wdxQ0HUNGSrBhKeNMvLAwnP0OPmzJFTw__2VTEC_PF34_2JltO0gEffy-llZ99UM6fEZHkn7b2fqTtDjuQvrQzxsw-OQHDZ8T7JKng2xVMUxxCTS2KkimevFQ-1sY1KfCokxAMtz0OU07WyM-RPjDhELH6Wi-EgizhECQ80gFKjqvCLzYBbO-tLhVVXFjgV_y5ctimqQc9bYv0O1LbxeT9rdMEh_cHcn3tox6WatJd5IWvDmcwoXT-wvT2tFfy9GVvdOrdReSSEX9ZmjBVeKH8nDJ4l-xT9CE8B7hbdRjACI44gfvSYr6Q-pMBdccywa6mLm8--pqScPgko3up3N9y6lAE7IZBb65v36ZlHhCnpKUjzCguKfybiDL-iiKWBycdWM38snmzwdHg2KPGgnJML7_NXVQJ1125u_kkmidh8IQuC-oSd3lkt5sJmVvSzVnMelx-5h_aewVZ16z39i2r94hU-m_wQJi-SvWPOfPESojPVinYO_6_44aAu-iPVYScnwBsDzAojyDi41sHFd4ZcJjWJW-Wv2jnfdi0yi0_gDwsQ1YERkG57pb_SkjYTWBVyIttcagTIWIYrO_zdpx6zghdXY1Bk9rgjBXmP3Ojfhz3X65K571DbNQNKjY9J0qtSvd9R88L3BcALkYQHaW9U1Xhe0CmgVJ-GMlkLvlqq6brHJ2_nnwDcoPzg6f0djn3K63QR6lYhbl0bP3BsDAruOtkg4GvUrkSgEBFifL6iBRo5HmB7Ilofsu0lrXIiXJCWkGPK-lz8pd6piXqBMJ14BuijVTkgydG6lHhGFvpHQawaEX3OuhwWBqhj2URCrbFMXVSMyv-zntJ0FvRstLqS4KBsLy2nFiWwFjZ63qET9-4YezM3BctFKz200EXbH-3svMqmIa5ReyTYfsCmj9JP3Lxocu12xpedOarFK31eFq2zvHTIXOoSNJIe9Cbx8AyQwHnhxzxoNQXm76H1Gc1KtXEUC3---njFoJaVDl8uf9N-qR2meN2unh0R4UWtaj2_8L4sH8_tfQdq82t4_yzSQH5V7-Fll0lQdY112b_DWjqKOUi2f3r2M_ho16_Jnd6-LcU_LLx_nK3QUqz4Qu7Cd6tLaQ8EmDQVqiOHThWMtRMu0P_rtvEHfU9ohhy6ccAJwz7Qy682TVS-l8hxluKQDIwElVzG2jNql3cJu4FqRUiI3V5HX3u9_T-R9y4TJ0C_DL8pZRuomsBVk5NQATsY5tdHAsN-b3WRWKFagowHIisyxMG8zWXSww2Ui0XZxAM2TAIVrAQIpcpeeNjbTARILEnxLwntEdA-xM9NKnLvyi-KCYTeMzjOxYljHlZK2KkZiDcyT-xVN04fErmRERppIumQZRDhtZQo46VpSxFGKk1K2Q3vJpUYSLk5-UA7io04w4sz_6jZyyfeQL9gEocgE5sh8_Abxz6bpi94TYHWb95Puscr1RRj0JFWnQWIeYmUCapZ5gHXUckz4VFxsE68ROFshTOUZ7T2Gv8QNug9EN4xZZYzK6l-7l7Kew2BptorlujsGM8xuEqDXG9tWTpI7IxtJnqgK0OLp4BTTbVZBr8yNQdJbbaX5dHu1c_5DMy05yeGRzUe4HEcdTFlosRIj9iX4qx9Vj3BF5DDjK3lPuRPIhpRwQ45pZzBDGyRzsPsr0Je2WmHryE869dhtYKgVgUlKQAwivrSZqmFw8fQclMUgWGXnFwdL1RMD_BjQvZInpZdMmyzBYWuEWFjAgJTqZ6k8yDYGg8Rbk3x9juyALFmfF_udHD9-0MWt-lDqGOeFw7K4CKA7s25qrWOD3mYhsK4yN2K7Cgp7PVO_9ObuBF7ZPshkZiDLhZE65v0ziJIICXDHYHB8Tes4T6LJLkY40Y2igT51lD51t7qkAjqrQeqRhAEoarJnnEeZn8uUIKHYPW05p-Avo-D7Sfyj-_nFvwnTHPHjwwqt10_vz0oqX5-elDtACcIi5UUKfKbgslraWyykCsB0nT9nDz-GTWTtTggdeHJ6BQ7pXYtlaEsV5tlh3s9U3Khrvrq0PZVxA3LWjjW3brOJ9fJQrTUmWF-S6K3BJbvyrQSvV2BmjIttqFx0HhxsthfLHBOVd64rlLoEHEhUFVUaiHWkt3zqq29rvqhYQB8XPib6-9bGNdmqep__nBoLbkfBNQkMxa5CtVj1eH33UX6oyKNf0pDyB2OJc0sPbTZRaNGidOez2dljCEsqHy1UnQpOqBY-4",
+  "targeted_website": "https://kcf.vn/",
+  "check_host": "2578a06bk5ab",
+  "check_it": "true",
+  "mass": true,
+  "attacked_country": "VN",
+  "attacker_country_affiliation": "Unknown",
+  "check_details": {
+    "website_verification": "https://kcf.vn/",
+    "check_date": "2025-04-29",
+    "check_results": {
+      "au1.node.check-host.net": [
+        null,
+        {
+          "message": "No route to host"
+        }
+      ],
+      "bg1.node.check-host.net": [
+        [
+          0,
+          1.7833559513092,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "br1.node.check-host.net": [
+        [
+          0,
+          1.43618106842041,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          0,
+          0.839033126831055,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          0,
+          0.764534950256348,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          0,
+          0.783350944519043,
+          "Forbidden",
+          403,
+          "103.45.229.116"
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          0,
+          1.18472099304199,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "es1.node.check-host.net": [
+        [
+          0,
+          1.57638907432556,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "fi1.node.check-host.net": [
+        [
+          0,
+          1.68886995315552,
+          "Forbidden",
+          403,
+          "103.45.229.116"
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          0,
+          1.55499315261841,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        [
+          0,
+          0.715620040893555,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "hk1.node.check-host.net": [
+        [
+          0,
+          2.22412586212158,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "hu1.node.check-host.net": [
+        [
+          0,
+          0.932912111282349,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "id2.node.check-host.net": [
+        [
+          0,
+          0.327414989471436,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          0,
+          0.960319995880127,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          0,
+          1.35340595245361,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          0,
+          0.512961864471436,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "in2.node.check-host.net": [
+        [
+          0,
+          1.05576682090759,
+          "Forbidden",
+          403,
+          "103.45.229.116"
+        ]
+      ],
+      "ir1.node.check-host.net": [
+        [
+          0,
+          1.43669605255127,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "ir2.node.check-host.net": [
+        [
+          0,
+          3.81206083297729,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        [
+          0,
+          1.77732300758362,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "ir5.node.check-host.net": [
+        [
+          0,
+          1.79969382286072,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          0,
+          1.91396307945251,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          0,
+          1.94375395774841,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          0,
+          0.463558912277222,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          0,
+          1.05530714988708,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          0,
+          1.55751013755798,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          0,
+          1.41616201400757,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          0,
+          1.42033195495605,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          0,
+          1.1223840713501,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          0,
+          1.54704904556274,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          0,
+          1.48310685157776,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          0,
+          1.52149105072021,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          0,
+          1.22946119308472,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          0,
+          1.49494194984436,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          0,
+          1.54053616523743,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "ru3.node.check-host.net": [
+        [
+          0,
+          2.10350799560547,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          0,
+          1.21478796005249,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          0,
+          1.30372714996338,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "sg1.node.check-host.net": [
+        null,
+        {
+          "message": "No route to host"
+        }
+      ],
+      "tr1.node.check-host.net": [
+        [
+          0,
+          1.30036497116089,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          0,
+          1.51682591438293,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          0,
+          1.32607984542847,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          0,
+          2.0220410823822,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          0,
+          1.21166086196899,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          0,
+          1.32705402374268,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "us1.node.check-host.net": [
+        [
+          0,
+          0.721151113510132,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          0,
+          1.30352592468262,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          0,
+          1.72532987594604,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          0,
+          0.854794025421143,
+          "Forbidden",
+          "403",
+          "103.45.229.116"
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": true,
+  "processed": true,
+  "original_image": "https://example.com/default.png"
+}
