@@ -1,0 +1,22 @@
+{
+  "report_type": "ddos",
+  "group_name": "SABY FK",
+  "actor_name": "FK Boii",
+  "operation_name": "Ddos",
+  "network": "Crtz",
+  "targeted_website[]": "https://khmer-smm.com/",
+  "check_host[]": "",
+  "check_it[]": "on",
+  "attack_date": "2025-04-30",
+  "additional_image": "",
+  "g-recaptcha-response": "03AFcWeA6k8SoeK9gJ8U5hpS8MbliXTHjfMTMHxA15_753gEIEZYYOV7fZ-Pach7hSNuap6CHTare_ytKgs2DGCdMmBHI1B2BDuQGXJE-AKZxEsy4zVjGe0Twt8yrSSCSrSQ1YVBHvB4MRStyetN8tsAIavIYfIBfzCVORnfM-UFLkb64GDG-c86Sd622Aj6T-7Dna1q-imHV-BkIUeaGgK2gw_QfD5cSUVmNgWhT0RK7K0ERiMI9C9X_4p-i4jnzav8aFnnlLb6FI-YFT7dihSqJ-a9qrhzHLYX6-u3Ef5GR0Ou2mU3Nuy3iNUaH0R-RVlKCGpFREdXHE74G7dsvvkFsTw1b4nrWn13CGXc8cWIDl1G2o-w9kEeh2HnDfC42yHxkAylbci1cJei1mI7Bq6hEELq41RSO39fU5Ee5f6AxrQp093dv43jy1VpmwNsGKFnHWmsz8wotQKvHKozPwnizj2pibu0C-b-rXRrdz_jb29yTu5krZOLXs-WBvFS9g2WHOqhCGDLwxl3A38FMAU0ljfk9gUnnbhV_HSWXma0cSo1fmUgP_xBY_emhtgiTvygDqlAH_Frh_4G6Dsr4rmWg3c2ch6k1rnUZww_N0hQeJcUfWXAfFOtBAZcQGDZeu6MlktH1J-_OWvPic3fMSwayBIMvTClUHt2TeEiFBXDCP9QFC-PfgZraDYmtQbI1A9MYJvEs31eaq8meSzuTw4FC_7vi-x9kkdH3iXdbuwJa98pQrdpmfUShw8seQpO9jkVgU4PziTkwOdsFkftNwe8HAQvX7b-0B8jzpiUjDc4tM6MYwKdvdkfgzN1KaxQ2YF-w5ETtJ6TqmVT-ALnj_gb-sh4YjjwLyQaCvWGq35oNekH5K9xBVNoTKWAUbnSjiINjwCDIACuN4KFC-MT4OffHOoXCJKOa9NyFONaEY08SaxaUGKPmFzQqGXWZDHHBMCtjut-I4YjOSW6eKx8gMyUWLwLOHuC8ASkgRWkHzPMPBaENdWcZaSkdPup-TBg8ACkBbS33us9ej4aOI6pWaP8-Tyon0zrkrlbTryrWfMUPA4Ac7qjqzNOsDQj1oYCZOKrs17ahtjFR9vAZmhkr-Pup0AOtA8YJ6Hqh-HMv9jW1gWE8TM6MMBuJjWO2M0kbCh_1dp_bBa88Pe0UWz0GfqHPy9dn1CewQOsitqyImTZuS_6nRvJ40PuUxfXMFqF4qejh38s0uowQwkwbyV71SSZpXGjQfazPY47f-NoBeDhtPoDBa0hddtE3KjyUebj_c2_WELoAbCTHATpDfQGTFSnSKmNxf_v-jJTYLmKI_rKC8XBJASm-K5CM3wSfHHR2_1FlGK_uv8xgP2orGgicYEFCODZaBWBqiVGkSCXSgZmwSkHJw5trrI6UMsm8qZbgbqz2c14Tzgx7yh0h4AUIrYI1QC6fL89YOzB3MhMDr3HDUtC6g3tpKsXWd6BKmo8gsVX36lPGbriF41Hsfo-QUXSyWljd6GgnMvPzEppLJw-SEYiN6iQFdxuRxF3M4SmssWiOf-sE1uBKQwoxAKgvQRoUBGHrKO_itTeO6QE3K3Zl5KGYqRvYOKHpB_teHhdV130RFycoP6hjUatFaaHlwWCpnS5iF1dOGWFRvxP4AXVqD4MuzXldeE80D__SCghM5jYxavQqSFUYt4DastT0LV1-mvY5VLLHsJ8WF3EjbJQEGWryK10O105m_TfaFBM5JPxhL6b6mbFNtZlY5XEEizth29c2bSXBJ6lOm6-Sb-hcfW_L1OrCbpSmOPBbMVcohBpz00dMqWI8Aayyjmq8j32NtlOV_yYRLJx_GVa_SoXaRnfu6qe3OUWchfkZBnCNTMOLT9-X4jpbZGvXW3uw_1iJ5-8mGfScw_Y7NzSIpoOayNKgLWLcSO5OE_csC847H6aydsDeh63UFMv4NbxzxnGOcEl1c-eI8odBg-2HI6s2ZsBm3Ca65qj5hv99ptUZ3rpYOZpyHjQNQ3CBW30jsndAnSaSlskvpY7jIjuBGOOBajLmyQiM1DtBl5pudy7AePK40xvA52bq8",
+  "targeted_website": "https://khmer-smm.com/",
+  "check_host": "",
+  "check_it": "true",
+  "mass": true,
+  "attacked_country": "FR",
+  "attacker_country_affiliation": "Unknown",
+  "unverified": true,
+  "processed": true,
+  "original_image": "https://example.com/default.png"
+}
