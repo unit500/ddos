@@ -1,0 +1,462 @@
+{
+  "report_type": "ddos",
+  "group_name": "Anon Sec",
+  "actor_name": "",
+  "operation_name": "Hack For Humanity V4",
+  "network": "unknown",
+  "targeted_website[]": "https://www.uaqpolice.gov.ae",
+  "check_host[]": "25957228k233",
+  "check_it[]": "on",
+  "attack_date": "2025-05-02",
+  "additional_image": "https://unit500.python-myth.info.s3.amazonaws.com/ddos/2025/05/02/dcd_gov_ae/files/additional_image.jpg",
+  "g-recaptcha-response": "03AFcWeA5WBSHSMOEULKCENSEcufqFo6AKgrjNxxwlLM3g5plb-UsjPX83agmkYrLFi-cKoz2eh7_p1G6_vOG8LqgJg05sgcvIqYAg4--NYdbu3fJ2VfrDnOPPWzLKCdLHs4h6zfi5U0b_d_r5hTO0r2uVmMAVnAXdPXSSdtDFlwKdyKPI0F2cw-yLPXmOf-Z3gMplLH8bmeRwoOEXou_SiKke97buQXaouvHpH6WqdeKP3aiYeTdTbualxMGx4_sv8VgeINklTghnLjoY4a1H2i8xi4Ie4Ae9EHl2DrkxvGmg9lWlkSELtfYNeB-CC9imPtp4HD6q7VOqSCuY042XPTRZZXj6VGz1iC_o80YGgxq9R7cjHll29obV2XQiXc-1vRQ5gaTJhoUQPLsWk2_NZeYNYJZL51RLVRC88vQZZYpsZNo1PnmiZl6bhriXHxrPZ745Tl7hGaad8FIJAxCgEHsw7GriveSeGwMLuGTFdLbBNqPvh-mwEM7_J6GFgiLp1uuWLUiMhSizbaGgps20-lrMBL5vcxppbvKGntGuT2UUd11U9Zqoh0ALjlkl3yY6F7JOGeUN-f_RCpu89Co-hO93H0l66VWZia5hViGGwpPwP9QTCSiZ476M5eiptmftcWLQnqkuo1n6oHY1fGSnD7hCV_d2_eOuB0a5plRF5ssZDS5HCsEMn1wV3h2hb8OPhKiqC6e5lrxDoO6ZibQP0k7YkfPvQ5HgfVrC8u-mXjhL_F6BGRAu65vSaYC3inHDW5qzkxQjMm7mZ3qx321_qBTSG0KB_nab-IRTdQywux7IePIv75CiBEePLTQjaQ8Qrj4OR2tY3FBy_H4I2MGJOsrR2UJ_UScU9ciy5InuZw80UioeZaWkptBGrSMLymEiYQsbAYqriFZiaJ1Y0r8UoBFLaCfI8soTensEGB-tzJWzN_xRUHVFA2Og1kQhCfHqfzmQ-4KNCF0r5tWZCtBcvSj3yyIBSqJCf_mMTDxzWJMWVp3A-hhp9sA4mwpfgK5Sf606oEty6zYX55t8VUzUNdG7nQQ-dN9tNBNlp8oZO1sFcrisszusnQyJ6jeUgTewNJJCROawcAUYj1k6HsuNkne_iogkiWPpbt1O6R77WfMObicbElC3sE9yzt3gnmXpMnGrAG9YUPzY57tORoZgNt-In5qvdTfTQcwejHRLS-ymdGofyIdsns436mr18sOhaAMbpjY8R993cfGcG4YAo3AMcC8JQ2b_kii6K1M1E82k7Ngo895dpJTVS44KVUziqxRg2--kkgUM5W3ohqTNDQii5OfcDfDWq1SI0kpmp6Qth0DupxPouhGbcky8owORTucE3_NIfXcxPfvIrCy8F5PlX7LzQ9igZJwtOvcFeKGoKwTnC_C59Z5XPkzw-5vgE20fU_pPU3d1DrNRj-0jjiyFeaAAFC8bSy7-OnLrUvwTv3WN84yrnvl15RsSf0RXnDTofbtBf5Uv6pw2rGp9PUJ-TDHof1sUKVsqoe8JSV06QPgJY8Wdw64ChfKbgMo2GS-8IilZ5A7-M92kDZVPFdsbIKlfbJnfHu9Sl5SLrqJTG70SBmfn7WjSpbAegZkJLEGvOFhRIG3FePzjxmzsAHSm-tdYfPfu0MlI8m09mZG8u6bjjB-fRTlpN9_NeC0C-uWekG7J2tjXlEEkxhUAbNNAJp8MC64tRXZwnrRF0yYwkvVtU1P-bGwV-ORtAOa3mhiQFoMgeFLpxh2V89hdS0dpcQZpXlCUFUnzSKT0Nyct2WvU4k4IOgThcu8VwXGUp5sNNxdUit2rHXAND_GLcnm41vHSUN1ZlV9xqhvwk7y5fiE_Lyb8of-AYKrbnBQxpHVCqgGqP9VHBJ_VxH7WmVaQfqElRXOyr05d_K7y-3rtf6nsrd5oC6FW4Xmt1mI8gdrfsjCSZD-W4cDN71bcyKbA35TgVZMWC0U8IzJtJhSkoLpr0M-RTzLaPVgWQqYepzODE5hcCUf1C1xqc7Mn2yL3XckFXELmRWKvruX56feHzs7oWNrmQDblor3c3beHG0ZX2R3TCZc02ODK8aWDqLkf86zGpj5fgip3FQwE8Gybln7oPhx74W-ldi34eQF8dUrq7XJqABIBJeAdlq_m2g2VTGqibXA58lZYB5LJVaXMsxkLPyHzRjsfuZyDzQLXXRC_50TxsWhdmTnWu3Jes94fbSqZdpiEvzDIwvhB-FnSTvgJo7DFatY0hbIStJbZb8Jv7i8XO2q90SPOe5EtdiqTNbss5QCMgHx0k6tOYn9WzJib1CoHGAVbY28tSbgx0dEmPQlvcoeV",
+  "targeted_website": "https://www.dcd.gov.ae",
+  "check_host": "2595667fkd27",
+  "check_it": "true",
+  "mass": true,
+  "attacked_country": "AE",
+  "attacker_country_affiliation": "Unknown",
+  "check_details": {
+    "website_verification": "https://www.dcd.gov.ae",
+    "check_date": "2025-05-02",
+    "check_results": {
+      "bg1.node.check-host.net": [
+        [
+          0,
+          0.73471212387085,
+          "tls_process_ske_dhe: dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "br1.node.check-host.net": [
+        [
+          0,
+          1.04016208648682,
+          "tls_process_ske_dhe: dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "ch1.node.check-host.net": [
+        [
+          0,
+          0.273052930831909,
+          "tls_process_ske_dhe: dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "cz1.node.check-host.net": [
+        [
+          0,
+          0.597275018692017,
+          "tls_process_ske_dhe: dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "de1.node.check-host.net": [
+        [
+          0,
+          0.433818817138672,
+          "tls_process_ske_dhe: dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "de4.node.check-host.net": [
+        [
+          0,
+          0.595201015472412,
+          "tls_process_ske_dhe: dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "es1.node.check-host.net": [
+        [
+          0,
+          0.590550899505615,
+          "error:0A00018A:SSL routines::dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "fi1.node.check-host.net": [
+        [
+          0,
+          0.802615165710449,
+          "tls_process_ske_dhe: dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "fr1.node.check-host.net": [
+        [
+          0,
+          0.601521015167236,
+          "error:0A00018A:SSL routines::dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "fr2.node.check-host.net": [
+        [
+          0,
+          0.563383817672729,
+          "tls_process_ske_dhe: dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "hk1.node.check-host.net": [
+        [
+          0,
+          0.643739938735962,
+          "tls_process_ske_dhe: dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "hu1.node.check-host.net": [
+        [
+          0,
+          0.587821960449219,
+          "error:0A00018A:SSL routines::dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "id2.node.check-host.net": [
+        [
+          0,
+          0.625739812850952,
+          "error:0A00018A:SSL routines::dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "il1.node.check-host.net": [
+        [
+          0,
+          0.642100095748901,
+          "error:0A00018A:SSL routines::dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "il2.node.check-host.net": [
+        [
+          0,
+          0.554644107818604,
+          "error:0A00018A:SSL routines::dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "in1.node.check-host.net": [
+        [
+          0,
+          0.534809112548828,
+          "tls_process_ske_dhe: dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "in2.node.check-host.net": [
+        [
+          0,
+          1.6000349521637,
+          "error:0A00018A:SSL routines::dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "ir1.node.check-host.net": [
+        [
+          0,
+          0.553347110748291,
+          "tls_process_ske_dhe: dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "ir2.node.check-host.net": [
+        [
+          0,
+          2.6221661567688,
+          "error:0A00018A:SSL routines::dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "ir3.node.check-host.net": [
+        [
+          0,
+          0.611394882202148,
+          "tls_process_ske_dhe: dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "ir5.node.check-host.net": [
+        [
+          0,
+          0.951169013977051,
+          "error:0A00018A:SSL routines::dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "ir6.node.check-host.net": [
+        [
+          0,
+          0.553871870040894,
+          "error:0A00018A:SSL routines::dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "it2.node.check-host.net": [
+        [
+          0,
+          0.409877061843872,
+          "tls_process_ske_dhe: dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "jp1.node.check-host.net": [
+        [
+          0,
+          0.697148084640503,
+          "error:0A00018A:SSL routines::dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "kz1.node.check-host.net": [
+        [
+          0,
+          0.95986008644104,
+          "tls_process_ske_dhe: dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "lt1.node.check-host.net": [
+        [
+          0,
+          0.513160943984985,
+          "tls_process_ske_dhe: dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "md1.node.check-host.net": [
+        [
+          0,
+          0.335753917694092,
+          "tls_process_ske_dhe: dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "nl1.node.check-host.net": [
+        [
+          0,
+          0.634877920150757,
+          "tls_process_ske_dhe: dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "nl2.node.check-host.net": [
+        [
+          0,
+          0.273458957672119,
+          "error:0A00018A:SSL routines::dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "pl1.node.check-host.net": [
+        [
+          0,
+          0.291697978973389,
+          "tls_process_ske_dhe: dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "pl2.node.check-host.net": [
+        [
+          0,
+          0.291170835494995,
+          "tls_process_ske_dhe: dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "pt1.node.check-host.net": [
+        [
+          0,
+          0.544568061828613,
+          "tls_process_ske_dhe: dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "rs1.node.check-host.net": [
+        [
+          0,
+          0.743443965911865,
+          "tls_process_ske_dhe: dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "ru1.node.check-host.net": [
+        [
+          0,
+          0.34818696975708,
+          "tls_process_ske_dhe: dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "ru2.node.check-host.net": [
+        [
+          0,
+          0.567559003829956,
+          "tls_process_ske_dhe: dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "ru3.node.check-host.net": [
+        [
+          0,
+          0.791912078857422,
+          "error:0A00018A:SSL routines::dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "ru4.node.check-host.net": [
+        [
+          0,
+          0.695330858230591,
+          "tls_process_ske_dhe: dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "se1.node.check-host.net": [
+        [
+          0,
+          0.874866008758545,
+          "error:0A00018A:SSL routines::dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "tr1.node.check-host.net": [
+        [
+          0,
+          0.609854936599731,
+          "tls_process_ske_dhe: dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "tr2.node.check-host.net": [
+        [
+          0,
+          0.814491033554077,
+          "tls_process_ske_dhe: dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "ua1.node.check-host.net": [
+        [
+          0,
+          0.728048801422119,
+          "tls_process_ske_dhe: dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "ua2.node.check-host.net": [
+        [
+          0,
+          0.46441912651062,
+          "tls_process_ske_dhe: dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "ua3.node.check-host.net": [
+        [
+          0,
+          0.537254810333252,
+          "error:0A00018A:SSL routines::dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "uk1.node.check-host.net": [
+        [
+          0,
+          0.488621950149536,
+          "error:0A00018A:SSL routines::dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "us1.node.check-host.net": [
+        [
+          0,
+          0.794812917709351,
+          "tls_process_ske_dhe: dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "us2.node.check-host.net": [
+        [
+          0,
+          0.559658050537109,
+          "error:0A00018A:SSL routines::dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "us3.node.check-host.net": [
+        [
+          0,
+          0.819202899932861,
+          "tls_process_ske_dhe: dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ],
+      "vn1.node.check-host.net": [
+        [
+          0,
+          0.26369309425354,
+          "error:0A00018A:SSL routines::dh key too small",
+          null,
+          "213.42.53.21"
+        ]
+      ]
+    },
+    "check_report_image": ""
+  },
+  "verified": true,
+  "processed": true,
+  "additional_image_original": "https://i.ibb.co/pjHPRDfH/photo-2025-05-02-09-14-13.jpg",
+  "original_image": "https://example.com/default.png"
+}
