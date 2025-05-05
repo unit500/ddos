@@ -1,0 +1,22 @@
+{
+  "report_type": "ddos",
+  "group_name": "test",
+  "actor_name": "test",
+  "operation_name": "test",
+  "network": "Nocturnal",
+  "targeted_website[]": "http://second-test.com",
+  "check_host[]": "",
+  "check_it[]": "on",
+  "attack_date": "2025-05-04",
+  "additional_image": "",
+  "g-recaptcha-response": "HFNTNoJkpJd2sbJCRdGxlMGlMWMlhsJ1MubkBjYWEJdVQISGoKZl1gNWgrGWlIc2YwUXZZUUAbHAZZCSMVQkcLAnkfSzxkACtTDxVxBnd2WTkxKFp7SxZgKgZvMgYMRjRaBB4pEmZmFid3H3l_eA1lDw0EbUYsKl1_bixGMyB6PwN_ESVGFgdCLARmdyQ6XQZNHEF1ZGIbficKWWxr",
+  "targeted_website": "http://test.com",
+  "check_host": "",
+  "check_it": "true",
+  "mass": true,
+  "attacked_country": "US",
+  "attacker_country_affiliation": "Unknown",
+  "unverified": true,
+  "processed": true,
+  "original_image": "https://example.com/default.png"
+}

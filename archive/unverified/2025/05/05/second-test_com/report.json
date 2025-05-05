@@ -1,0 +1,23 @@
+{
+  "report_type": "ddos",
+  "group_name": "test",
+  "actor_name": "test",
+  "operation_name": "test",
+  "network": "Nocturnal",
+  "reason": "politics",
+  "targeted_website[]": "http://second-test.com",
+  "check_host[]": "",
+  "check_it[]": "on",
+  "attack_date": "2025-05-05",
+  "additional_image": "",
+  "g-recaptcha-response": "HFaW1nehRGKzUUeHpSR0dDRg0ZbgZjew0hMh5rODsJIQoFFTQFOgNvaTYkRTdHLzg_DShWDR4UQFhWVX0aHhkEXicQF2JrXHVcU0t-Wil5BWc-dAR0F0hvdlhgblgDGmpVWEAmTjhpSnl4QydwJFNqU1MLMRgjdgNwMnJJb351Y11wTXtJSllNcFppK3o1AVhCQB96ODwUInkFBTJk",
+  "targeted_website": "http://second-test.com",
+  "check_host": "",
+  "check_it": "true",
+  "mass": true,
+  "attacked_country": "Unknown",
+  "attacker_country_affiliation": "Unknown",
+  "unverified": true,
+  "processed": true,
+  "original_image": "https://example.com/default.png"
+}
